@@ -1,4 +1,4 @@
-# 🚀 KCET Exam Platform
+# ➡️ KCET Exam Platform
 
 A full-stack application for generating, managing, and taking custom Mock and Practice exams. 
 
