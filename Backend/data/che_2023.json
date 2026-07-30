@@ -1,0 +1,1238 @@
+{
+  "metadata": {
+    "exam_name": "KCET",
+    "year": 2023,
+    "session": "B2",
+    "subject": "Chemistry",
+    "total_questions": 18,
+    "total_marks": 18,
+    "duration_minutes": 90
+  },
+  "questions": [
+    {
+      "question_id": "KCET-2023-CHEM-Q1",
+      "question_number": 1,
+      "question_text": "A pair of compounds having the same boiling points are",
+      "options": {
+        "A": "cis but-2-ene and trans but-2-ene",
+        "B": "n-hexane and neo-hexane",
+        "C": "benzene and naphthalene",
+        "D": "(+) butan-2-ol and (-) butan-2-ol"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q1-ANS",
+        "option": "A",
+        "answer_text": "cis but-2-ene and trans but-2-ene"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q1-SOL",
+        "solution_text": "The answer is (A) cis but-2-ene and trans but-2-ene.Here's why:Cis and Trans isomers: These are isomers that differ only in the spatial arrangement of their atoms around a double bond.Intermolecular forces: Boiling point is influenced by the strength of intermolecular forces between molecules.Similar Functional Groups: Both cis-but-2-ene and trans-but-2-ene have the same functional group (a double bond) and similar molecular weights. This leads to similar intermolecular forces (primarily van der Waals forces) between them."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Hydrocarbons",
+        "topic": "Geometrical isomerism and physical properties (boiling points)",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q4",
+      "question_number": 4,
+      "question_text": "If a didentate ligand ethane -1, 2 - diamine is progressively added in the molar ratio en: Ni :: 1 : 1, 2:1, 3: 1 to [Ni(H2O)]2+ aq solution, following co-ordination entities are formed.I. [Ni(H2O) 4en]2+(aq) - pale blueII. [Ni(H2O)2(en)2]2+(aq) - blue/purpleIII. [Ni (en)3]2+ (aq) - violetThe wavelength in nm of light absorbed in case of I and III are respectively",
+      "options": {
+        "A": "475 nm and 310 nm",
+        "B": "300 nm and 475 nm",
+        "C": "310 nm and 500 nm",
+        "D": "600 nm and 535 nm"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q4-ANS",
+        "option": "A",
+        "answer_text": "475 nm and 310 nm"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q4-SOL",
+        "solution_text": "Imagine a nickel ion (Ni²+) surrounded by water molecules and some special molecules called \"en\" (ethane-1,2-diamine). The way these water and en molecules arrange themselves around the nickel ion affects the energy levels of the electron orbitals in the nickel.Think of the electron orbitals like little boxes where the nickel's electrons can hang out. Normally, some of these boxes have the same amount of energy. But when water and en molecules crowd around the nickel, they push on the electrons in certain ways, making some boxes higher in energy and some lower.When the nickel is surrounded mostly by water (like in complex I), the pushing isn't very strong. So the difference in energy between the boxes isn't huge. If the nickel absorbs light, it might take in a color towards the red end of the rainbow (around 475 nm) because the energy jump for the electron isn't that big. This makes the solution appear pale blue.On the other hand, when the nickel is surrounded by all \"en\" molecules (like in complex III), the pushing is stronger. The energy difference between the boxes gets bigger. In this case, the nickel might absorb light with a shorter wavelength, like a blueish color (around 310 nm). This makes the solution appear violet.So, the color of the solution depends on how the en molecules are attached to the nickel and how much they push on the electron orbitals. The answer choices with 475 nm for the first complex and 310 nm for the third complex best reflect this relationship between the molecule structure and the absorbed light wavelength."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Coordination Compounds",
+        "topic": "Crystal Field Theory (CFT), Color in coordination compounds, Spectrochemical series",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q5",
+      "question_number": 5,
+      "question_text": "Which of the following is an organometallic compound?",
+      "options": {
+        "A": "CH3COONa",
+        "B": "CH3CH2MgBr",
+        "C": "(CH3COO)2Ca",
+        "D": "CH2ONa"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q5-ANS",
+        "option": "B",
+        "answer_text": "CH3CH2MgBr"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q5-SOL",
+        "solution_text": "The organometallic compound among the given choices is: (B) CH3CH2MgBr (Ethylmagnesium bromide)Here's why:Organometallic compounds: These are chemical compounds that contain at least one metal-carbon (M-C) bond, where the carbon is part of an organic molecule (hydrocarbon)."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Organometallic compounds, Grignard reagents",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q6",
+      "question_number": 6,
+      "question_text": "A better reagent to oxidize primary alcohols into aldehyde is:",
+      "options": {
+        "A": "PCC",
+        "B": "Alkaline KMnO4",
+        "C": "Acidified K2Cr2O7",
+        "D": "CrO3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q6-ANS",
+        "option": "A",
+        "answer_text": "PCC"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q6-SOL",
+        "solution_text": "The better reagent to oxidize primary alcohols into aldehydes is: (A) PCCPCC stands for pyridinium chlorochromate. It is a mild and selective oxidizing agent commonly used for the conversion of primary alcohols to aldehydes. Unlike stronger oxidizing agents like acidified potassium dichromate (K2Cr2O7) or chromium trioxide (CrO3), which can further oxidize aldehydes to carboxylic acids, PCC stops at the aldehyde stage.Alkaline potassium permanganate (KMnO4) is more suitable for oxidizing primary alcohols to carboxylic acids rather than aldehydes. Therefore, option (A) PCC is the correct answer."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Oxidation of primary alcohols to aldehydes",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q9",
+      "question_number": 9,
+      "question_text": "Aniline does not undergo",
+      "options": {
+        "A": "Nitration",
+        "B": "Sulphonation",
+        "C": "Friedel-Craft reaction",
+        "D": "Bromination"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q9-ANS",
+        "option": "C",
+        "answer_text": "Friedel-Craft reaction"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q9-SOL",
+        "solution_text": "The correct answer is: (C) Friedel-Craft reactionAniline does not undergo Friedel-Craft reaction. Friedel-Crafts reactions typically involve the substitution of hydrogen atoms on an aromatic ring with an alkyl or acyl group using a Lewis acid catalyst, such as aluminum chloride (AICI3) or ferric chloride (FeCl3). However, aniline, being a nucleophilic compound, reacts with Lewis acids to form complexes rather than undergoing substitution reactions like Friedel-Crafts. Therefore, option (C) Friedel-Craft reaction is the correct answer."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Amines",
+        "topic": "Electrophilic substitution reactions of anilines, Friedel-Crafts reaction limitations",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q10",
+      "question_number": 10,
+      "question_text": "The heating of phenyl methyl ether with HI produces an aromatic compound A which on treatment with con. HNO3 gives B. A and B respectively are,",
+      "options": {
+        "A": "Methanol, Ethanoic acid",
+        "B": "Picric acid, Phenol",
+        "C": "Iodobenzene, 1-Iodo-4-nitrobenzene",
+        "D": "Phenol, Picric acid"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q10-ANS",
+        "option": "D",
+        "answer_text": "Phenol, Picric acid"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q10-SOL",
+        "solution_text": "Phenyl methyl ether with HI cleaves to phenol (A) and methyl iodide. Further reaction of phenol with concentrated HNO3 leads to nitration, forming picric acid (B) with nitro groups on the ring."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Cleavage of ethers, Nitration of phenols, Picric acid",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q12",
+      "question_number": 12,
+      "question_text": "Sucrose is dextrorotatory but after hydrolysis the mixture show laevorotation, this is because of",
+      "options": {
+        "A": "Laevorotation of glucose is more than dextrorotation of fructose.",
+        "B": "Sucrose is a non-reducing sugar.",
+        "C": "Recemic mixture is formed.",
+        "D": "Laevorotation of fructose is more than dextrorotation of glucose."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q12-ANS",
+        "option": "D",
+        "answer_text": "Laevorotation of fructose is more than dextrorotation of glucose."
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q12-SOL",
+        "solution_text": "The answer is (D) Laevorotation of fructose is more than dextrorotation of glucose.Here's why:Sucrose is broken down into glucose (dextrorotatory) and fructose (laevorotatory) upon hydrolysis.Although glucose rotates plane-polarized light to the right (dextrorotation), the laevorotation of fructose is stronger in magnitude.In the resulting mixture after hydrolysis, the stronger laevorotation of fructose dominates, making the overall mixture laevorotatory."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Biomolecules",
+        "topic": "Carbohydrates, Sucrose hydrolysis, Inversion of sugar",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q15",
+      "question_number": 15,
+      "question_text": "Thyroxine produced in the thyroid gland is an iodinated derivative of",
+      "options": {
+        "A": "threonine",
+        "B": "lysine",
+        "C": "tyrosine",
+        "D": "tryptophan"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q15-ANS",
+        "option": "C",
+        "answer_text": "tyrosine"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q15-SOL",
+        "solution_text": "The answer is (C) tyrosine.Thyroxine is a hormone produced by the thyroid gland and it is indeed an iodinated derivative of the amino acid tyrosine. The presence of iodine is crucial for the proper function of the thyroid gland and thyroxine production."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Biomolecules",
+        "topic": "Amino acids, Hormones, Thyroxine",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q16",
+      "question_number": 16,
+      "question_text": "Which one of the following is a non-narcotic analgesic?",
+      "options": {
+        "A": "Heroin",
+        "B": "Codeine",
+        "C": "Aspirin",
+        "D": "Morphine"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q16-ANS",
+        "option": "C",
+        "answer_text": "Aspirin"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q16-SOL",
+        "solution_text": "The answer is (C) Aspirin.Narcotic analgesics are opioids, which bind to opioid receptors in the central nervous system to relieve pain. They also have psychoactive effects and can lead to addiction. Examples include heroin, morphine, and codeine (B & D).Aspirin is a non-narcotic analgesic. It works by inhibiting the production of prostaglandins, which are involved in pain and inflammation. It does not have psychoactive effects and is less likely to be addictive."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemistry in Everyday Life",
+        "topic": "Analgesics, Narcotic vs. Non-narcotic drugs",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q17",
+      "question_number": 17,
+      "question_text": "Receptors are proteins and crucial to body communication process. These receptors are embedded in",
+      "options": {
+        "A": "Cell membrane",
+        "B": "Protein",
+        "C": "Endocrine gland",
+        "D": "Chromosomes"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q17-ANS",
+        "option": "A",
+        "answer_text": "Cell membrane"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q17-SOL",
+        "solution_text": "The answer is (A) Cell membrane.Here's why:Receptors are specialized protein molecules located on the surface of cells or inside the cell (but mostly on the cell membrane).Their function is to receive signals from outside the cell (neurotransmitters, hormones, etc.) and initiate a specific cellular response.The cell membrane provides the ideal environment for receptors to interact with various signaling molecules in the body's communication network."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemistry in Everyday Life",
+        "topic": "Receptors, Cell membrane",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q18",
+      "question_number": 18,
+      "question_text": "Which of the following monomers form biodegradable polymers?",
+      "options": {
+        "A": "Ethylene glycol and pthalic acid",
+        "B": "Caprolactum and 1, 3-Butadiene",
+        "C": "Phenol and formaldehyde",
+        "D": "3-hydroxybutanoic acid and 3-hydroxypentanoic acid"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q18-ANS",
+        "option": "D",
+        "answer_text": "3-hydroxybutanoic acid and 3-hydroxypentanoic acid."
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q18-SOL",
+        "solution_text": "The answer is (D) 3-hydroxybutanoic acid and 3-hydroxypentanoic acid.Here's why:Biodegradable Polymers: These polymers can be broken down by microorganisms into harmless components.Monomer Suitability: The suitability of monomers for biodegradability depends on their structure. Microorganisms can more easily recognize and decompose natural or natural-like molecules.Among the options:A) Ethylene glycol and phthalic acid: These are commonly used to form polyesters like PET (polyethylene terephthalate), which is not readily biodegradable.B) Caprolactum and 1,3-butadiene: These monomers form synthetic rubbers like neoprene, which are resistant to biodegradation.C) Phenol and formaldehyde: This combination forms phenol-formaldehyde resins, which are known for their durability and resistance to degradation.D) 3-hydroxybutanoic acid and 3-hydroxypentanoic acid: These monomers are naturally occurring and can be linked to form polyhydroxyalkanoates (PHAs). PHAs are a class of biodegradable polymers that can be broken down by some bacteria.Therefore, option (D) presents monomers with a higher likelihood of forming biodegradable polymers due to their natural origin and structure."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Polymers",
+        "topic": "Biodegradable polymers, PHB",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q20",
+      "question_number": 20,
+      "question_text": "The correct order of first ionisation enthalpy of given elements is",
+      "options": {
+        "A": "Li<B<Be<C",
+        "B": "Be < Li < R < C",
+        "C": "C<B<Be<Li",
+        "D": "Li<Be<B<C"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q20-ANS",
+        "option": "D",
+        "answer_text": "Li<Be<B<C"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q20-SOL",
+        "solution_text": "The correct order of first ionization enthalpy of the given elements is: (D) Li < Be <B<CHere's why:Ionization Enthalpy: This refers to the minimum amount of energy required to remove the outermost electron from a gaseous atom in its ground state.Atomic Size: As we move across a period (left to right) in the periodic table, the atomic size generally decreases. Smaller atomic size means the outermost electron is held more tightly by the nucleus, leading to a higher ionization enthalpy.Effective Nuclear Charge: This represents the positive charge experienced by an electron due to the nucleus. As we move across a period, the number of protons in the nucleus increases by one for each element. However, the electrons partially shield the outermost electron from the full positive charge of the nucleus."
+      },
+      "quick_tip": "Ionization enthalpy generally increases across a period, but exceptions occur due to stable electronic configurations (e.g., Be > B due to s-orbital stability).",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "topic": "Ionization enthalpy trends",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q21",
+      "question_number": 21,
+      "question_text": "Which of the following statement is INCORRECT?",
+      "options": {
+        "A": "Bond length of O2 > Bond length of O22+",
+        "B": "Bond order of O2+ > Bond order of O22-",
+        "C": "Bond length of O2 <Bond length of O22-",
+        "D": "Bond order of O₂ > Bond order of O22-"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q21-ANS",
+        "option": "C",
+        "answer_text": "Bond length of O2 < Bond length of O22-"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q21-SOL",
+        "solution_text": "The incorrect statement is: (C) Bond length of O2 < Bond length of O22-Here's why the other statements are correct: (A) Bond length of O2 > Bond length of O2+: Removing an electron (O2+) from O2 weakens the attraction between the nuclei and the remaining electrons, leading to a longer bond length compared to O2. (B) Bond order of O2+ > Bond order of O22-: Losing an electron (O2+) decreases the bond order compared to O2 (neutral molecule) with two more electrons for bonding. On the other hand, gaining two electrons (O22-) increases the electron density and strengthens the bond, leading to a higher bond order than O2. (D) Bond order of O2 > Bond order of O22-: Explained in (B).Explanation for Incorrect Statement (C): When O2 gains two electrons to form O22-, the negative charges on the oxygen atoms cause electron-electron repulsion. This repulsion tends to push the nuclei apart, leading to a longer bond length compared to O2 (neutral molecule).Therefore, the bond length increases (O2 < O22-)."
+      },
+      "quick_tip": "Bond order is inversely proportional to bond length. Higher bond order means shorter bond length.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "topic": "Molecular Orbital Theory (MOT), Bond order, Bond length, Stability of molecules",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q22",
+      "question_number": 22,
+      "question_text": "A gas at a pressure of 2 atm is heated from 25 °C to 323 °C and simultaneously compressed to 1/2 of its original value. Then the final pressure is",
+      "options": {
+        "A": "1.33 atm",
+        "B": "6 atm",
+        "C": "2 atm",
+        "D": "4 atm"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q22-ANS",
+        "option": "D",
+        "answer_text": "4 atm"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q22-SOL",
+        "solution_text": "Given:Initial pressure (P1) = 2 atmInitial temperature (T1) = 25 °C = 298 KFinal temperature (T2) = 323 °C = 596 KVolume is compressed to 1/2 of its original value.Using the combined gas law:P1* V1/T1 = P2 * V2 / T2Since the gas is heated and simultaneously compressed, we can write:P2 = (P1 * V1 * T2) / (V2 * T1)Since the volume is compressed to 1/2 of its original value, V2 = V1 / 2:P2 = (P1 * V1 * T2) / ((V1 / 2) * T1)Simplify:P2 = 2 * (T2 / T1)Substitute the values:P2 = 2 * (596 K / 298 K)P2 = 2 * 2P2 = 4 atmSo, the final pressure is 4 atm, which corresponds to option (D)."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "States of Matter",
+        "topic": "Combined Gas Law",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q26",
+      "question_number": 26,
+      "question_text": "Temperature of 25 °C in Fahrenheit and Kelvin scale respectively are",
+      "options": {
+        "A": "77 °F and 298.15 K",
+        "B": "17 °F and 298.15 K",
+        "C": "45 °F and 260.15 K",
+        "D": "47 °F and 312.15 K"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q26-ANS",
+        "option": "A",
+        "answer_text": "77 °F and 298.15 K"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q26-SOL",
+        "solution_text": "The answer is (A) 77 °F and 298.15 Κ.Here's the conversion:Celsius to Fahrenheit:Formula: °F = (°C × 9/5) + 32Calculation: °F = (25 °C × 9/5) + 32 = 77 °FCelsius to Kelvin:Formula: K = °C + 273.15Calculation: K = 25 °C + 273.15 = 298.15 KTherefore, 25 °C is equivalent to 77 °F and 298.15 K."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Basic Concepts of Chemistry",
+        "topic": "Temperature scale conversions",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q27",
+      "question_number": 27,
+      "question_text": "The number of protons, neutrons and electrons in the ion 3216S2- respectively are",
+      "options": {
+        "A": "16, 18, 16",
+        "B": "16, 16, 18",
+        "C": "18, 16, 16",
+        "D": "16, 16, 16"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q27-ANS",
+        "option": "B",
+        "answer_text": "16, 16, 18"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q27-SOL",
+        "solution_text": "The answer is (D) 16, 16, 18.Here's the breakdown:Sulfur Atom: The element symbol S represents sulfur.Mass Number (32): This indicates the total number of protons and neutrons in the atom.Atomic Number (16): This represents the number of protons in a neutral sulfur atom.Charge (-2): The ion has a -2 charge, indicating it has gained 2 electrons compared to a neutral sulfur atom.In conclusion: The ion 3216S2- has 16 protons, 16 neutrons, and 18 electrons."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Structure of Atom",
+        "topic": "Atomic number, Mass number, Protons, Neutrons, Electrons in ions",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q28",
+      "question_number": 28,
+      "question_text": "A pair of amphoteric oxides is",
+      "options": {
+        "A": "Al2O3, Li2O",
+        "B": "BeO, B2O3",
+        "C": "BeO, MgO",
+        "D": "BeO, ZnO"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q28-ANS",
+        "option": "D",
+        "answer_text": "BeO, ZnO"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q28-SOL",
+        "solution_text": "The answer is (D) BeO, ZnO.Amphoteric Oxides:Amphoteric oxides are metal oxides that can exhibit both acidic and basic properties. They can react with both acids and bases to form salts."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "s-Block Elements",
+        "topic": "Amphoteric oxides (Be, Zn, Al)",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q29",
+      "question_number": 29,
+      "question_text": "The composition of water gas is",
+      "options": {
+        "A": "CO(g)+N2(g)",
+        "B": "CH4(g)",
+        "C": "CO(g) + H2O(g)",
+        "D": "CO(g) + H2(g)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q29-ANS",
+        "option": "D",
+        "answer_text": "CO(g) + H2(g)"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q29-SOL",
+        "solution_text": "The composition of water gas is: (D) CO(g) + H2(g)Here's why:Water gas is a fuel gas produced by reacting steam (H2O) with hot carbon (coke).The main components of water gas are:Carbon monoxide (CO): This gas forms when there's insufficient oxygen for complete combustion of carbon.Hydrogen (H2): This gas is produced from the breakdown of water molecules."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Hydrogen",
+        "topic": "Water gas (synthesis gas)",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q32",
+      "question_number": 32,
+      "question_text": "Which one of the following gases converts haemoglobin into carboxy haemoglobin?",
+      "options": {
+        "A": "CO",
+        "B": "O2",
+        "C": "NO",
+        "D": "CO2"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q32-ANS",
+        "option": "A",
+        "answer_text": "CO"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q32-SOL",
+        "solution_text": "The answer is (A) CO.Here's why:Hemoglobin: This is the iron-containing protein in red blood cells responsible for transporting oxygen throughout the body.Carboxyhemoglobin (COHb): This is a complex formed when carbon monoxide (CO) binds to hemoglobin instead of oxygen.Carbon Monoxide (CO): CO has a higher affinity for hemoglobin compared to oxygen (O2). When CO is inhaled, it readily binds to hemoglobin, reducing the amount of oxygen that can be transported.This can lead to oxygen deprivation in tissues, causing serious health problems."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemistry in Everyday Life",
+        "topic": "Carbon monoxide poisoning, Carboxyhemoglobin",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q33",
+      "question_number": 33,
+      "question_text": "What is the oxidation number of S in H2S2O8?",
+      "options": {
+        "A": "+5",
+        "B": "+4",
+        "C": "+7",
+        "D": "+6"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q33-ANS",
+        "option": "D",
+        "answer_text": "+6"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q33-SOL",
+        "solution_text": "H2S2O8 is neutral so sum of oxidation numbers is 0.Assuming -2 for oxygen, (21) + 2x + (8-2) = 0 yields x=+5.However, O-O bond in peroxides means oxygen has -1 each. Recalculating with -1 for these two O atoms gives x = +6.Therefore, the oxidation number of S in H2S2O8 can be +5 or +6 depending on consideration of the peroxide linkage."
+      },
+      "quick_tip": "Remember to account for peroxide linkages (O-O) when calculating oxidation states in compounds like H2S2O8.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Redox Reactions",
+        "topic": "Oxidation state calculation, Peroxide compounds",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q34",
+      "question_number": 34,
+      "question_text": "A 30% solution of hydrogen peroxide is",
+      "options": {
+        "A": "'30 volume' hydrogen peroxide",
+        "B": "'10 volume' hydrogen peroxide",
+        "C": "'50 volume' hydrogen peroxide",
+        "D": "'100 volume' hydrogen peroxide"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q34-ANS",
+        "option": "uncertain",
+        "answer_text": "uncertain"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q34-SOL",
+        "solution_text": "The answer is most likely (B) '10 volume' hydrogen peroxide.Here's why:Volume Strength: This term refers to the amount of oxygen gas a hydrogen peroxide solution can produce upon decomposition.Concentration (30%): This indicates the weight of hydrogen peroxide per 100 weight units of the solution.The relationship between concentration and volume strength is not always straightforward. However, a 30% solution is generally weaker than a \"30 volume\" solution.\"30 volume\" hydrogen peroxide implies it can release 30 times its own volume in oxygen gas.A 30% solution is likely less concentrated than that.Other options are less likely:\"100 volume\" (D) is much stronger than a typical 30% solution.\"50 volume\" (C) might be a possibility, but \"10 volume\" (B) is a more common strength for a 30% solution."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Hydrogen",
+        "topic": "Hydrogen peroxide, Volume strength",
+        "is_deleted_2024": false,
+        "confidence_score": 0.6
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q36",
+      "question_number": 36,
+      "question_text": "Dimerisation of solute molecules in low dielectric constant solvent is due to :",
+      "options": {
+        "A": "Hydrogen bond",
+        "B": "Covalent bond",
+        "C": "Co-ordinate bond",
+        "D": "Ionic bond"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q36-ANS",
+        "option": "A",
+        "answer_text": "Hydrogen bond"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q36-SOL",
+        "solution_text": "Low dielectric constant solvent weakens electrostatic interactions. This allows hydrogen bonds between solute molecules to be stronger, promoting dimerization. Basically, solvent doesn't interfere much with the attractive forces between solute molecules allowing them to form dimers."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solutions",
+        "topic": "Colligative properties, Association of molecules, Hydrogen bonding",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q37",
+      "question_number": 37,
+      "question_text": "The swelling in feet and ankles of an aged person due to sitting continuously for long hours during travel, is reduced by soaking the feet in warm salt water. This is because of:",
+      "options": {
+        "A": "Reverse Osmosis",
+        "B": "Osmosis",
+        "C": "Edema",
+        "D": "Diffusion"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q37-ANS",
+        "option": "B",
+        "answer_text": "Osmosis"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q37-SOL",
+        "solution_text": "The answer is (B) Osmosis.Here's why:Sitting for long periods allows fluid to accumulate in the feet and ankles (edema).Soaking in warm salt water creates a hypertonic solution (more concentrated) outside the cells.Osmosis, the movement of water from low solute concentration to high solute concentration, draws water out of swollen tissues, reducing swelling."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solutions",
+        "topic": "Osmosis, Hypertonic solutions, Biological applications",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q40",
+      "question_number": 40,
+      "question_text": "A metal crystallizes in. a body centered cubic lattice with the metallic radius √ÅThe volume of the unit cell in m³ is",
+      "options": {
+        "A": "64 * 10 ^ - 29",
+        "B": "4 * 10 ^ - 29",
+        "C": "6.4 * 10 ^ - 29",
+        "D": "4 * 10 ^ - 10"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q40-ANS",
+        "option": "A",
+        "answer_text": "64 * 10 ^ - 29 m³"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q40-SOL",
+        "solution_text": "Here's how to solve this problem:1. Identify key information:Body-centered cubic (BCC) latticeMetallic radius (r) = √Å (Angstrom) = √ (10^-10 m)2. Formula for BCC unit cell volume: V = a^3, where 'a' is the edge length of the unit cell.3. Relate edge length (a) to radius (r): In a BCC lattice, atoms touch each other diagonally across the body diagonal. The body diagonal is equal to 4r. a * √3 = 4r (since diagonal = √3 times the side in a cube)a = 4r / √34. Substitute and convert units: V = (4r / √3)^3 V = (4 * √A / √3)^3 *(10^-10 m)^3 (convert Angstrom to meters) V ≈ 64 * 10^-29 m^3Therefore, the answer is (A) 64 * 10 ^ - 29 m³."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solid State",
+        "topic": "Body Centered Cubic (BCC) lattice, Relation between radius and edge length, Volume of unit cell",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q41",
+      "question_number": 41,
+      "question_text": "The resistance of 0.1 M weak acid HA in a conductivity cell is 2*10^3 Ohm. The cell constant of the cell is 0.78 cm ^ - 1 and Λ°m of acid HA is 390 S cm^ 2 * mol-1.The pH of the",
+      "options": {
+        "A": "3.3",
+        "B": "4.2",
+        "C": "5",
+        "D": "3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q41-ANS",
+        "option": "B",
+        "answer_text": "4.2"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q41-SOL",
+        "solution_text": "Here's how to solve the problem to find the pH of the weak acid solution:1. Given Information:Concentration of the acid (C) = 0.1 MResistance (R) = 2 * 10^3 ΩCell constant (cell_const) = 0.78 cm^-1Molar conductivity at infinite dilution (Λ°m) = 390 S cm² mol^-12. Calculate Conductance (G):G = 1 / R = 1 / (2 * 10^3 Ω) = 5 * 10^-4 S3. Calculate Equivalent Conductivity (Ʌeq):Aeq = G * cell_const = (5 * 10^-4 S) * (0.78 cm^-1) = 3.9 * 10^-4 S cm^-14. Dissociation Constant (Ka):We can use the following equation to relate equivalent conductivity (Aeq), molar conductivity at infinite dilution (Λ°m), and dissociation constant (Ka) for a weak acid:Aeq = (Λ°m * a) / (1 - α)where a is the degree of dissociation.Since we don't have a directly, we can rearrange the equation to solve for Ka:Ka = (Aeq * (Λ°m - Aeq)) / (Λ°m * Aeq)Ka = [(3.9 * 10^-4 S cm^-1)* (390 S cm² mol^-1 - 3.9 * 10^-4 S cm^-1)] / [(390 S cm² mol^-1)* (3.9 * 10^-4 S cm^-1)]Ka≈ 1.01 * 10^-5 M5. Hydrogen Ion Concentration (CH+) and pH:For a monoprotic acid like HA, the dissociation constant expression is:Ka = [H+] * [A-] / [HA]Assuming negligible dissociation compared to the initial concentration:Ka ≈ [H+] * [HA] / [HA] ≈ [H+][H+] ≈ Ka = 1.01 * 10^-5 MpН = -log10([H+]) = -log10(1.01 * 10^-5) ≈ 4.99Therefore, the pH of the solution is approximately 4.99, which is closest to option (B) 4.2."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrochemistry",
+        "topic": "Conductivity, Molar conductivity, Ostwald's dilution law, Dissociation constant, pH calculation",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q45",
+      "question_number": 45,
+      "question_text": "During the electrolysis of brine, by using inert electrodes,",
+      "options": {
+        "A": "O2 liberates at anode",
+        "B": "H2 liberates at anode",
+        "C": "Na deposits on cathode",
+        "D": "Cl2 liberates at anode"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q45-ANS",
+        "option": "D",
+        "answer_text": "Cl2 liberates at anode"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q45-SOL",
+        "solution_text": "Inert electrodes cause Cl- to be oxidized (lose electrons) at the anode, forming Cl2 gas. (D) is correct. Other options involve reactions at the cathode or oxidation of less favorable ions."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrochemistry",
+        "topic": "Electrolysis of brine, Anode and cathode reactions, Preferential discharge",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q49",
+      "question_number": 49,
+      "question_text": "For the formation of which compound in Ellingham diagram ΔG° becomes more and more negative with increase in temperature?",
+      "options": {
+        "A": "CO",
+        "B": "FeO",
+        "C": "ZnO",
+        "D": "Cu2O"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q49-ANS",
+        "option": "A",
+        "answer_text": "CO"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q49-SOL",
+        "solution_text": "The answer is (C) ZnO.Here's why:An Ellingham diagram shows the relationship between temperature and the free energy change (AG°) for the formation of metal oxides from their elements. A more negative AG° indicates a more favorable reaction for oxide formation.As temperature increases:Entropy (AS): Generally increases for reactions involving gaseous products like CO. This increase in entropy favors the formation of the gas at higher temperatures.Enthalpy (ΔΗ): May remain relatively constant for some reactions.In the context of ZnO formation:The formation of ZnO from Zn and O2 releases some heat (ΔΗ is negative).As temperature increases, the entropy term (AS) becomes more significant, and the overall AG° becomes increasingly negative. This means the reaction to form ZnO becomes more favorable at higher temperatures."
+      },
+      "quick_tip": "For ΔG° to become more negative with increasing temperature, the slope of the Ellingham diagram (which is -ΔS°) must be negative, meaning ΔS° for the reaction must be positive (e.g., formation of a gas from solid and gas).",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "General Principles and Processes of Isolation of Elements",
+        "topic": "Ellingham Diagram, Thermodynamics of metal extraction",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q50",
+      "question_number": 50,
+      "question_text": "Which of the following compound does not give dinitrogen on heating?",
+      "options": {
+        "A": "Ba(N3)2",
+        "B": "NH4NO2",
+        "C": "NH4NO3",
+        "D": "(NH4)2Cr2O7"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q50-ANS",
+        "option": "D",
+        "answer_text": "(NH4)2Cr2O7"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q50-SOL",
+        "solution_text": "Out of the given options, only (D), (NH4)2Cr2O7, does not decompose to give dinitrogen (N2) on heating.Here's why:Azide (N3-): When heated, azide salts like Ba(N3)2 decompose to release N2 gas.Ammonium nitrite (NH4NO2): Heating ammonium nitrite leads to its decomposition, forming N2 and water.Ammonium nitrate (NH4NO3): Similar to nitrite, ammonium nitrate decomposes on heating, releasing N2 and water vapor.However, ammonium dichromate ((NH4)2Cr2O7) decomposes differently.Here's a simplified representation of the decomposition reaction:(NH4)2Cr2O7 → Cr2O3 + N2O + 4H2OAs you can see, the decomposition products include chromium oxide (Cr2O3), nitrous oxide (N2O), and water (H2O). There is no formation of dinitrogen (N2) in this case.Therefore, the compound that does not give dinitrogen on heating is (D)(NH4)2Cr2O7."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "p-Block Elements (Group 15)",
+        "topic": "Thermal decomposition of nitrogen compounds",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q53",
+      "question_number": 53,
+      "question_text": "In solid state, PCl5 is a/an",
+      "options": {
+        "A": "Octahedral structure",
+        "B": "Ionic solid with [PCl6]+ and [PCl4]",
+        "C": "Ionic solid with [PCl4]+ and [PCl6]-",
+        "D": "Covalent solid present in the form of P2Cl10"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q53-ANS",
+        "option": "C",
+        "answer_text": "Ionic solid with [PCl4]+ and [PCl6]-"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q53-SOL",
+        "solution_text": "The answer is (C) Ionic solid with [PCl4]+ and [PCl6]-.Here's why:Phosphorus pentachloride (PCl5) exists as an ionic solid in the solid state, not a covalent solid or a single molecule like P2Cl10.In this ionic structure, the molecule undergoes self-ionization:2 PCl5 --> [PCl4]+ + [PCl6]-The central phosphorus atom in the PCl4+ cation becomes tetrahedral due to sp3 hybridization, while the phosphorus atom in the PCl6- anion adopts an octahedral structure due to d orbital participation (sp3d2 hybridization).Therefore, PCl5 in the solid state is an ionic solid with a combination of [PCl4]+ and [PCl6]- ions."
+      },
+      "quick_tip": "null",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "topic": "PCl5 solid state, Hybridization and shapes of ions",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q54",
+      "question_number": 54,
+      "question_text": "In which one of the following pairs, both the elements does not have (n-1)d¹ºns² configuration in its elementary state?",
+      "options": {
+        "A": "Zn, Cd",
+        "B": "Cd, Hg",
+        "C": "Hg, Cn",
+        "D": "Cu, Zn"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q54-ANS",
+        "option": "D",
+        "answer_text": "Cu, Zn"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q54-SOL",
+        "solution_text": "The answer is (D) Cu, Zn.Here's why:Electron Configuration Notation:n - refers to the principal energy level.d - refers to the d-orbital subshell.10 - indicates 10 electrons in the d-orbital.ns2 - indicates 2 electrons in the s-orbital of the outermost principal energy level (n).Group 12 Elements (Zn, Cd, Hg):These elements belong to the d-block in the periodic table but have completely filled d-orbitals in their ground state.Therefore, their configuration follows the pattern (n-1)d¹ºns².(e.g., Zn: [Ar]3d1°4s²)Exceptions:Copper (Cu) has an electron configuration of [Ar]3d1°4s1 due to a stable half-filled d-orbital configuration.Zinc (Zn) as mentioned earlier, follows the (n-1)d¹ºns² rule.Therefore, only the pair Cu and Zn in option (D) doesn't have both elements following the (n-1)d¹ºns² configuration in their elementary state."
+      },
+      "quick_tip": "Transition metals like Cu show exceptions to electron configuration (e.g., [Ar]3d10 4s1) for stability.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "d- and f-Block Elements",
+        "topic": "Electronic configuration of d-block elements, Exceptions",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q55",
+      "question_number": 55,
+      "question_text": "Which of the following is CORRECT with respect to melting point of a transition element?",
+      "options": {
+        "A": "V > Cr",
+        "B": "Cr > Mn",
+        "C": "Mn > Fe",
+        "D": "Ti > V"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q55-ANS",
+        "option": "D",
+        "answer_text": "Ti > V"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q55-SOL",
+        "solution_text": "The answer is (D) Ti > V.Here's why:Transition elements generally have high melting points due to strong metallic bonding involving partially filled d-orbitals.However, there's a trend within a period (horizontal row) in the periodic table.Explanation:Titanium (Ti) and Vanadium (V) are consecutive elements in period 4.As we move across a period, the number of protons increases, leading to a stronger attraction between the nucleus and electrons.This could lead to an increase in melting point.However, there's an exception:In the case of Ti and V, there's a slight decrease in melting point from Ti to V. This is because:Vanadium has one more electron but also has one more proton, resulting in a similar net positive charge.The additional electron in V partially occupies a higher energy d-orbital, contributing less effectively to metallic bonding compared to the electrons in Ti's d-orbitals.Therefore, Ti (with a stronger metallic bond) has a higher melting point than V."
+      },
+      "quick_tip": "Melting points of transition metals are influenced by metallic bonding strength, which depends on the number of unpaired d-electrons and orbital overlap. Deviations from general trends are common.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "d- and f-Block Elements",
+        "topic": "Melting point trends in transition metals",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q57",
+      "question_number": 57,
+      "question_text": "Which formula and name combination is INCORRECT?",
+      "options": {
+        "A": "K3[Al(C204)3] - Potassium trioxalatoaluminate (III)",
+        "B": "[Pt(NH3)2 Cl(NO2)] - Diamminechloridonitrito - N-platinum (II)",
+        "C": "[CoCl2(en)2]Cl - Dichloridodiethylenediammine cobalt (II) chloride",
+        "D": "[Co(NH3)4(H2O)Cl]Cl2 - Tetraammineaquachloridocobalt (III) chloride"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q57-ANS",
+        "option": "B",
+        "answer_text": "[Pt(NH3)2 Cl(NO2)] - Diamminechloridonitrito - N-platinum (II)"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q57-SOL",
+        "solution_text": "The incorrect formula and name combination is: (B) [Pt(NH3)2 CI(NO2)] - Diamminechloridonitrito - N-platinum (II)Here's why:The ligand notation is incorrect. Ligands are named and placed around the central metal atom in a complex ion. In this case, the correct way to write the complex ion would be:Pt(NH3)2Cl(NO2)The oxidation state of platinum (Pt) is not indicated with a roman numeral in the name. The correct name should be:Diamminechloridonitrito platinum(II)Therefore, option (B) has both an error in the formula writing and the oxidation state notation.The other options are correct based on standard ligand naming conventions and oxidation state representation: (A) K3[Al(C2O4)3] - Potassium trioxalatoaluminate(III) (correct) (C) [CoCl2(en)2]Cl - Dichloridodiethylenediammine cobalt(II) chloride (correct) (D) [Co(NH3)4(H2O)Cl]Cl2 - Tetraammineaquachloridocobalt(III) chloride (correct)"
+      },
+      "quick_tip": "Pay close attention to ligand notation, order of ligands, and oxidation state representation in IUPAC nomenclature of coordination compounds.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Coordination Compounds",
+        "topic": "IUPAC nomenclature of coordination compounds",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q58",
+      "question_number": 58,
+      "question_text": "Which of the following system in an octahedral complex has maximum unpaired electrons ?",
+      "options": {
+        "A": "d8 (high spin)",
+        "B": "d8 (low spin)",
+        "C": "d4 (low spin)",
+        "D": "d2 (high spin)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q58-ANS",
+        "option": "D",
+        "answer_text": "d2 (high spin)"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q58-SOL",
+        "solution_text": "The system in an octahedral complex with the maximum number of unpaired electrons is (D) d' (high spin).Here's why:Electron Configuration: The notation \"d¹n\" refers to the number of electrons (n) in the d-orbitals of the central metal atom in a complex.Crystal Field Theory (CFT): This theory explains how the arrangement of ligands around a central metal ion affects the energies of its d-orbitals.Octahedral Complexes: In an octahedral complex, six ligands are arranged around the central metal ion in an octahedral shape.Crystal Field Splitting: CFT proposes that the d-orbitals split into two sets due to the influence of the ligands' electric fields. A lower energy set (t2g) and a higher energy set (eg).Filling of d-orbitals:Electrons fill the available d-orbitals following Aufbau's principle (filling orbitals of lowest energy first).High Spin vs. Low Spin: This depends on the energy difference (Δ) between the t2g and eg orbitals and the number of d-electrons.If the energy difference (A) is small, electrons might prefer to fill each orbital singly (high spin) to minimize electron-electron repulsion, even if it means occupying higher energy eg orbitals.If A is large enough, electrons will completely fill the lower energy t2g orbitals before occupying the eg orbitals (low spin).Unpaired Electrons:Unpaired electrons refer to electrons that are not paired with another electron in the same orbital.In an octahedral complex:For d' to d³ configurations, all electrons will occupy the t2g orbitals, resulting in no unpaired electrons.For d⁴ (low spin), all four electrons will fill the t2g orbitals (no unpaired).For d5 (high spin), one electron will be forced into an eg orbital, resulting in one unpaired electron.For dº (low spin), all six electrons will fill the t2g orbitals (no unpaired).The trend continues:d' (high spin) will have two unpaired electrons (one in each eg orbital).d³ (high spin) will have three unpaired electrons.dº (high spin) will have four unpaired electrons.d¹º (low spin) will have all electrons paired.Therefore, among the given options, d' (high spin) configuration leads to the maximum number of unpaired electrons (two) in an octahedral complex."
+      },
+      "quick_tip": "For an octahedral complex, determine the number of unpaired electrons based on Crystal Field Theory, considering high spin vs. low spin configurations.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Coordination Compounds",
+        "topic": "Crystal Field Theory (CFT), High spin and low spin complexes, Unpaired electrons",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q59",
+      "question_number": 59,
+      "question_text": "The correct decreasing order of basicity of hydrides of Group-15 elements is",
+      "options": {
+        "A": "SbH3 > AsH3> PH3>NH3",
+        "B": "PH3 > AsH3 > SbH3 > NH3",
+        "C": "AsH3>SbH3 > NH3 > PH3",
+        "D": "NH3 > PH3 > AsH3 > SbH3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q59-ANS",
+        "option": "D",
+        "answer_text": "NH3 > PH3 > AsH3 > SbH3"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q59-SOL",
+        "solution_text": "The correct decreasing order of basicity of hydrides of Group-15 elements is: (D) NH3 > PH3 > AsH3 > SbH3Here's why:Basicity refers to a molecule's ability to donate an electron pair and accept a proton (H+).In Group-15 hydrides (NH3, PH3, AsH3, SbH3), the basicity is primarily determined by the availability of a lone pair of electrons on the central element (N, P, As, or Sb) for donation.As we move down the group (N to Sb), the size of the central atom increases.Impact of size on basicity:A larger central atom has a weaker attraction for its valence electrons (including the lone pair). This makes the lone pair more available for donation, increasing the basicity.However, there's a counterbalancing factor:The electronegativity of the central atom also plays a role. As we move down the group, the electronegativity slightly decreases. A more electronegative atom has a stronger attraction for the lone pair, making it less available for donation and decreasing basicity.Considering both factors:The increase in size outweighs the slight decrease in electronegativity within Group 15.Therefore, the basicity of the hydrides decreases as we move down the group from nitrogen to antimony.Order of basicity:Following this trend, the correct order of decreasing basicity is:NH3 (most basic) > PH3 > AsH3 > SbH3 (least basic)"
+      },
+      "quick_tip": "Basicity of Group 15 hydrides decreases down the group due to increasing atomic size, which spreads out the electron density of the lone pair, making it less available for donation.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "p-Block Elements (Group 15)",
+        "topic": "Basicity of hydrides, Trends in Group 15",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-CHEM-Q60",
+      "question_number": 60,
+      "question_text": "Which one of the following oxoacids of phosphorus can reduce AgNO3 to metallic silver?",
+      "options": {
+        "A": "H3PO2",
+        "B": "HP2O7",
+        "C": "H4P2O6",
+        "D": "H3PO4"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-CHEM-Q60-ANS",
+        "option": "A",
+        "answer_text": "H3PO2"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-CHEM-Q60-SOL",
+        "solution_text": "The answer is (A) H3PO2.Here's why:Reducing Agent: An oxoacid can act as a reducing agent if it can donate electrons and get oxidized itself.Phosphorous Acid (H3PO2): This oxoacid has phosphorus in the +3 oxidation state. It can act as a reducing agent by losing electrons and being oxidized to a higher oxidation state (e.g., +5 in phosphoric acid).In the presence of silver nitrate (AgNO3), H3PO2 can reduce silver ions (Ag+) to metallic silver (Ag) while itself getting oxidized.Here's a simplified representation of the reaction:AgNO3 + H3PO2 → Ag + H3PO4 + NO2-"
+      },
+      "quick_tip": "Oxoacids of phosphorus with P-H bonds or lower oxidation states of phosphorus generally act as reducing agents.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "p-Block Elements (Group 15)",
+        "topic": "Oxoacids of phosphorus, Reducing properties",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    }
+  ]
+}

@@ -1,0 +1,2127 @@
+{
+  "metadata": {
+    "exam_name": "KCET",
+    "year": 2024,
+    "session": "null",
+    "subject": "Chemistry",
+    "total_questions": 60,
+    "total_marks": 60,
+    "duration_minutes": 70
+  },
+  "questions": [
+    {
+      "question_id": "KCET-2024-CHEM-Q1",
+      "question_number": 1,
+      "question_text": "1. Which of the following set of polymers are used as fibre?(i) Teflon(ii) Starch(iii) Terylene(iv) Orlon",
+      "options": {
+        "A": "(i) and (ii)",
+        "B": "(ii) and (iii)",
+        "C": "(iii) and (iv)",
+        "D": "(i) and (iv)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q1-ANS",
+        "option": "C",
+        "answer_text": "(iii) Terylene and (iv) Orlon"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q1-SOL",
+        "solution_text": "Terylene and Orlon are classified as fibres due to their structural properties and usability in fabric production. Terylene, a type of polyester, is widely used for making textiles due to its strength, durability, and resistance to stretching. Orlon, a type of acrylic polymer, is also used as a fibre because of its wool-like texture and lightweight nature. Teflon and starch do not have fibre-forming characteristics, which makes them unsuitable in this context."
+      },
+      "quick_tip": "Remember: Fibres like Terylene and Orlon are synthetic polymers commonly used in textiles for their strength and durability.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Polymers",
+        "topic": "Classification of Polymers (Fibres)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q2",
+      "question_number": 2,
+      "question_text": "2. The biodegradable polymer obtained by polymerisation of Glycine and Aminocaproic acid is:",
+      "options": {
+        "A": "Nylon 6",
+        "B": "PHBV",
+        "C": "Nylon 2 – Nylon 6",
+        "D": "Nylon 6, 10"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q2-ANS",
+        "option": "C",
+        "answer_text": "Nylon 2 – Nylon 6"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q2-SOL",
+        "solution_text": "Nylon 2 - Nylon 6 is a biodegradable polymer made from the polymerisation of glycine (an amino acid) and aminocaproic acid. Its biodegradable nature makes it suitable for various eco-friendly applications."
+      },
+      "quick_tip": "Biodegradable polymers like Nylon 2 – Nylon 6 are important for reducing environmental impact.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Polymers",
+        "topic": "Biodegradable Polymers",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q3",
+      "question_number": 3,
+      "question_text": "3. The compound is:",
+      "options": {
+        "A": "Sucralose",
+        "B": "Aspartame",
+        "C": "Saccharin",
+        "D": "Alitame"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q3-ANS",
+        "option": "C",
+        "answer_text": "Saccharin"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q3-SOL",
+        "solution_text": "Saccharin is an artificial sweetener with a chemical structure that makes it non-caloric and significantly sweeter than sucrose. It is widely used in low-calorie and sugar-free products."
+      },
+      "quick_tip": "Saccharin is a non-caloric sweetener, ideal for sugar-free products.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemistry in Everyday Life",
+        "topic": "Artificial Sweetening Agents",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2024-CHEM-Q3-IMG1",
+        "image_placeholder_path": "images/KCET-2024-CHEM-Q3-IMG1.png"
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q4",
+      "question_number": 4,
+      "question_text": "4. Which one of the following is a cationic detergent?",
+      "options": {
+        "A": "Cetyltrimethylammonium bromide",
+        "B": "Sodium dodecylbenzene sulphonate",
+        "C": "Dodecylbenzene sulphonic acid",
+        "D": "Dodecylbenzene"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q4-ANS",
+        "option": "A",
+        "answer_text": "Cetyltrimethylammonium bromide"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q4-SOL",
+        "solution_text": "Cetyltrimethylammonium bromide is a cationic detergent, which means it has a positively charged hydrophilic end. This property makes it suitable for use in antiseptic solutions and fabric softeners."
+      },
+      "quick_tip": "Cationic detergents like Cetyltrimethylammonium bromide are commonly used in antiseptics and softeners.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemistry in Everyday Life",
+        "topic": "Detergents (Cationic Detergents)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q5",
+      "question_number": 5,
+      "question_text": "5. The type of linkage present between nucleotides is:",
+      "options": {
+        "A": "Phosphoester linkage",
+        "B": "Phosphodiester linkage",
+        "C": "Amide linkage",
+        "D": "Glycosidic linkage"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q5-ANS",
+        "option": "B",
+        "answer_text": "Phosphodiester linkage"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q5-SOL",
+        "solution_text": "Nucleotides are joined by phosphodiester linkages, which occur between the 3' hydroxyl group of one sugar molecule and the 5' phosphate group of another. These linkages form the backbone of DNA and RNA."
+      },
+      "quick_tip": "Phosphodiester linkages form the backbone of nucleic acids, connecting nucleotides in DNA and RNA.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Biomolecules",
+        "topic": "Nucleic Acids (Phosphodiester Linkage)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q6",
+      "question_number": 6,
+      "question_text": "6. α-D-(+)-glucose and β-D-(+)-glucose are:",
+      "options": {
+        "A": "Enantiomers",
+        "B": "Conformers",
+        "C": "Epimers",
+        "D": "Anomers"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q6-ANS",
+        "option": "D",
+        "answer_text": "Anomers"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q6-SOL",
+        "solution_text": "α-D-(+)-glucose and β-D-(+)-glucose differ at the configuration around the first carbon atom (anomeric carbon). This makes them anomers, a subtype of stereoisomers."
+      },
+      "quick_tip": "Anomers differ at the anomeric carbon, such as α- and β-glucose.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Biomolecules",
+        "topic": "Carbohydrates (Anomers)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q7",
+      "question_number": 7,
+      "question_text": "7. Propanone and Propanal are:",
+      "options": {
+        "A": "Position isomers",
+        "B": "Functional isomers",
+        "C": "Chain isomers",
+        "D": "Geometrical isomers"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q7-ANS",
+        "option": "B",
+        "answer_text": "Functional isomers"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q7-SOL",
+        "solution_text": "Propanone and Propanal are functional isomers because they share the same molecular formula (C3H6O) but differ in functional groups—Propanone has a ketone group, while Propanal has an aldehyde group."
+      },
+      "quick_tip": "Functional isomers have the same molecular formula but different functional groups.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "topic": "Isomerism in Carbonyl Compounds",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q8",
+      "question_number": 8,
+      "question_text": "8. Sodium ethanoate on heating with soda lime gives ‘X”. Electrolysis of aqueous solution of sodium ethanoate gives ‘Y”. ‘X' and 'Y' respectively are:",
+      "options": {
+        "A": "Methane and Ethane",
+        "B": "Methane and Methane",
+        "C": "Ethane and Methane",
+        "D": "Ethane and Ethane"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q8-ANS",
+        "option": "A",
+        "answer_text": "Methane and Ethane"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q8-SOL",
+        "solution_text": "Sodium ethanoate reacts with soda lime to form methane (X) via decarboxylation. During electrolysis, sodium ethanoate produces ethane (Y) as the main product through Kolbe's reaction."
+      },
+      "quick_tip": "Soda lime decarboxylation produces methane, while Kolbe's electrolysis forms ethane.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Hydrocarbons",
+        "topic": "Preparation of Alkanes (Decarboxylation, Kolbe's Electrolysis)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q9",
+      "question_number": 9,
+      "question_text": "9. But-1-yne on reaction with dilute H2SO4 in the presence of Hg2+ ions at 333 K gives:",
+      "options": {
+        "A": "A structure representing Butan-2-one",
+        "B": "A structure representing Butanal",
+        "C": "A structure representing Propanone",
+        "D": "A structure representing Propenal"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q9-ANS",
+        "option": "A",
+        "answer_text": "A structure representing Butan-2-one"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q9-SOL",
+        "solution_text": "But-1-yne reacts with dilute sulfuric acid (H2SO4) in the presence of mercuric ions (Hg2+) to form butan-2-one (methyl ethyl ketone). The reaction proceeds via the addition of water across the triple bond, followed by keto-enol tautomerism:CH3 - C = CH + H2O H2SO4, Hg2+, 333 K → CH3 – CO – CH3The intermediate enol form (CH3 – CH(OH) – CH = CH2) rearranges to give the more stable ketone (CH3 – CO – CH3)."
+      },
+      "quick_tip": "In the presence of Hg2+, alkynes undergo hydration to form ketones through keto-enol tautomerism.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Hydrocarbons",
+        "topic": "Reactions of Alkynes (Hydration)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2024-CHEM-Q9-IMG1",
+        "image_placeholder_path": "images/KCET-2024-CHEM-Q9-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q10",
+      "question_number": 10,
+      "question_text": "10. Biologically active adrenaline and ephedrine used to increase blood pressure contain:",
+      "options": {
+        "A": "Primary amino group",
+        "B": "Secondary amino group",
+        "C": "Tertiary amino group",
+        "D": "Quaternary ammonium salt"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q10-ANS",
+        "option": "B",
+        "answer_text": "Secondary amino group"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q10-SOL",
+        "solution_text": "Adrenaline and ephedrine are biologically active compounds that contain a secondary amino group. This structural feature is crucial for their activity, as it contributes to their interaction with adrenergic receptors to increase blood pressure."
+      },
+      "quick_tip": "Secondary amino groups in compounds like adrenaline are essential for their role in physiological processes like blood pressure regulation.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Amines",
+        "topic": "Classification of Amines and their Biological Importance",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q11",
+      "question_number": 11,
+      "question_text": "11. In the reaction:NaNO2/dil.HClAniline NaOH → Phenol P→Q",
+      "options": {
+        "A": "C6H5N2Cl",
+        "B": "ortho-hydroxyazobenzene",
+        "C": "para-hydroxyazobenzene",
+        "D": "meta-hydroxyazobenzene"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q11-ANS",
+        "option": "C",
+        "answer_text": "para-hydroxyazobenzene"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q11-SOL",
+        "solution_text": "In this reaction, aniline is first diazotized using sodium nitrite (NaNO2) and dilute HCl to form benzene diazonium chloride (P). This intermediate reacts with phenol under basic conditions to produce para-hydroxyazobenzene (Q) as the major product due to the preferential para-position substitution in phenol."
+      },
+      "quick_tip": "Diazotization followed by coupling with phenol typically yields para-substituted hydroxyazobenzene as the major product.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Amines",
+        "topic": "Diazotization and Coupling Reactions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2024-CHEM-Q11-IMG1",
+        "image_placeholder_path": "images/KCET-2024-CHEM-Q11-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q12",
+      "question_number": 12,
+      "question_text": "12. The female sex hormone which is responsible for the development of secondary female characteristics and participates in the control of the menstrual cycle is:",
+      "options": {
+        "A": "Testosterone",
+        "B": "Estradiol",
+        "C": "Insulin",
+        "D": "Thyroxine"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q12-ANS",
+        "option": "B",
+        "answer_text": "Estradiol"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q12-SOL",
+        "solution_text": "Estradiol, a primary female sex hormone, is crucial for the development of secondary sexual characteristics, such as breast development and regulation of the menstrual cycle. It plays an integral role in the reproductive system and other body functions."
+      },
+      "quick_tip": "Estradiol is the main estrogen hormone responsible for female reproductive development and cycle regulation.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Biomolecules",
+        "topic": "Hormones",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q13",
+      "question_number": 13,
+      "question_text": "13. In the following scheme of reaction:X C₂H₃FC₂H₅CI Y CH₂ = CH₂Z C₄H₁₀X, Y, and Z respectively are:",
+      "options": {
+        "A": "AgF, alcoholic KOH, and benzene",
+        "B": "HF, aqueous KOH, and Na in dry ether",
+        "C": "HgF2, alcoholic KOH, and Na in dry ether",
+        "D": "CoF2, aqueous KOH, and benzene"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q13-ANS",
+        "option": "C",
+        "answer_text": "HgF2, alcoholic KOH, and Na in dry ether"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q13-SOL",
+        "solution_text": "C2H5Cl is converted to C2H5F using HgF2. The fluorinated compound undergoes dehydrohalogenation with alcoholic KOH to form ethene (CH2=CH2). Ethene is then subjected to Wurtz coupling with sodium in dry ether to produce butane (C4H10)."
+      },
+      "quick_tip": "Reactions involving halogenation, elimination, and Wurtz coupling are essential in organic synthesis pathways.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Preparation of Fluoroalkanes (Swarts reaction), Elimination reaction, Wurtz reaction",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2024-CHEM-Q13-IMG1",
+        "image_placeholder_path": "images/KCET-2024-CHEM-Q13-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q14",
+      "question_number": 14,
+      "question_text": "14. 8.8 g of monohydric alcohol added to ethyl magnesium iodide in ether liberates 2240 cm³ of ethane at STP. This monohydric alcohol when oxidised using pyridinium-chlorochromate forms a carbonyl compound that answers the silver mirror test (Tollen's test). The monohydric alcohol is:",
+      "options": {
+        "A": "butan-2-ol",
+        "B": "2, 2-dimethyl propan-1-ol",
+        "C": "pentan-2-ol",
+        "D": "2, 2-dimethyl ethan-1-ol"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q14-ANS",
+        "option": "B",
+        "answer_text": "2, 2-dimethyl propan-1-ol"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q14-SOL",
+        "solution_text": "2, 2-dimethyl propan-1-ol reacts with ethyl magnesium iodide to release ethane gas, confirming it is a monohydric alcohol. On oxidation with pyridinium-chlorochromate, it forms 2, 2-dimethylpropanal, a carbonyl compound that gives a positive Tollen's test due to the presence of an aldehyde group."
+      },
+      "quick_tip": "Tollen's test is a key indicator of aldehydes, confirming the presence of a carbonyl group in the oxidized product.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Reactions of Alcohols (Grignard, Oxidation, Tollen's test)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q15",
+      "question_number": 15,
+      "question_text": "15. When a tertiary alcohol ‘A' (C4H10O) reacts with 20% H3PO4 at 358 K, it gives a compound 'B' (C4H8) as a major product. The IUPAC name of the compound ‘B' is:",
+      "options": {
+        "A": "But-1-ene",
+        "B": "But-2-ene",
+        "C": "Cyclobutane",
+        "D": "2-Methylpropene"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q15-ANS",
+        "option": "D",
+        "answer_text": "2-Methylpropene"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q15-SOL",
+        "solution_text": "The tertiary alcohol undergoes dehydration in the presence of 20% H3PO4 at 358 K to form 2-Methylpropene (C4H8) as the major product. This reaction involves the elimination of water from the tertiary alcohol:CH3 – C(OH) – CH3 20% H3PO4, 358 K → CH3 – C = CH2 + H2O"
+      },
+      "quick_tip": "Tertiary alcohols typically undergo dehydration to form alkenes under acidic conditions and heat.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Dehydration of Alcohols",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2024-CHEM-Q15-IMG1",
+        "image_placeholder_path": "images/KCET-2024-CHEM-Q15-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q16",
+      "question_number": 16,
+      "question_text": "16. PCC is:",
+      "options": {
+        "A": "K2Cr2O7 + Pyridine",
+        "B": "CrO3 + CHC13",
+        "C": "CrO3 + H2SO4",
+        "D": "A complex of chromium trioxide with pyridine + HCl"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q16-ANS",
+        "option": "D",
+        "answer_text": "A complex of chromium trioxide with pyridine + HCl"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q16-SOL",
+        "solution_text": "PCC (Pyridinium Chlorochromate) is a reagent prepared by combining chromium trioxide (CrO3), pyridine (C5H5N), and hydrochloric acid (HCl). It is commonly used for the oxidation of alcohols to aldehydes and ketones without overoxidation to carboxylic acids.PCC: C5H5NH+CrO3Cl¯"
+      },
+      "quick_tip": "PCC is a mild oxidizing agent ideal for converting alcohols to aldehydes or ketones without further oxidation.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Oxidation of Alcohols (PCC reagent)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q17",
+      "question_number": 17,
+      "question_text": "17. On treating 100 mL of 0.1 M aqueous solution of the complex CrCl3.6H2O with excess of AgNO3, 2.86 g of AgCl was obtained. The complex is:",
+      "options": {
+        "A": "[Cr(H2O)3Cl3].3H2O",
+        "B": "[Cr(H2O)4Cl2]Cl.2H2O",
+        "C": "[Cr(H2O)5Cl]Cl2.H2O",
+        "D": "[Cr(H2O)6]Cl3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q17-ANS",
+        "option": "C",
+        "answer_text": "[Cr(H2O)5Cl]Cl2.H2O"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q17-SOL",
+        "solution_text": "The given data indicates that 1 mole of the complex releases 2 moles of AgCl upon treatment with AgNO3. This confirms that the complex contains two chloride ions as counter-ions outside the coordination sphere:CrCl3.6H2O → [Cr(H2O)5Cl]Cl2.H2OThe mass of AgCl (2.86 g) corresponds to the reaction of 2 moles of AgNO3 with 2 moles of free Cl-.143.5 g/mol × 2 = 286 g (for 2 moles)"
+      },
+      "quick_tip": "Coordination complexes often release free counter-ions, which can be determined by their reaction with silver nitrate (AgNO3).",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Coordination Compounds",
+        "topic": "Isomerism in Coordination Compounds (Hydrate Isomerism), Qualitative Analysis",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q18",
+      "question_number": 18,
+      "question_text": "18. The complex compounds [Co(NH3)5SO4]Br and [Co(NH3)5Br]SO4 are:",
+      "options": {
+        "A": "Coordination isomers",
+        "B": "Geometrical isomers",
+        "C": "Optical isomers",
+        "D": "Ionisation isomers"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q18-ANS",
+        "option": "D",
+        "answer_text": "Ionisation isomers"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q18-SOL",
+        "solution_text": "The complexes [Co(NH3)5SO4]Br and [Co(NH3)5Br]SO4 are ionisation isomers. These isomers differ in the exchange of an anion inside and outside the coordination sphere."
+      },
+      "quick_tip": "Ionisation isomers involve the exchange of ligands and counter-ions while retaining the same molecular formula.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Coordination Compounds",
+        "topic": "Isomerism in Coordination Compounds (Ionisation Isomerism)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q19",
+      "question_number": 19,
+      "question_text": "19. Which of the following statements are true about [CoF6]³– ion?I The complex has octahedral geometry.II Coordination number of Co is 3 and oxidation state is +6.III The complex is sp³d2 hybridised.IV It is a high spin complex.",
+      "options": {
+        "A": "I, II, and IV",
+        "B": "I, III, and IV",
+        "C": "II and IV",
+        "D": "II, III, and IV"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q19-ANS",
+        "option": "B",
+        "answer_text": "I, III, and IV"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q19-SOL",
+        "solution_text": "The [CoF6]3- complex has octahedral geometry and is sp³d² hybridised. Since fluoride is a weak field ligand, the complex is high spin. However, the coordination number is 6, and the oxidation state of cobalt is +3, not +6."
+      },
+      "quick_tip": "Weak field ligands like F- typically result in high-spin octahedral complexes.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Coordination Compounds",
+        "topic": "Bonding in Coordination Compounds (VBT, Crystal Field Theory)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q20",
+      "question_number": 20,
+      "question_text": "20. A haloalkane undergoes SŅ2 or SŅ1 reaction depending on:",
+      "options": {
+        "A": "Solvent used in the reaction",
+        "B": "Low temperature",
+        "C": "The type of halogen atom",
+        "D": "Stability of the haloalkane"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q20-ANS",
+        "option": "A",
+        "answer_text": "Solvent used in the reaction"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q20-SOL",
+        "solution_text": "Whether a haloalkane undergoes SN1 or SN2 reaction depends on the solvent used. Polar protic solvents favor the SN1 mechanism, while polar aprotic solvents favor the SN2 mechanism."
+      },
+      "quick_tip": "The solvent plays a crucial role in determining the reaction mechanism of haloalkanes.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Nucleophilic Substitution Reactions (SN1 and SN2)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q21",
+      "question_number": 21,
+      "question_text": "21. 2-Methylpropane can be prepared by Wurtz reaction. The haloalkanes taken along with metallic sodium and dry ether are:",
+      "options": {
+        "A": "Chloromethane and 2-chloropropane",
+        "B": "Chloroethane and chloromethane",
+        "C": "Chloroethane and 1-chloropropane",
+        "D": "Chloromethane and 1-chloropropane"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q21-ANS",
+        "option": "A",
+        "answer_text": "Chloromethane and 2-chloropropane"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q21-SOL",
+        "solution_text": "In the Wurtz reaction, chloromethane reacts with 2-chloropropane in the presence of metallic sodium and dry ether to form 2-methylpropane. The reaction involves the coupling of two alkyl radicals."
+      },
+      "quick_tip": "The Wurtz reaction is effective for synthesizing alkanes by coupling haloalkanes with sodium metal.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Wurtz Reaction",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q22",
+      "question_number": 22,
+      "question_text": "22. In the analysis of III group basic radicals of salts, the purpose of adding NH4Cl (solid) to NH4OH is:",
+      "options": {
+        "A": "to increase the concentration of OH- ions.",
+        "B": "to precipitate the radicals of group IV and V.",
+        "C": "to suppress the dissociation of NH4OH.",
+        "D": "to introduce Cl- ions."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q22-ANS",
+        "option": "C",
+        "answer_text": "to suppress the dissociation of NH4OH"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q22-SOL",
+        "solution_text": "The addition of NH4Cl to NH4OH suppresses the dissociation of NH4OH due to the common ion effect. This helps in controlling the concentration of OH¯ ions, ensuring selective precipitation of group III radicals."
+      },
+      "quick_tip": "The common ion effect suppresses the dissociation of weak electrolytes, like NH4OH, when a strong electrolyte with a common ion (NH4+) is added.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Ionic Equilibrium",
+        "topic": "Common Ion Effect (Qualitative Analysis)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q23",
+      "question_number": 23,
+      "question_text": "23. Solubility product of CaC2O4 at a given temperature in pure water is 4 × 10-9 mol²/L². Solubility of CaC2O4 at the same temperature is:",
+      "options": {
+        "A": "6.3 × 10--5 mol/L",
+        "B": "2 × 10--5 mol/L",
+        "C": "2 × 10--4 mol/L",
+        "D": "6.3 × 10--4 mol/L"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q23-ANS",
+        "option": "A",
+        "answer_text": "6.3 × 10--5 mol/L"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q23-SOL",
+        "solution_text": "The dissociation of CaC2O4 in water is as follows:CaC2O4 → Ca2+ + C2O42-Let the solubility of CaC2O4 be S. The solubility product is given by:Ksp = S2 4 × 10--9S = √4 × 10--9 = 2 × 10^-4 mol/L XAfter correcting for the given stoichiometric coefficients:S = 6.3 × 10--5 mol/L"
+      },
+      "quick_tip": "The solubility product (Ksp) helps determine the solubility (S) of sparingly soluble salts using Ksp = S2.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Ionic Equilibrium",
+        "topic": "Solubility Product",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Moderate",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q24",
+      "question_number": 24,
+      "question_text": "24. In the reaction between moist SO2 and acidified permanganate solution:",
+      "options": {
+        "A": "SO2 is oxidised to SO42-, MnO4¯ is reduced to Mn2+.",
+        "B": "SO2 is reduced to S, MnO4¯ is oxidised to MnO4.",
+        "C": "SO2 is oxidised to SO32-, MnO4¯ is reduced to MnO2.",
+        "D": "SO2 is reduced to H2S, MnO4¯ is oxidised to MnO4."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q24-ANS",
+        "option": "A",
+        "answer_text": "SO2 is oxidised to SO42-, MnO4¯ is reduced to Mn2+."
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q24-SOL",
+        "solution_text": "The reaction occurs as follows:2MnO4 + 3SO2 + 4H+ → 2Mn2+ + 3SO42- + 2H2OHere, SO2 is oxidised to SO42-, and MnO4¯ is reduced to Mn2+."
+      },
+      "quick_tip": "In redox reactions, permanganate (MnO4¯) often acts as an oxidising agent, and sulphur dioxide (SO2) is oxidised.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Redox Reactions",
+        "topic": "Redox Reactions involving Permanganate and Sulfur Dioxide",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q25",
+      "question_number": 25,
+      "question_text": "25. Which one of the following properties is generally not applicable to ionic hydrides?",
+      "options": {
+        "A": "Non-volatile",
+        "B": "Non-conducting in solid state",
+        "C": "Crystalline",
+        "D": "Volatile"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q25-ANS",
+        "option": "D",
+        "answer_text": "Volatile"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q25-SOL",
+        "solution_text": "Ionic hydrides are typically non-volatile due to their high melting points and strong ionic bonding. They are also crystalline solids and do not conduct electricity in the solid state."
+      },
+      "quick_tip": "Ionic hydrides are stable, high-melting-point compounds and exhibit non-volatility.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Hydrogen",
+        "topic": "Ionic Hydrides",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q26",
+      "question_number": 26,
+      "question_text": "26. Which one of the following nitrates will decompose to give NO2 on heating?",
+      "options": {
+        "A": "NaNO3",
+        "B": "KNO3",
+        "C": "RbNO3",
+        "D": "LiNO3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q26-ANS",
+        "option": "D",
+        "answer_text": "LiNO3"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q26-SOL",
+        "solution_text": "Lithium nitrate decomposes on heating to form lithium oxide, nitrogen dioxide, and oxygen gas:4LiNO3 → 2Li2O + 4NO2 + O2Other alkali metal nitrates (e.g., NaNO3, KNO3, RbNO3) decompose to form the corresponding nitrite and oxygen gas, without producing NO2."
+      },
+      "quick_tip": "LiNO3 is unique among alkali metal nitrates because it produces NO2 upon decomposition.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "The s-Block Elements",
+        "topic": "Thermal Stability of Alkali Metal Nitrates",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q27",
+      "question_number": 27,
+      "question_text": "27. Which of the following halides cannot be hydrolysed?",
+      "options": {
+        "A": "CCl4",
+        "B": "SiCl4",
+        "C": "GeCl4",
+        "D": "SnCl4"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q27-ANS",
+        "option": "A",
+        "answer_text": "CCl4"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q27-SOL",
+        "solution_text": "CCl4 cannot be hydrolysed because carbon lacks vacant d-orbitals to accommodate electrons from water molecules. In contrast, SiCl4, GeCl4, and SnCl4 can undergo hydrolysis due to the presence of vacant d-orbitals."
+      },
+      "quick_tip": "The inability of CCl4 to hydrolyse is due to the absence of d-orbitals in carbon.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "The p-Block Elements",
+        "topic": "Hydrolysis of Group 14 Halides",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q28",
+      "question_number": 28,
+      "question_text": "28. 0.48 g of an organic compound on complete combustion produced 0.22 g of CO2. The percentage of C in the given organic compound is:",
+      "options": {
+        "A": "25",
+        "B": "50",
+        "C": "12.5",
+        "D": "87.5"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q28-ANS",
+        "option": "C",
+        "answer_text": "12.5"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q28-SOL",
+        "solution_text": "The percentage of carbon can be calculated using the formula:%C = (12 (atomic mass of C) × mass of CO2 / 44 (molecular mass of CO2) × mass of organic compound) × 100%C = (12 × 0.22 / 44 x 0.48) × 100 = 12.5%"
+      },
+      "quick_tip": "The carbon percentage in an organic compound can be determined by analyzing the CO2 produced during combustion.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Organic Chemistry - Some Basic Principles and Techniques",
+        "topic": "Quantitative Analysis (Estimation of Carbon)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Moderate",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q29",
+      "question_number": 29,
+      "question_text": "29. In the given sequence of reactions, identify ‘P”, ‘Q' and 'S' respectively:CH2=CH₂ P → CH2-CH2 Br Br CH2 = CH - Br R → CH=CH S → C6H6",
+      "options": {
+        "A": "Br2, Alc.KOH, NaOH, Al2O3",
+        "B": "HBr, Alc.KOH, CaC2, KMnO4",
+        "C": "HBr, Alc.KOH, NaNH2, Red hot iron tube",
+        "D": "Br2, Alc.KOH, NaNH2, Red hot iron tube"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q29-ANS",
+        "option": "D",
+        "answer_text": "Br2, Alc.KOH, NaNH2, Red hot iron tube"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q29-SOL",
+        "solution_text": "The sequence of reactions is as follows: 1. Bromination: Br2 adds to CH2=CH-CH=CH2, forming CH2-CHBr-CHBr-CH2. 2. Dehydrohalogenation: Treatment with alcoholic KOH removes two HBr molecules, resulting in CHCH. 3. Reaction with NaNH2 and heat generates C6H6 (benzene)."
+      },
+      "quick_tip": "The reaction pathway involves halogenation, dehydrohalogenation, and cyclization to form benzene.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Hydrocarbons",
+        "topic": "Preparation of Benzene (Bromination, Dehydrohalogenation, Cyclization)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2024-CHEM-Q29-IMG1",
+        "image_placeholder_path": "images/KCET-2024-CHEM-Q29-IMG1.png"
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q30",
+      "question_number": 30,
+      "question_text": "30. The first chlorinated organic insecticide prepared is:",
+      "options": {
+        "A": "Gammaxene",
+        "B": "Chloroform",
+        "C": "COCl2",
+        "D": "DDT"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q30-ANS",
+        "option": "D",
+        "answer_text": "DDT"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q30-SOL",
+        "solution_text": "DDT (Dichloro Diphenyl Trichloroethane) was the first chlorinated organic insecticide widely used for pest control. Its synthesis and use marked a breakthrough in controlling malaria and agricultural pests."
+      },
+      "quick_tip": "DDT, while effective, has environmental and health impacts, leading to its restricted use.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemistry in Everyday Life",
+        "topic": "Insecticides (DDT)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q31",
+      "question_number": 31,
+      "question_text": "31. Which of the following crystals has the unit cell such that a = b ≠ cand α = β = 90°, γ = 120°?",
+      "options": {
+        "A": "Zinc blende",
+        "B": "Graphite",
+        "C": "Cinnabar",
+        "D": "Potassium dichromate"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q31-ANS",
+        "option": "B",
+        "answer_text": "Graphite"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q31-SOL",
+        "solution_text": "Graphite has a hexagonal crystal structure characterized by a ≠ b ≠ c and α = β = 90°, γ = 120°. This arrangement results in its unique layered properties."
+      },
+      "quick_tip": "Graphite's hexagonal structure is responsible for its excellent lubricating properties and electrical conductivity.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solid State",
+        "topic": "Crystal Systems",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q32",
+      "question_number": 32,
+      "question_text": "32. MnO exhibits:",
+      "options": {
+        "A": "Ferrimagnetism",
+        "B": "Antiferromagnetism",
+        "C": "Ferromagnetism",
+        "D": "Paramagnetism"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q32-ANS",
+        "option": "B",
+        "answer_text": "Antiferromagnetism"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q32-SOL",
+        "solution_text": "MnO exhibits antiferromagnetism due to the alignment of magnetic moments in opposite directions, which cancel each other out. This property is common in materials with a specific arrangement of magnetic ions."
+      },
+      "quick_tip": "Antiferromagnetic materials exhibit no net magnetization due to the opposing alignment of magnetic moments.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solid State",
+        "topic": "Magnetic Properties of Solids",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q33",
+      "question_number": 33,
+      "question_text": "33. The number of atoms in 4.5 g of a face-centred cubic crystal with edge length 300 pm is:(Given: Density d = 3 g/cm³, Na = 6.022 × 1023)",
+      "options": {
+        "A": "6.6 × 1020",
+        "B": "6.6 × 1023",
+        "C": "6.6 × 1019",
+        "D": "6.6 × 1022"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q33-ANS",
+        "option": "D",
+        "answer_text": "6.6 × 1022"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q33-SOL",
+        "solution_text": "For a face-centred cubic (FCC) crystal, the relationship is:d = Z·M / NA·a3Here:d = 3 g/cm³, a = 300 × 10-10 cm, Na = 6.022 × 1023Rearranging:M = d·NA·a3 / ZSubstitute Z = 4 (FCC structure):M = 3 · (6.022 × 1023) · (300 × 10-10)3 / 4 = 40.5 g/molThus, 40.5 g of the crystal contains 6.022 × 1023 atoms. For 4.5 g:Number of atoms = (4.5 · 6.022 × 1023) / 40.5 = 6.6 × 1022 atoms."
+      },
+      "quick_tip": "In FCC structures, the number of atoms is proportional to the density and inversely proportional to the molar mass.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solid State",
+        "topic": "Calculations Involving Unit Cell Dimensions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q34",
+      "question_number": 34,
+      "question_text": "34. Vapour pressure of a solution containing 18 g of glucose and 178.2 g of water at 100°C is:(Vapour pressure of pure water at 100°C = 760 torr)",
+      "options": {
+        "A": "76.0 torr",
+        "B": "752.0 torr",
+        "C": "7.6 torr",
+        "D": "3207.6 torr"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q34-ANS",
+        "option": "B",
+        "answer_text": "752.0 torr"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q34-SOL",
+        "solution_text": "The mole fractions of glucose and water are calculated as:Moles of water: nH2O = 178.2 / 18 = 9.9Moles of glucose: nC6H12O6 = 18 / 180 = 0.1XC6H12O6 = 0.1 / (0.1 + 9.9) = 0.01The relative lowering of vapour pressure is given by: (P° - P) / P° = XC6H12O6P = P°(1 - XC6H12O6) = 760(1 – 0.01) = 760 – 7.6 = 752.4 torr."
+      },
+      "quick_tip": "The presence of a non-volatile solute lowers the vapour pressure of the solvent proportionally to the solute's mole fraction.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solutions",
+        "topic": "Relative Lowering of Vapour Pressure (Raoult's Law)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Moderate",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q35",
+      "question_number": 35,
+      "question_text": "35. A mixture of phenol and aniline shows negative deviation from Raoult's law. This is due to the formation of:",
+      "options": {
+        "A": "Polar covalent bond",
+        "B": "Non-polar covalent bond",
+        "C": "Intermolecular Hydrogen bond",
+        "D": "Intramolecular Hydrogen bond"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q35-ANS",
+        "option": "C",
+        "answer_text": "Intermolecular Hydrogen bond"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q35-SOL",
+        "solution_text": "The negative deviation from Raoult's law in a phenol-aniline mixture occurs due to the formation of strong intermolecular hydrogen bonds between phenol and aniline molecules. This leads to a lower vapour pressure than expected."
+      },
+      "quick_tip": "Negative deviations from Raoult's law occur when solute-solvent interactions are stronger than solvent-solvent or solute-solute interactions.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solutions",
+        "topic": "Deviations from Raoult's Law",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q36",
+      "question_number": 36,
+      "question_text": "36. Which one of the following pairs will show positive deviation from Raoult's Law?",
+      "options": {
+        "A": "Water - HCl",
+        "B": "Benzene - Methanol",
+        "C": "Water - HNO3",
+        "D": "Acetone - Chloroform"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q36-ANS",
+        "option": "B",
+        "answer_text": "Benzene - Methanol"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q36-SOL",
+        "solution_text": "Benzene and methanol show positive deviation from Raoult's law because the interactions between benzene and methanol molecules are weaker than their respective self-interactions. This results in higher vapour pressure than expected."
+      },
+      "quick_tip": "Positive deviation occurs when solute-solvent interactions are weaker than solute-solute or solvent-solvent interactions.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solutions",
+        "topic": "Deviations from Raoult's Law",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q37",
+      "question_number": 37,
+      "question_text": "37. How many Coulombs are required to oxidize 0.1 mole of H2O2 to oxygen?",
+      "options": {
+        "A": "1.93 × 105 C",
+        "B": "1.93 × 104 C",
+        "C": "3.86 × 104 C",
+        "D": "9.65 × 103 C"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q37-ANS",
+        "option": "B",
+        "answer_text": "1.93 × 104 C"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q37-SOL",
+        "solution_text": "The reaction is:H2O2 → O2 + 2H+ + 2e¯1 mole of H2O2 requires 2 Faradays (2 × 96500 C). For 0.1 mole:Charge required: 0.1 × 2 × 96500 = 19300 C = 1.93 × 104 С."
+      },
+      "quick_tip": "For redox reactions, the total charge is calculated using moles of electrons transferred and the Faraday constant.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrochemistry",
+        "topic": "Faraday's Laws of Electrolysis",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Moderate",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q38",
+      "question_number": 38,
+      "question_text": "38. A current of 3 A is passed through a molten calcium salt for 1 hr 47 min 13 sec. The mass of calcium deposited is:(Molar mass of Ca = 40 g/mol)",
+      "options": {
+        "A": "6.0 g",
+        "B": "2.0 g",
+        "C": "8.0 g",
+        "D": "4.0 g"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q38-ANS",
+        "option": "D",
+        "answer_text": "4.0 g"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q38-SOL",
+        "solution_text": "The formula for mass deposited is:w = E·I·t / 96500Where:E = Molar mass of Ca / n = 40 / 2 = 20 g/mol.I = 3 A, t = (1 × 3600 + 47 × 60 + 13) s = 6433 s.w = (20·3·6433) / 96500 = 4.0 g."
+      },
+      "quick_tip": "To calculate mass deposited during electrolysis, use Faraday's laws and account for the time in seconds.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrochemistry",
+        "topic": "Faraday's Laws of Electrolysis",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Hard",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q39",
+      "question_number": 39,
+      "question_text": "39. The value of 'A' in the equation Λ°m = Λm, A - AC is same for the pair:",
+      "options": {
+        "A": "NaCl and CaCl2",
+        "B": "CaCl2 and MgSO4",
+        "C": "NaCl and KBr",
+        "D": "MgCl2 and NaCl"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q39-ANS",
+        "option": "C",
+        "answer_text": "NaCl and KBr"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q39-SOL",
+        "solution_text": "The constant 'A' depends on the nature of the solvent and ionic strength, which is the same for salts like NaCl and KBr since both are 1:1 electrolytes with similar ionic mobilities."
+      },
+      "quick_tip": "The constant 'A' remains the same for electrolytes with similar dissociation patterns and ionic mobilities.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrochemistry",
+        "topic": "Kohlrausch's Law and Molar Conductivity",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q40",
+      "question_number": 40,
+      "question_text": "40. For the reaction A ⇌ B, Ea = 50 kJ/mol and ∆H = −20 kJ/mol. When a catalyst is added, Ea decreases by 10 kJ/mol. What is the Ea for the backward reaction in the presence of the catalyst?",
+      "options": {
+        "A": "60 kJ/mol",
+        "B": "40 kJ/mol",
+        "C": "70 kJ/mol",
+        "D": "20 kJ/mol"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q40-ANS",
+        "option": "A",
+        "answer_text": "60 kJ/mol"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q40-SOL",
+        "solution_text": "The relationship between the activation energies of the forward (Ea,f) and backward (Ea,b) reactions and the enthalpy change (∆Η) is given by:ΔΗ = Ea,f – Ea,bFor the uncatalyzed reaction:-20 = 50 - Ea,b ⇒ Ea,b = 70 kJ/mol.With the catalyst, the forward activation energy decreases by 10 kJ/mol, so:Ea,f = 50 - 10 = 40 kJ/mol.Ea,b = Ea,f - ΔΗ = 40 − (−20) = 60 kJ/mol."
+      },
+      "quick_tip": "Catalysts lower the activation energies for both forward and backward reactions by the same amount without altering ΔΗ.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemical Kinetics",
+        "topic": "Activation Energy and Catalysis",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Moderate",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q41",
+      "question_number": 41,
+      "question_text": "41. For the reaction PCl5 → PCl3 + Cl2, the rate and rate constant are 1.02 × 10-4 mol L¯¹s¯¹ and 3.4 × 10-5 s¯¹, respectively, at a given instant. The molar concentration of PCl5 at that instant is:",
+      "options": {
+        "A": "8.0 mol/L",
+        "B": "3.0 mol/L",
+        "C": "0.2 mol/L",
+        "D": "2.0 mol/L"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q41-ANS",
+        "option": "B",
+        "answer_text": "3.0 mol/L"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q41-SOL",
+        "solution_text": "The rate law for the reaction is:Rate = k[PCl5]Substitute the given values:1.02 × 10-4 = (3.4 × 10-5)[PCl5][PCl5] = 1.02 × 10-4 / (3.4 x 10-5) = 3.0 mol/L."
+      },
+      "quick_tip": "For first-order reactions, the concentration can be determined using the rate law equation: Rate = k[Reactant].",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemical Kinetics",
+        "topic": "Rate Law and Rate Constant",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Moderate",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q42",
+      "question_number": 42,
+      "question_text": "42. Which one of the following does not represent the Arrhenius equation?",
+      "options": {
+        "A": "log k = log A - Ea / 2.303RT",
+        "B": "k = Ae-Ea/RT",
+        "C": "ln k = ln A - Ea / RT",
+        "D": "k = AeEa/RT"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q42-ANS",
+        "option": "D",
+        "answer_text": "k = AeEa/RT"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q42-SOL",
+        "solution_text": "The Arrhenius equation is expressed as:k = Ae-Ea/RTwhere Ea is the activation energy. Option 4 incorrectly shows k = AeEa/RT, which is not valid as it implies an exponential increase without activation energy."
+      },
+      "quick_tip": "The correct form of the Arrhenius equation is k = Ae-Ea/RT, where the negative exponent reflects the dependency of k on Ea.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemical Kinetics",
+        "topic": "Arrhenius Equation",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q43",
+      "question_number": 43,
+      "question_text": "43. Identify the incorrect statement:(A) Values of colligative properties of colloidal solutions are of small order compared to values of true solutions.(B) Tyndall effect is observed only when the diameter of the dispersed particles is not much smaller than the wavelength of incident light.(C) Colour of colloidal solution depends on the wavelength of light scattered by the dispersed particles.(D) Brownian movement is due to balanced bombardment of molecules of the dispersion medium on colloidal particles.",
+      "options": {
+        "A": "Values of colligative properties of colloidal solutions are of small order compared to values of true solutions.",
+        "B": "Tyndall effect is observed only when the diameter of the dispersed particles is not much smaller than the wavelength of incident light.",
+        "C": "Colour of colloidal solution depends on the wavelength of light scattered by the dispersed particles.",
+        "D": "Brownian movement is due to balanced bombardment of molecules of the dispersion medium on colloidal particles."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q43-ANS",
+        "option": "D",
+        "answer_text": "Brownian movement is due to balanced bombardment of molecules of the dispersion medium on colloidal particles."
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q43-SOL",
+        "solution_text": "Brownian movement occurs due to the unbalanced bombardment of molecules of the dispersion medium on colloidal particles, leading to their random motion."
+      },
+      "quick_tip": "Brownian movement is a key characteristic of colloids, resulting from random, unbalanced molecular collisions.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Surface Chemistry",
+        "topic": "Properties of Colloids (Brownian Movement)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q44",
+      "question_number": 44,
+      "question_text": "44. For the coagulation of positively charged hydrated ferric-oxide sol, the flocculating power of the ions is in the order:",
+      "options": {
+        "A": "PO43- > SO42- > Cl- > [Fe(CN)6]4-",
+        "B": "Cl- > SO42- > PO43- > [Fe(CN)6]4-",
+        "C": "SO42- = Cl- = PO43- = [Fe(CN)6]4-",
+        "D": "[Fe(CN)6]4- > PO43- > SO42- > Cl-"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q44-ANS",
+        "option": "D",
+        "answer_text": "[Fe(CN)6]4- > PO43- > SO42- > Cl-"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q44-SOL",
+        "solution_text": "The flocculating power of ions depends on their charge according to the Schulze-Hardy rule. Higher charged ions have greater flocculating power:Flocculating power ∝ Charge on the ion."
+      },
+      "quick_tip": "The Schulze-Hardy rule states that the coagulating power of an ion increases with its charge.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Surface Chemistry",
+        "topic": "Coagulation and Hardy-Schulze Rule",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q45",
+      "question_number": 45,
+      "question_text": "45. Gold sol is not a:",
+      "options": {
+        "A": "Macromolecular colloid",
+        "B": "Lyophobic colloid",
+        "C": "Multimolecular colloid",
+        "D": "Negatively charged colloid"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q45-ANS",
+        "option": "A",
+        "answer_text": "Macromolecular colloid"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q45-SOL",
+        "solution_text": "Gold sol is a multimolecular colloid formed by the aggregation of gold atoms into clusters. It is lyophobic and negatively charged but not a macromolecular colloid, which consists of large molecules such as proteins or polymers."
+      },
+      "quick_tip": "Gold sol is an example of a multimolecular colloid, not a macromolecular colloid.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Surface Chemistry",
+        "topic": "Classification of Colloids",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q46",
+      "question_number": 46,
+      "question_text": "46. The incorrect statement about the Hall-Héroult process is:(A) Carbon anode is oxidised to CO and CO2.(B) Na3AlF6 helps to decrease the melting point of the electrolyte.(C) CaF2 helps to increase the conductivity of the electrolyte.(D) Oxidation state of oxygen changes in the overall cell reaction.",
+      "options": {
+        "A": "Carbon anode is oxidised to CO and CO2.",
+        "B": "Na3AlF6 helps to decrease the melting point of the electrolyte.",
+        "C": "CaF2 helps to increase the conductivity of the electrolyte.",
+        "D": "Oxidation state of oxygen changes in the overall cell reaction."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q46-ANS",
+        "option": "D",
+        "answer_text": "Oxidation state of oxygen changes in the overall cell reaction."
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q46-SOL",
+        "solution_text": "In the Hall-Héroult process, the oxidation state of oxygen does not change in the overall cell reaction. The process involves the reduction of alumina to aluminum and oxidation of carbon to CO and CO2."
+      },
+      "quick_tip": "The Hall-Héroult process involves the reduction of aluminum but does not involve a change in the oxidation state of oxygen.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "General Principles and Processes of Isolation of Elements",
+        "topic": "Metallurgy of Aluminium (Hall-Héroult Process)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q47",
+      "question_number": 47,
+      "question_text": "47. Select the correct statement:(A) Roasting involves heating the ore in the absence of air.(B) Calcination involves heating the ore above its melting point.(C) Smelting involves heating the ore with a suitable reducing agent and flux below its melting point.(D) Calcination of calcium carbonate is endothermic.",
+      "options": {
+        "A": "Roasting involves heating the ore in the absence of air.",
+        "B": "Calcination involves heating the ore above its melting point.",
+        "C": "Smelting involves heating the ore with a suitable reducing agent and flux below its melting point.",
+        "D": "Calcination of calcium carbonate is endothermic."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q47-ANS",
+        "option": "D",
+        "answer_text": "Calcination of calcium carbonate is endothermic."
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q47-SOL",
+        "solution_text": "Calcination is the process of heating an ore in the absence of air or in limited supply of oxygen. The decomposition of calcium carbonate during calcination is an endothermic process:CaCO3 → CaO + CO2"
+      },
+      "quick_tip": "Calcination typically involves endothermic reactions, including the decomposition of carbonates and hydroxides.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "General Principles and Processes of Isolation of Elements",
+        "topic": "Concentration of Ores (Calcination, Roasting, Smelting)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q48",
+      "question_number": 48,
+      "question_text": "48. NO2 gas is:",
+      "options": {
+        "A": "Colourless, neutral",
+        "B": "Colourless, acidic",
+        "C": "Brown, acidic",
+        "D": "Brown, neutral"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q48-ANS",
+        "option": "C",
+        "answer_text": "Brown, acidic"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q48-SOL",
+        "solution_text": "NO2 is a brown-coloured gas and acidic in nature. It forms nitric acid when dissolved in water:2NO2 + H2O → HNO3 + HNO2."
+      },
+      "quick_tip": "The acidic nature of NO2 arises from its ability to form acids in aqueous solutions.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "The p-Block Elements",
+        "topic": "Oxides of Nitrogen",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q49",
+      "question_number": 49,
+      "question_text": "49. Identify the incorrect statement from the following:(A) Oxides of nitrogen in the atmosphere can cause depletion of the ozone layer.(B) Ozone absorbs the intense ultraviolet radiation of the Sun.(C) Depletion of the ozone layer is because of its chemical reactions with chlorofluoroalkanes.(D) Ozone absorbs infrared radiation.",
+      "options": {
+        "A": "Oxides of nitrogen in the atmosphere can cause depletion of the ozone layer.",
+        "B": "Ozone absorbs the intense ultraviolet radiation of the Sun.",
+        "C": "Depletion of the ozone layer is because of its chemical reactions with chlorofluoroalkanes.",
+        "D": "Ozone absorbs infrared radiation."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q49-ANS",
+        "option": "D",
+        "answer_text": "Ozone absorbs infrared radiation."
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q49-SOL",
+        "solution_text": "Ozone primarily absorbs ultraviolet (UV) radiation and prevents it from reaching the Earth's surface. It does not absorb infrared radiation, which is absorbed by greenhouse gases like CO2 and CH4."
+      },
+      "quick_tip": "Ozone absorption is limited to UV radiation and does not contribute to the greenhouse effect.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Environmental Chemistry",
+        "topic": "Ozone Layer Depletion",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q50",
+      "question_number": 50,
+      "question_text": "50. The correct decreasing order of boiling points of hydrogen halides is:",
+      "options": {
+        "A": "HF > HCl > HBr > HI",
+        "B": "HI > HBr > HCl > HF",
+        "C": "HF > HI > HBr > HCl",
+        "D": "HI > HF > HBr > HCl"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q50-ANS",
+        "option": "C",
+        "answer_text": "HF > HI > HBr > HCl"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q50-SOL",
+        "solution_text": "The boiling point of HF is the highest due to strong hydrogen bonding. Among the remaining halides, the boiling point increases with molecular weight, following the order:HF > HI > HBr > HCl"
+      },
+      "quick_tip": "Hydrogen bonding and molecular weight both influence the boiling points of hydrogen halides.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "The p-Block Elements",
+        "topic": "Properties of Halogens and their Compounds",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q51",
+      "question_number": 51,
+      "question_text": "51. The synthetically produced radioactive noble gas by the collision of 249 98Cf with 48 20 Ca is:",
+      "options": {
+        "A": "Radon",
+        "B": "Radium",
+        "C": "Oganesson",
+        "D": "Xenon"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q51-ANS",
+        "option": "C",
+        "answer_text": "Oganesson"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q51-SOL",
+        "solution_text": "The synthesis of Oganesson (Z = 118) involves the collision:249 98Cf + 48 20Ca → 294 118Og + 3n.This produces Oganesson, the heaviest known noble gas."
+      },
+      "quick_tip": "Oganesson (Z = 118) is a synthetic element and the last member of the noble gas group in the periodic table.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "The p-Block Elements",
+        "topic": "Noble Gases (Synthesis of New Elements)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q52",
+      "question_number": 52,
+      "question_text": "52. The transition element (≈ 5%) present with lanthanoid metal in Misch metal is:",
+      "options": {
+        "A": "Mg",
+        "B": "Fe",
+        "C": "Zn",
+        "D": "Co"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q52-ANS",
+        "option": "B",
+        "answer_text": "Fe"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q52-SOL",
+        "solution_text": "Misch metal is an alloy composed of approximately 95% lanthanoid metals and 5% iron (Fe). It is widely used in lighter flints and other industrial applications."
+      },
+      "quick_tip": "Misch metal contains lanthanoids as the major component and iron as a minor component for added strength.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "The d- and f-Block Elements",
+        "topic": "Lanthanoids (Misch metal)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q53",
+      "question_number": 53,
+      "question_text": "53. Match the following:I. Zn2+ i. d8 configurationII. Cu2+ ii. ColourlessIII. Ni2+ iii. μ = 1.73 BMMATCH Codes:(A) i, ii, iii(B)ii, iii, i(C) ii, i, iii(D) i, iii, ii",
+      "options": {
+        "A": "i, ii, iii",
+        "B": "ii, iii, i",
+        "C": "ii, i, iii",
+        "D": "i, iii, ii"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q53-ANS",
+        "option": "B",
+        "answer_text": "ii, iii, i"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q53-SOL",
+        "solution_text": "- Zn2+ has no unpaired electrons, making it colourless.- Cu2+ has a magnetic moment of 1.73 BM due to one unpaired electron.- Ni2+ has a d8 configuration."
+      },
+      "quick_tip": "The colour and magnetic moment of ions depend on their electronic configuration and the number of unpaired electrons.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "The d- and f-Block Elements",
+        "topic": "Electronic Configuration, Colour, and Magnetic Properties of Transition Metal Ions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q54",
+      "question_number": 54,
+      "question_text": "54. Which of the following statements related to lanthanoids is incorrect?(A) Lanthanoids are silvery white soft metals.(B) Samarium shows +2 oxidation state.(C) Ce4+ solutions are widely used as oxidising agents in titrimetric analysis.(D) Colour of lanthanoid ions in solution is due to d-d transitions.",
+      "options": {
+        "A": "Lanthanoids are silvery white soft metals.",
+        "B": "Samarium shows +2 oxidation state.",
+        "C": "Ce4+ solutions are widely used as oxidising agents in titrimetric analysis.",
+        "D": "Colour of lanthanoid ions in solution is due to d-d transitions."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q54-ANS",
+        "option": "D",
+        "answer_text": "Colour of lanthanoid ions in solution is due to d-d transitions."
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q54-SOL",
+        "solution_text": "The colour of lanthanoid ions in solution is due to f-f transitions, not d-d transitions. Lanthanoids have partially filled f-orbitals, and their electronic transitions occur within the f-orbital."
+      },
+      "quick_tip": "Lanthanoid ions exhibit colour due to f-f transitions, unlike transition metals which show d-d transitions.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "The d- and f-Block Elements",
+        "topic": "Lanthanoids (Electronic Configuration, Oxidation States, Colour)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q55",
+      "question_number": 55,
+      "question_text": "55. A metalloid is:",
+      "options": {
+        "A": "Bi",
+        "B": "Sb",
+        "C": "P",
+        "D": "Se"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q55-ANS",
+        "option": "B",
+        "answer_text": "Sb and 4. Se"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q55-SOL",
+        "solution_text": "According to the NCERT classification of group 15 and 16 elements, antimony (Sb) and selenium (Se) are metalloids due to their intermediate properties between metals and non-metals."
+      },
+      "quick_tip": "Metalloids exhibit properties of both metals and non-metals and are typically semiconductors.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "topic": "Metalloids",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q56",
+      "question_number": 56,
+      "question_text": "56. A pair of isoelectronic species having a bond order of one is:",
+      "options": {
+        "A": "N2, CO",
+        "B": "N2, NO+",
+        "C": "O2-, F2",
+        "D": "CO, NO+"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q56-ANS",
+        "option": "C",
+        "answer_text": "O2-, F2"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q56-SOL",
+        "solution_text": "O2- and F2 are isoelectronic species with 18 electrons each. Their molecular orbital configurations result in a bond order of one."
+      },
+      "quick_tip": "Isoelectronic species have the same number of electrons and similar molecular properties such as bond order.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "topic": "Molecular Orbital Theory (Bond Order, Isoelectronic Species)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q57",
+      "question_number": 57,
+      "question_text": "57. Identify the wrong relation for real gases:(A) Z = Vreal / Videal(B) preal = Pideal + an2 / V2(C) Vreal = Videal - nb(D)(p + an2/V2) (V – b) = RT",
+      "options": {
+        "A": "Z = Vreal / Videal",
+        "B": "preal = Pideal + an2 / V2",
+        "C": "Vreal = Videal - nb",
+        "D": "(p + an2/V2) (V – b) = RT"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q57-ANS",
+        "option": "A",
+        "answer_text": "Z = Vreal / Videal"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q57-SOL",
+        "solution_text": "The correct expression for the compressibility factor (Z) is:Z = Preal Vreal / RTThe relation Z = Vreal / Videal is incorrect because it does not account for deviations from ideality caused by intermolecular forces and molecular volume."
+      },
+      "quick_tip": "The compressibility factor (Z) measures how much a real gas deviates from ideal gas behavior.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "States of Matter",
+        "topic": "Real Gases (Compressibility Factor)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q58",
+      "question_number": 58,
+      "question_text": "58. From the diagram, Δr H for the reaction C → A is:",
+      "options": {
+        "A": "+35 J",
+        "B": "-15 J",
+        "C": "-35 J",
+        "D": "+15 J"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q58-ANS",
+        "option": "C",
+        "answer_text": "-35 J"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q58-SOL",
+        "solution_text": "Given the reaction:A ΔH1, 2B ΔH2, C,ΔH1 + ΔH2 = ∆H(C → A) = −35 J. Therefore, the enthalpy change for the reverse reaction (C → A) is:ΔH -35 J."
+      },
+      "quick_tip": "Reverse enthalpy changes are equal in magnitude but opposite in sign to forward enthalpy changes.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Thermodynamics",
+        "topic": "Hess's Law (Enthalpy Change of Reaction)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2024-CHEM-Q58-IMG1",
+        "image_placeholder_path": "images/KCET-2024-CHEM-Q58-IMG1.png"
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Moderate",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q59",
+      "question_number": 59,
+      "question_text": "59. For which one of the following mixtures is composition uniform throughout?",
+      "options": {
+        "A": "Sand and water",
+        "B": "Grains and pulses with stone",
+        "C": "Mixture of oil and water",
+        "D": "Dilute aqueous solution of sugar"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q59-ANS",
+        "option": "D",
+        "answer_text": "Dilute aqueous solution of sugar"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q59-SOL",
+        "solution_text": "A dilute aqueous solution of sugar is a homogeneous mixture where the sugar molecules are uniformly distributed throughout the solvent. In contrast, the other options represent heterogeneous mixtures with non-uniform compositions."
+      },
+      "quick_tip": "Homogeneous mixtures have uniform composition and properties throughout the solution.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Some Basic Concepts of Chemistry",
+        "topic": "Classification of Mixtures (Homogeneous and Heterogeneous)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2024-CHEM-Q60",
+      "question_number": 60,
+      "question_text": "60. The energy associated with the first orbit of He⁺ is:",
+      "options": {
+        "A": "0 J",
+        "B": "-8.72 × 10-18 J",
+        "C": "−4.58 × 10-18 J",
+        "D": "-0.545 × 10-18 J"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2024-CHEM-Q60-ANS",
+        "option": "B",
+        "answer_text": "-8.72 × 10-18 J"
+      },
+      "solution": {
+        "solution_id": "KCET-2024-CHEM-Q60-SOL",
+        "solution_text": "The energy associated with an orbit is given by:En = -2.18 × 10-18 . Z2 / n2 J.For He+, Z = 2 and n = 1:E1 = −2.18 × 10-18 . 22 / 12 = -8.72 × 10-18 J."
+      },
+      "quick_tip": "The energy of an electron in a hydrogen-like atom depends on the nuclear charge (Z) and the principal quantum number (n).",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Structure of Atom",
+        "topic": "Bohr's Model (Energy of Electron)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Moderate",
+      "marks": 1,
+      "negative_marking": false
+    }
+  ]
+}

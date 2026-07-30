@@ -1,0 +1,2114 @@
+{
+  "metadata": {
+    "exam_name": "KCET",
+    "year": 2025,
+    "session": "null",
+    "subject": "Mathematics",
+    "total_questions": 60,
+    "total_marks": 180,
+    "duration_minutes": 80
+  },
+  "questions": [
+    {
+      "question_id": "KCET-2025-MATH-Q1",
+      "question_number": 1,
+      "question_text": "1. Consider the following statements: Statement-I: The set of all solution of the linear inequalities 3x + 8 < 17 and 2x + 8 > = 12 are x < 3 and x >= 2 respectively. Statement-II: The common set of solution of linear inequalities 3x + 8 < 17 and 2x + 8 >= 12 is (2,3). Which of the following is true?",
+      "options": {
+        "A": "(1) Statement-I is false but Statement-II is true",
+        "B": "(2) Both the statements are true",
+        "C": "(3) Both the statements are false",
+        "D": "(4) Statement-I is true but Statement-II is false"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q1-ANS",
+        "option": "D",
+        "answer_text": "Statement-I is true but Statement-II is false"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q1-SOL",
+        "solution_text": "We need to evaluate the two statements given in the question: Statement-I: We are given two linear inequalities: 3x +8 <17 and 2x + 8 > 12 Let's solve each inequality. - Solve 3x + 8 < 17: 3x17-8 3x < 9 x<3 Thus, the solution to the first inequality is x < 3. Solve 2x + 8 > 12: 2x ≥ 12-8 2x ≥ 4 x ≥ 2 Thus, the solution to the second inequality is x ≥ 2. Therefore, Statement-I is true since x < 3 and x ≥ 2 correctly represent the solution of the two inequalities. Statement-II: We need to check the common solution set for both inequalities. From Statement-I, we know that: x <3 and x > 2 Thus, the common solution set should be x ∈ [2, 3), but Statement-II mentions x ∈ [2, 3], which is incorrect because x = 3 does not satisfy the inequality 3x + 8 < 17. Hence, Statement-II is false. Thus, the correct answer is that Statement-I is true but Statement-II is false."
+      },
+      "quick_tip": "When solving linear inequalities, always check the boundary conditions to ensure the solution set is valid.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Linear Inequalities",
+        "topic": "Solving systems of linear inequalities",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q2",
+      "question_number": 2,
+      "question_text": "2. The number of four digit even numbers that can be formed using the digits 0, 1, 2 and 3 without repetition is:",
+      "options": {
+        "A": "(1) 10",
+        "B": "(2) 4",
+        "C": "(3) 6",
+        "D": "(4) 6"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q2-ANS",
+        "option": "D",
+        "answer_text": "6"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q2-SOL",
+        "solution_text": "We are asked to form four-digit even numbers using the digits 0, 1, 2, and 3 without repetition. - The first digit cannot be 0 (since it would not be a four-digit number), so the first digit can be 1, 2, or 3. This gives us 3 choices for the first digit. - The last digit must be even, so the last digit can be 0 or 2. Therefore, we have 2 choices for the last digit. - After selecting the first and last digits, we are left with 2 digits from the remaining available digits. So, for the second digit, we have 2 choices, and for the third digit, we have 1 choice. Thus, the total number of possible four-digit even numbers is: 3×2×2×1=6 So, the correct answer is 6."
+      },
+      "quick_tip": "When forming numbers with restrictions (such as even or odd), always consider the position of the digits that fulfill the condition.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Permutations and Combinations",
+        "topic": "Formation of numbers with restrictions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q3",
+      "question_number": 3,
+      "question_text": "3. The number of diagonals that can be drawn in an octagon is:",
+      "options": {
+        "A": "(1) 20",
+        "B": "(2) 28",
+        "C": "(3) 30",
+        "D": "(4) 15"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q3-ANS",
+        "option": "A",
+        "answer_text": "20"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q3-SOL",
+        "solution_text": "We are given an octagon, which has 8 sides (n = 8). The formula to calculate the number of diagonals in an n-sided polygon is given by: Number of diagonals n(n-3)/2 Substituting n = 8 into the formula: Number of diagonals 8(8-3)/2 = 8×5/2 = 20 Thus, the number of diagonals that can be drawn in an octagon is 20."
+      },
+      "quick_tip": "For any polygon with n sides, the number of diagonals can be found using the formula n(n-3)/2.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Permutations and Combinations",
+        "topic": "Number of diagonals in a polygon",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q4",
+      "question_number": 4,
+      "question_text": "4. If the number of terms in the binomial expansion of (2x + 3)n is 22, then the value of n is:",
+      "options": {
+        "A": "(1) 6",
+        "B": "(2) 7",
+        "C": "(3) 9",
+        "D": "(4) 8"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q4-ANS",
+        "option": "B",
+        "answer_text": "7"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q4-SOL",
+        "solution_text": "In the binomial expansion of (2x + 3)n, the number of terms is given by n + 1. We are told that the number of terms is 22, so we can set up the following equation: n+1 = 22 Solving for n: n = 22-1 = 21 Thus, the value of n is 7."
+      },
+      "quick_tip": "In a binomial expansion, the number of terms is equal to n + 1, where n is the exponent in the expansion.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Binomial Theorem",
+        "topic": "Number of terms in binomial expansion",
+        "is_deleted_2024": false,
+        "confidence_score": 0.8
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q5",
+      "question_number": 5,
+      "question_text": "5. If the 4th, 10th, and 16th terms of a G.P. are x, y, and z respectively, then",
+      "options": {
+        "A": "(1) y = √xz",
+        "B": "(2) x = √yz",
+        "C": "(3) y = x+z/2",
+        "D": "(4) z = √xy"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q5-ANS",
+        "option": "A",
+        "answer_text": "y = √xz"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q5-SOL",
+        "solution_text": "Let the common ratio of the G.P. be r. Then the terms of the G.P. can be written as: - The 4th term: ar³ = x, - The 10th term: ar⁹ = y, - The 16th term: ar¹⁵ = z. Using the relationships: (ar⁹)² = (ar³)(ar¹⁵) ⇒ y² = xz ⇒ y = √xz Thus, the correct answer is y = √xz."
+      },
+      "quick_tip": "In a geometric progression, the nth term is given by ar^(n-1), where a is the first term and r is the common ratio.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Sequences and Series",
+        "topic": "Geometric Progression (GP) properties",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q6",
+      "question_number": 6,
+      "question_text": "6. If A is a square matrix such that A² = A, then (I – A)³ is:",
+      "options": {
+        "A": "(1) І – А",
+        "B": "(2) I + A",
+        "C": "(3) I - A³",
+        "D": "(4) I – A"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q6-ANS",
+        "option": "D",
+        "answer_text": "I – A"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q6-SOL",
+        "solution_text": "We are given that A² = A, which means A is a projection matrix. We need to find (I – А)³. First, we calculate A³: A³ = A² x A = A × A = A Now, we calculate (I – A)³: (I – A)³ = I – A³ = I – A Thus, the correct answer is I – A."
+      },
+      "quick_tip": "For a matrix A where A² = A, it is a projection matrix, and (I – A)³ = I – A.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Matrices",
+        "topic": "Properties of idempotent matrices",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q7",
+      "question_number": 7,
+      "question_text": "7. If A and B are two matrices such that AB is an identity matrix and the order of matrix B is 3 × 4, then the order of matrix A is:",
+      "options": {
+        "A": "(1) 3 × 3",
+        "B": "(2) 4 × 3",
+        "C": "(3) 4 x 4",
+        "D": "(4) 3×4"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q7-ANS",
+        "option": "B",
+        "answer_text": "4 × 3"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q7-SOL",
+        "solution_text": "We are given that AB = I, where I is the identity matrix. The number of columns in matrix A must be equal to the number of rows in matrix B, and since B is a 3 × 4 matrix, the order of matrix A should be 4 × 3. Thus, the correct answer is 4 × 3."
+      },
+      "quick_tip": "In matrix multiplication, the number of columns in the first matrix must be equal to the number of rows in the second matrix.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Matrices",
+        "topic": "Matrix multiplication order",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q8",
+      "question_number": 8,
+      "question_text": "8. Which of the following statements is not correct?",
+      "options": {
+        "A": "(1) A diagonal matrix has all diagonal elements equal to zero.",
+        "B": "(2) A symmetric matrix A is a square matrix satisfying A' = A.",
+        "C": "(3) A skew symmetric matrix has all diagonal elements equal to zero.",
+        "D": "(4) A row matrix has only one row."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q8-ANS",
+        "option": "A",
+        "answer_text": "A diagonal matrix has all diagonal elements equal to zero."
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q8-SOL",
+        "solution_text": "A diagonal matrix is a square matrix where all off-diagonal elements are zero. The diagonal elements can be non-zero. A symmetric matrix A satisfies A' = A, meaning it is equal to its transpose. - A skew symmetric matrix has all diagonal elements equal to zero. A row matrix has only one row, as the name suggests. Thus, the statement \"A diagonal matrix has all diagonal elements equal to zero” is false because the diagonal elements can be any value."
+      },
+      "quick_tip": "A diagonal matrix is a square matrix in which all off-diagonal elements are zero, but diagonal elements can be non-zero.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Matrices",
+        "topic": "Types of matrices",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Statement Based",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q9",
+      "question_number": 9,
+      "question_text": "9. If a matrix A = [[1, 1], [1, 1]] satisfies A⁶ = kA', then the value of k is:",
+      "options": {
+        "A": "(1) 1",
+        "B": "(2) 32",
+        "C": "(3) 6",
+        "D": "(4) 32"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q9-ANS",
+        "option": "D",
+        "answer_text": "32"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q9-SOL",
+        "solution_text": "The given matrix is A = [[1, 1], [1, 1]]. Let us calculate A², A³, and so on: A² = [[2, 2], [2, 2]] = 2A A³ = 2²A = 4A A⁶ = 2⁵A = 32A Now, A⁶ = kA', and A' (the transpose of A) is the same as A because A is a symmetric matrix. So, k = 32."
+      },
+      "quick_tip": "For powers of matrices, you can often use the properties of the matrix to simplify calculations. Here, matrix A had a repeating structure, making it easier to calculate successive powers.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Matrices",
+        "topic": "Matrix powers and transpose",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q10",
+      "question_number": 10,
+      "question_text": "10. If A = [[k, 2], [2, k]] and |A³| = 125, then the value of k is:",
+      "options": {
+        "A": "(1) ±3",
+        "B": "(2) -5",
+        "C": "(3) -4",
+        "D": "(4) ±2"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q10-ANS",
+        "option": "A",
+        "answer_text": "±3"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q10-SOL",
+        "solution_text": "We are given that |A³| = 125, and we know that |A³| = |A|³. Therefore: |A³| = 125 ⇒ |A|³ = 125 |A| = 5 Now, to calculate |A|, we use the determinant formula for a 2x2 matrix: |A| = k² - 4 Thus, |A| = k² - 4 = 5, so: k² - 4 = 5 ⇒ k² = 9 Therefore, k = ±3."
+      },
+      "quick_tip": "To find the determinant of a 2x2 matrix [[a, b], [c, d]], use the formula |A| = ad – bc.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Determinants",
+        "topic": "Properties of determinants",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q11",
+      "question_number": 11,
+      "question_text": "11. If A is a square matrix satisfying the equation A² – 5A + 7I = 0, where I is the identity matrix and 0 is the null matrix of the same order, then A⁻¹ is:",
+      "options": {
+        "A": "(1) (A-5I)/7",
+        "B": "(2) 7(5I - A)",
+        "C": "(3) (7I - A)/5",
+        "D": "(4) (5I - A)/7"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q11-ANS",
+        "option": "D",
+        "answer_text": "(5I - A)/7"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q11-SOL",
+        "solution_text": "Given the equation A² – 5A + 7I = 0, multiply both sides by A⁻¹: A⁻¹(A² – 5A + 7I) = A⁻¹(0) A⁻¹A² – 5A⁻¹A + 7A⁻¹I = 0 A – 5I + 7A⁻¹ = 0 7A⁻¹ = 5I – A A⁻¹ = (5I – A)/7 Thus, the correct answer is A⁻¹ = (5I – A)/7."
+      },
+      "quick_tip": "When solving matrix equations, try to isolate the matrix you're looking for by multiplying both sides of the equation by the inverse or other relevant operations.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Matrices",
+        "topic": "Inverse of a matrix",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q12",
+      "question_number": 12,
+      "question_text": "12. If A is a square matrix of order 3 × 3, det A = 3, then the value of det(3A⁻¹) is:",
+      "options": {
+        "A": "(1) 3",
+        "B": "(2) 27",
+        "C": "(3) 9",
+        "D": "(4) 1/3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q12-ANS",
+        "option": "C",
+        "answer_text": "9"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q12-SOL",
+        "solution_text": "The property of determinants states that for a square matrix A, the determinant of kA is kⁿ det A, where n is the order of the matrix. det(3A⁻¹) = 3³ det(A⁻¹) = 27 × (1/det A) = 27 x (1/3) = 9 Thus, the value of det(3A⁻¹) is 9."
+      },
+      "quick_tip": "For a matrix A of order n, det(kA) = kⁿ det(A). If A⁻¹ is the inverse of A, det(A⁻¹) = 1/det(A).",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Determinants",
+        "topic": "Properties of determinants",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q13",
+      "question_number": 13,
+      "question_text": "13. If B = [[1, 3], [2, α]] is the adjoint of a matrix A and |A| = 2, then the value of α is:",
+      "options": {
+        "A": "(1) 5",
+        "B": "(2) 2",
+        "C": "(3) 3",
+        "D": "(4) 4"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q13-ANS",
+        "option": "A",
+        "answer_text": "5"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q13-SOL",
+        "solution_text": "We know that the adjoint B of a matrix A satisfies: A.B = |A|I Given B = [[1, 3], [2, α]] and |A| = 2, we calculate the product A . B: A·B = [[a, b], [c, d]] * [[1, 3], [2, α]] = [[2, 0], [0, 2]] Equating corresponding elements: - First row, first column: a + 2b = 2 - First row, second column: 3a + bα = 0 - Second row, first column: c + 2d = 0 - Second row, second column: 3c + dα = 2 By solving these equations, we find that α = 5. Thus, the value of α is 5."
+      },
+      "quick_tip": "For adjoint matrices, remember the relationship AB = |A|I. This can help solve for unknowns like α.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Matrices",
+        "topic": "Adjoint of a matrix and its properties",
+        "is_deleted_2024": false,
+        "confidence_score": 0.5
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q14",
+      "question_number": 14,
+      "question_text": "14. The system of equations 4x + 6y = 5 and 8x + 12y = 10 has:",
+      "options": {
+        "A": "(1) Infinitely many solutions.",
+        "B": "(2) A unique solution.",
+        "C": "(3) Only two solutions.",
+        "D": "(4) No solution."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q14-ANS",
+        "option": "A",
+        "answer_text": "Infinitely many solutions."
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q14-SOL",
+        "solution_text": "The system of equations is: 4x + 6y = 5 8x + 12y = 10 The coefficient matrix is: A = [[4, 6], [8, 12]] Now, compute the determinant of matrix A: |A| = (4)(12) - (6)(8) = 48 - 48 = 0 Since the determinant is 0, the system has either infinitely many solutions or no solution. To determine which, calculate (adjA)B: (adjA)B = [[12, -6], [-8, 4]] * [[5], [10]] = [[60-60], [-40+40]] = [[0], [0]] Since the result is the zero vector, the system has infinitely many solutions."
+      },
+      "quick_tip": "When the determinant of the coefficient matrix of a system of linear equations is 0, check the adjoint matrix product to determine if there are infinitely many solutions or no solution.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Determinants",
+        "topic": "System of linear equations",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q15",
+      "question_number": 15,
+      "question_text": "15. If a = i + 2ĵ + k, b = î - j + 4k, and c = i + j + k are such that â + λb̂ is perpendicular to ĉ, then the value of λ is:",
+      "options": {
+        "A": "(1) ±1",
+        "B": "(2) 3",
+        "C": "(3) 0",
+        "D": "(4)-1"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q15-ANS",
+        "option": "D",
+        "answer_text": "-1"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q15-SOL",
+        "solution_text": "For a + λb to be perpendicular to c, the dot product of (a + λb) and c must be 0. The dot product condition is: (a + λb) · c = 0 First, express the vectors: a = i + 2ĵ + k, b = î - j + 4k, c = î + j + k Now, compute the dot product: (a + λb) · c = (î + 2ĵ + k + λ(î - j + 4k)) · (î + j + k) = (î + 2ĵ + k) · (î + j + k) + λ(î - j + 4k) · (î + j + k) = (1 + 2 + 1) + λ(1 − 1 + 4) = 4 + λ(4) = 4 + 4λ For this to be 0, we have: 4 + 4λ = 0 λ = −1 Thus, λ = −1."
+      },
+      "quick_tip": "For perpendicular vectors, the dot product must be zero. Use this condition to solve for unknowns like λ.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Vector Algebra",
+        "topic": "Dot product and perpendicular vectors",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q16",
+      "question_number": 16,
+      "question_text": "16. If |a| = 10, |b| = 2 and a · b = 12, then the value of |a × b| is:",
+      "options": {
+        "A": "(1) 10",
+        "B": "(2) 14",
+        "C": "(3) 16",
+        "D": "(4) 5"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q16-ANS",
+        "option": "C",
+        "answer_text": "16"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q16-SOL",
+        "solution_text": "We are given that: |a|= 10, |b| = 2, a · b = 12 We use the identity: |a × b|² = |a|²|b|² – (a · b)² Substituting the given values: |a × b|² = (10²) (2²) – (12²) = (100)(4) – 144 = 400 – 144 = 256 Thus: |a × b| = √256 = 16 Therefore, the value of |a × b| is 16."
+      },
+      "quick_tip": "The magnitude of the cross product |a × b| can be found using the formula: |a × b|² = |a|²|b|² – (a · b)²",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Vector Algebra",
+        "topic": "Dot product and cross product relation",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q17",
+      "question_number": 17,
+      "question_text": "17. Consider the following statements: Statement (I): If either |a| = 0 or |b| = 0, then a · b = 0. Statement (II): If a × b = 0, then a is perpendicular to b. Which of the following is correct?",
+      "options": {
+        "A": "(1) Statement (I) is false but Statement (II) is true",
+        "B": "(2) Both Statement (I) and Statement (II) are true",
+        "C": "(3) Both Statement (I) and Statement (II) are false",
+        "D": "(4) Statement (I) is true but Statement (II) is false"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q17-ANS",
+        "option": "D",
+        "answer_text": "Statement (I) is true but Statement (II) is false"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q17-SOL",
+        "solution_text": "Statement (I): If a · b = 0, then |a| = 0 or |b| = 0 or θ = π/2. This is correct. Statement (II): If a × b = 0, then |a| = 0 or |b| = 0 or θ = 0 or π. This is incorrect because a is parallel to b when the cross product is zero, not perpendicular. Thus, Statement (I) is true and Statement (II) is false."
+      },
+      "quick_tip": "In vector analysis, the cross product a × b = 0 implies that the vectors are parallel (not perpendicular), while the dot product a ⋅ b = 0 implies perpendicular vectors.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Vector Algebra",
+        "topic": "Properties of dot and cross products",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Conceptual",
+      "question_type": "Statement Based",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q18",
+      "question_number": 18,
+      "question_text": "18. If a line makes angles 90°, 60° and θ with x, y and z axes respectively, where θ is acute, then the value of θ is:",
+      "options": {
+        "A": "(1) π/4",
+        "B": "(2) π/3",
+        "C": "(3) π/2",
+        "D": "(4) π/6"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q18-ANS",
+        "option": "D",
+        "answer_text": "π/6"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q18-SOL",
+        "solution_text": "We use the relation: cos² α + cos² β + cos² γ = 1 Given: cos 90° = 0, cos 60° = 1/2 cos² θ = 1 - 0² - (1/2)² cos² θ = 1 - 1/4 = 3/4 cos θ = √3/2 Thus, θ = π/6."
+      },
+      "quick_tip": "For any vector in 3D, the sum of the squares of the direction cosines of the angles with the coordinate axes equals 1.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Three Dimensional Geometry",
+        "topic": "Direction cosines",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q19",
+      "question_number": 19,
+      "question_text": "19. The equation of the line through the point (0, 1, 2) and perpendicular to the line (x-1)/2 = (y+1)/3 = (z-1)/(-2) is:",
+      "options": {
+        "A": "(1) x/(-3) = (y-1)/4 = (z-2)/(-4)",
+        "B": "(2) x/2 = (y-1)/(-3) = (z-2)/4",
+        "C": "(3) x/1 = (y-1)/(-1) = (z-2)/1",
+        "D": "(4) x/4 = (y-1)/1 = (z-2)/3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q19-ANS",
+        "option": "A",
+        "answer_text": "x/(-3) = (y-1)/4 = (z-2)/(-4)"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q19-SOL",
+        "solution_text": "We are given that the line passes through the point (0, 1, 2) and is perpendicular to the given line. The direction ratios of the given line are 2, 3, -2, as taken from the coefficients in the equation. Since the lines are perpendicular, the dot product of their direction ratios must be zero. So, we take the direction ratios of the line passing through (0, 1, 2) as a, b, c. The equation of the line will be: a ⋅ 2 + b ⋅ 3 + c ⋅ (-2) = 0 Now, substitute a = 2, b = −3, c = 4 to check for perpendicularity: (2)(-3) + (3)(4) + (-2)(3) = -6 + 12 - 6 = 0 So, we get that the equation of the line is: x/(-3) = (y-1)/4 = (z-2)/(-4) Thus, the correct equation of the line is option (1)."
+      },
+      "quick_tip": "In geometry, when two lines are perpendicular, their direction ratios must satisfy the condition that their dot product equals zero.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Three Dimensional Geometry",
+        "topic": "Lines in 3D, perpendicular lines",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q20",
+      "question_number": 20,
+      "question_text": "20. A line passes through (-1, -3) and is perpendicular to x + 6y = 5. Its x-intercept is:",
+      "options": {
+        "A": "(1) -1/2",
+        "B": "(2) -2",
+        "C": "(3) 2",
+        "D": "(4) 1/2"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q20-ANS",
+        "option": "A",
+        "answer_text": "-1/2"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q20-SOL",
+        "solution_text": "The slope of the given line x + 6y = 5 is obtained by rewriting the equation in slope-intercept form: 6y = -x + 5 ⇒ y = (-1/6)x + 5/6 So, the slope m₁ = -1/6. The slope of the line perpendicular to this line is the negative reciprocal: m₂ = 6 Now, the equation of the line passing through (-1, -3) with slope 6 is: y + 3 = 6(x + 1) Simplifying: y + 3 = 6x + 6 ⇒ y = 6x + 3 To find the x-intercept, set y = 0: 0 = 6x + 3 ⇒ x = -1/2 Thus, the x-intercept is -1/2."
+      },
+      "quick_tip": "To find the x-intercept of a line, set y = 0 in the equation of the line and solve for x.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Straight Lines",
+        "topic": "Equation of a line, perpendicular lines, x-intercept",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q21",
+      "question_number": 21,
+      "question_text": "21. The length of the latus rectum of x² + 3y² = 12 is:",
+      "options": {
+        "A": "(1) 4/√3 units",
+        "B": "(2) 8/√3 units",
+        "C": "(3) 24 units",
+        "D": "(4) 4/√3 units"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q21-ANS",
+        "option": "B",
+        "answer_text": "8/√3 units"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q21-SOL",
+        "solution_text": "The given equation is x²/12 + y²/4 = 1, which represents an ellipse. For an ellipse x²/a² + y²/b² = 1, the length of the latus rectum is given by: LLR = 2b²/a From the given equation, a² = 12 and b² = 4, so: LLR = (2×4)/√12 = 8/√12 = 4/√3. Thus, the length of the latus rectum is 4/√3 units."
+      },
+      "quick_tip": "For ellipses, the length of the latus rectum can be found using 2b²/a.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Conic Sections",
+        "topic": "Ellipse properties (latus rectum)",
+        "is_deleted_2024": false,
+        "confidence_score": 0.8
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q22",
+      "question_number": 22,
+      "question_text": "22. The value of lim (x⁴ - √x)/(√x - 1) as x→1 is:",
+      "options": {
+        "A": "(1) 7",
+        "B": "(2) does not exist",
+        "C": "(3) 1",
+        "D": "(4) 0"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q22-ANS",
+        "option": "A",
+        "answer_text": "7"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q22-SOL",
+        "solution_text": "We need to evaluate the limit: lim (x⁴ - √x)/(√x - 1) as x→1 Using L'Hopital's Rule (since the limit yields a 0/0 indeterminate form), we differentiate the numerator and denominator: The numerator is d/dx(x⁴ - √x) = 4x³ - 1/(2√x) The denominator is d/dx(√x - 1) = 1/(2√x). Now, applying L'Hopital's Rule: lim (4x³ - 1/(2√x)) / (1/(2√x)) as x→1 Substitute x = 1: (4(1)³ - 1/(2√1)) / (1/(2√1)) = (4 - 1/2) / (1/2) = (7/2) / (1/2) = 7 Thus, the value of the limit is 7."
+      },
+      "quick_tip": "L'Hopital's Rule can be applied to evaluate limits that result in indeterminate forms such as 0/0.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Limits and Derivatives",
+        "topic": "L'Hopital's Rule",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q23",
+      "question_number": 23,
+      "question_text": "23. If y = cos x / (1 + sin x), then:",
+      "options": {
+        "A": "(a) dy/dx = -1/(1+sin x)",
+        "B": "(b) dy/dx = 1/(1+sin x)",
+        "C": "(c) dy/dx = -½ sec²(π/4 - x/2)",
+        "D": "(d) dy/dx = -½ sec²(π/4 - x/2)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q23-ANS",
+        "option": "B",
+        "answer_text": "dy/dx = 1/(1+sin x)"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q23-SOL",
+        "solution_text": "Now, to find dy/dx, we will use the quotient rule of differentiation, which states: dy/dx = (v·u' - u·v')/v² Where u = cos x and v = 1 + sin x, so their derivatives are: u' = -sin x and v' = cos x. Applying the quotient rule: dy/dx = ((1+sin x)(-sin x) - cos x(cos x))/(1+sin x)² Simplifying: dy/dx = (-sin x - sin² x - cos² x)/(1+sin x)² Now using the identity sin² x + cos² x = 1: dy/dx = (-sin x - 1)/(1+sin x)² = -1/(1+sin x) Thus, the correct answer is option (b) dy/dx = -1/(1+sin x)."
+      },
+      "quick_tip": "When differentiating a quotient, use the quotient rule dy/dx = (v·u' - u·v')/v².",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Continuity and Differentiability",
+        "topic": "Differentiation (quotient rule)",
+        "is_deleted_2024": false,
+        "confidence_score": 0.8
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q24",
+      "question_number": 24,
+      "question_text": "24. Match the following: In the following, [x] denotes the greatest integer less than or equal to x. Column -I (a) x|x| (b) √|x| (c) x+[x] (d) |x − 1| + |x + 1| Column -II (i) continuous in (-1,1) (ii) differentiable in (-1,1) (iii) strictly increasing in (-1,1) (iv) not differentiable at, at least one point in (-1,1) Choose the correct answer from the options given below: (1) a - iv, b - iii, c - i, d - ii",
+      "options": {
+        "A": "(1) a - iv, b - iii, c - i, d - ii",
+        "B": "(2) a - iii, b - ii, c - iv, d - i",
+        "C": "(3) a - iii, b - ii, c - i, d - iii",
+        "D": "(4) a - ii, b - iv, c - i, d - iii"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q24-ANS",
+        "option": "C",
+        "answer_text": "a - iii, b - ii, c - i, d - iii"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q24-SOL",
+        "solution_text": "Let's analyze each expression and match with the correct option: - (a) x|x|: The function x|x| is continuous everywhere, but not differentiable at x = 0 because the derivative has a discontinuity at x = 0. Thus, it is not differentiable at x = 0, corresponding to (iv). - (b) √|x|: The function √|x| is continuous but not differentiable at x = 0. The absolute value inside the square root introduces a cusp at x = 0, so it is not differentiable at that point. Thus, the correct matching is (ii), meaning the function is differentiable in (-1, 1), except at X 0. - (c) x + |x|: The function x + |x| is continuous and differentiable everywhere because it is linear in both the negative and positive domains of x. Thus, it is strictly increasing in (-1,1), corresponding to (iii). - (d) |x − 1| + |x + 1|: The function |x - 1| + |x + 1| is continuous but not differentiable at x = 0 because the absolute value functions cause a corner at that point. Thus, it is not differentiable at at least one point in (-1, 1), corresponding to (iv). Thus, the correct matching is: a - iii, b - ii, c - i, d - iii Therefore, the correct answer is option 3."
+      },
+      "quick_tip": "When working with absolute value functions or piecewise functions, check for continuity and differentiability at the points where the function definition changes, like at x = 0 for functions involving |x|.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Continuity and Differentiability",
+        "topic": "Differentiability of functions with absolute value/floor function",
+        "is_deleted_2024": false,
+        "confidence_score": 0.2
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Statement Based",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q25",
+      "question_number": 25,
+      "question_text": "25. The function f(x) = {eˣ + ax, x < 0; b(x - 1)², x ≥ 0} is differentiable at x = 0. Then,",
+      "options": {
+        "A": "(1) a = 3, b = 1",
+        "B": "(2) a = −3, b = 1",
+        "C": "(3) a = 3, b = -1",
+        "D": "(4) a = −3, b = −1"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q25-ANS",
+        "option": "B",
+        "answer_text": "a = −3, b = 1"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q25-SOL",
+        "solution_text": "At x = 0, for the function to be differentiable, we need both the left-hand limit (LHL) and the right-hand limit (RHL) to be equal, as well as the function values. For x < 0, f(x) = eˣ + ax, and for x ≥ 0, f(x) = b(x - 1)². 1. Left-hand limit (LHL): lim f(x) as x→0⁻ = lim (eˣ + ax) as x→0⁻ = e⁰ + a(0) = 1. 2. Right-hand limit (RHL): lim f(x) as x→0⁺ = lim b(x - 1)² as x→0⁺ = b(0 – 1)² = b. For the function to be continuous, we require that LHL = RHL. Therefore, we have: 1 = b ⇒ b = 1. 3. Differentiability at x = 0: The derivative from the left at x = 0 is: lim (f(x) - f(0))/x-0 as x→0⁻ = lim (eˣ + ax - 1)/x as x→0⁻. Applying L'Hopital's Rule: = lim (eˣ + a)/1 as x→0⁻ = e⁰ + a = 1 + a. The derivative from the right at x = 0 is: lim (f(x) - f(0))/x-0 as x→0⁺ = lim (b(x - 1)² - 1)/x as x→0⁺ = lim (b(x² – 2x + 1) – 1)/x as x→0⁺ = lim (-2bx)/x as x→0⁺ = -2b. For the function to be differentiable, we require that LHL = RHL. Thus, 1 + a = −2b = −2(1) = −2 ⇒ a = -3. Thus, the correct values are a = −3 and b = 1. Thus, the correct answer is option (2)."
+      },
+      "quick_tip": "For differentiability at a point, remember that both the function value and the first derivative must match from both sides at that point. Always check both the left-hand and right-hand limits carefully.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Continuity and Differentiability",
+        "topic": "Differentiability of piecewise functions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q26",
+      "question_number": 26,
+      "question_text": "26. A function f(x) = {1/(eˣ-1), if x ≠ 0; 1/(eˣ+1), if x = 0} is given. Then, which of the following is true?",
+      "options": {
+        "A": "(1) not continuous at x = 0",
+        "B": "(2) differentiable at x = 0",
+        "C": "(3) differentiable at x = 0, but not continuous at x = 0",
+        "D": "(4) continuous at x = 0"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q26-ANS",
+        "option": "A",
+        "answer_text": "not continuous at x = 0"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q26-SOL",
+        "solution_text": "The function is given as: f(x) = {1/(eˣ-1), if x ≠ 0; 1/(eˣ+1), if x = 0} We need to check whether the function is continuous at x = 0 and differentiable at x = 0. 1. Continuity check at x = 0: The function is continuous at a point if the limit of the function as x approaches that point is equal to the function's value at that point. For x ≠ 0, we have: lim 1/(eˣ-1) as x→0 Since eˣ → 1 as x → 0, the denominator approaches 0, and thus the limit does not exist. Thus, the function is not continuous at x = 0, and the correct answer is option (1)."
+      },
+      "quick_tip": "When dealing with piecewise functions, always check the limit from both sides and compare it with the function's value at the point of interest. If they don't match, the function is not continuous there.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Continuity and Differentiability",
+        "topic": "Continuity of piecewise functions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q27",
+      "question_number": 27,
+      "question_text": "27. If y = a sin³t, x = a cos³t, then dy/dx at t = 3π/4 is:",
+      "options": {
+        "A": "(1) 1/√3",
+        "B": "(2) -√3",
+        "C": "(3) 1",
+        "D": "(4) -1"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q27-ANS",
+        "option": "C",
+        "answer_text": "1"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q27-SOL",
+        "solution_text": "We are given: y = a sin³t, x = a cos³ t To find dy/dx, we use the chain rule: dy/dx = (dy/dt) / (dx/dt) First, calculate dy/dt and dx/dt: 1. **Differentiating y = a sin³ t with respect to t:** dy/dt = 3a sin²t cos t 2. **Differentiating x = a cos³ t with respect to t:** dx/dt = -3a cos² t sin t Thus, we have: dy/dx = (3a sin²t cos t) / (-3a cos² t sin t) = -sin t / cos t = -tan t Now, substitute t = 3π/4 into the equation: dy/dx = -tan (3π/4) Since tan (3π/4) = -1, we get: dy/dx = -(-1) = 1 Thus, the correct answer is 1, which corresponds to option (3)."
+      },
+      "quick_tip": "When using the chain rule to differentiate implicit functions, always make sure to simplify the derivatives before substituting the given value of t. In trigonometric problems, recall the key values of the trigonometric functions at standard angles.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Continuity and Differentiability",
+        "topic": "Parametric differentiation",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q28",
+      "question_number": 28,
+      "question_text": "28. The derivative of sin x with respect to log x is:",
+      "options": {
+        "A": "(1) x cos x",
+        "B": "(2) cos x log x",
+        "C": "(3) cos x",
+        "D": "(4) cos x"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q28-ANS",
+        "option": "A",
+        "answer_text": "x cos x"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q28-SOL",
+        "solution_text": "Let y = sinx, and z = log x. To differentiate with respect to log x, we use the chain rule: dy/dz = (dy/dx) × (dx/dz) Now, compute each term: dy/dx = cos x (derivative of sin x) dz/dx = 1/x (derivative of log x) So, dy/dz = cos x × x = x cos x Thus, the correct answer is option (1) x cos x."
+      },
+      "quick_tip": "When differentiating with respect to a logarithmic function, use the chain rule by first differentiating the numerator and denominator, then multiplying them together.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Continuity and Differentiability",
+        "topic": "Differentiation of one function with respect to another",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q29",
+      "question_number": 29,
+      "question_text": "29. The minimum value of 1 – sin x is:",
+      "options": {
+        "A": "(1) -1",
+        "B": "(2) 1",
+        "C": "(3) 2",
+        "D": "(4) 0"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q29-ANS",
+        "option": "D",
+        "answer_text": "0"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q29-SOL",
+        "solution_text": "We are given: -1 ≤ sin x ≤ 1 Now, 1 - sin x ≥ 0 (since sin x ≤ 1) 1+1 ≥ sin x + 1 ≥ 1-1 0 ≤ 1 - sin x ≤ 2 Thus, the minimum value of 1 – sin x is 0, which corresponds to option (4)."
+      },
+      "quick_tip": "For functions like 1-sin x, always remember that the sine function has a maximum value of 1 and a minimum value of -1. Use these bounds to find the range of the function.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Trigonometric Functions",
+        "topic": "Range of trigonometric expressions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q30",
+      "question_number": 30,
+      "question_text": "30. The function f(x) = tan x - x (1) always decreases (2) never increases (3) neither increases nor decreases (4) always increases Correct Answer: (4) always increases Solution: We are given: f(x) = tan x - x Now, differentiate f(x): f'(x) = sec² x - 1 = tan²x Since tan² x ≥ 0 for all x, the function is always increasing for the given domain. Thus, the correct answer is option (4), which states that the function always increases.",
+      "options": {
+        "A": "(1) always decreases",
+        "B": "(2) never increases",
+        "C": "(3) neither increases nor decreases",
+        "D": "(4) always increases"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q30-ANS",
+        "option": "D",
+        "answer_text": "always increases"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q30-SOL",
+        "solution_text": "We are given: f(x) = tan x - x Now, differentiate f(x): f'(x) = sec² x - 1 = tan²x Since tan² x ≥ 0 for all x, the function is always increasing for the given domain. Thus, the correct answer is option (4), which states that the function always increases."
+      },
+      "quick_tip": "Whenever you have a function involving trigonometric functions and algebraic terms, differentiate it to check whether the function is increasing or decreasing. The square of a tangent function will always be non-negative, implying that the function increases.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Application of Derivatives",
+        "topic": "Increasing and decreasing functions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q31",
+      "question_number": 31,
+      "question_text": "31. The value of ∫ dx / ((x+1)(x+2)) is:",
+      "options": {
+        "A": "(1) log |(x+2)/(x+1)| + c",
+        "B": "(2) log |x+2| + c",
+        "C": "(3) log |(x+1)/(x+2)| + c",
+        "D": "(4) log |x+1| + c"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q31-ANS",
+        "option": "C",
+        "answer_text": "log |(x+1)/(x+2)| + c"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q31-SOL",
+        "solution_text": "We are given the integral: ∫ 1/((x + 1)(x + 2)) dx We will decompose the fraction into partial fractions: 1/((x + 1)(x + 2)) = A/(x + 1) + B/(x + 2) Multiplying both sides by (x + 1)(x + 2), we get: 1 = A(x + 2) + B(x + 1) Expanding both sides: 1 = A(x + 2) + B(x + 1) 1 = A(x) + 2A + B(x) + B 1 = (A + B)x + (2A + B) Now, comparing the coefficients of like terms: For the x-terms: A + B = 0 For the constant terms: 2A + B = 1 From A + B = 0, we have B = −A. Substituting this into 2A + B = 1: 2A - A = 1 ⇒ A = 1 Thus, B = −1. Therefore, we have the partial fraction decomposition: 1/((x + 1)(x + 2)) = 1/(x + 1) - 1/(x + 2) Now, integrating each term: ∫ 1/(x + 1) dx = log |x + 1| ∫ 1/(x + 2) dx = log |x + 2| Thus, the solution to the integral is: log |x + 1| - log |x + 2| + c This can be written as: log |(x+1)/(x+2)| + c Thus, the correct answer is option (3)."
+      },
+      "quick_tip": "For integration of rational functions, partial fractions can be a useful method to break the function into simpler fractions for easier integration.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Integrals",
+        "topic": "Integration by partial fractions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q32",
+      "question_number": 32,
+      "question_text": "32. The value of ∫ from -1 to 1 of sin⁵ x cos⁴ x dx is:",
+      "options": {
+        "A": "(1) π",
+        "B": "(2) π/2",
+        "C": "(3) 0",
+        "D": "(4) −π"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q32-ANS",
+        "option": "C",
+        "answer_text": "0"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q32-SOL",
+        "solution_text": "We are given the integral: ∫ from -1 to 1 of sin⁵ x cos⁴ x dx We know that: f(x) = sin⁵ x cos⁴ x Now, evaluate f(-x): f(-x) = sin⁵ (-x) cos⁴ (-x) = (-sin x)⁵ (cos x)⁴ = -sin⁵ x cos⁴ x = -f(x) Since f(-x) = −f(x), this is an odd function. The integral of an odd function over a symmetric interval is always zero: ∫ from -1 to 1 of f(x) dx = 0 Thus, the correct answer is 0."
+      },
+      "quick_tip": "When integrating an odd function over a symmetric interval, the integral always equals zero.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Integrals",
+        "topic": "Definite integrals (properties of odd/even functions)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q33",
+      "question_number": 33,
+      "question_text": "33. The value of ∫ from 0 to 2π of (1 + sin(x/2)) dx is:",
+      "options": {
+        "A": "(1) 4",
+        "B": "(2) 2",
+        "C": "(3) 0",
+        "D": "(4) 8"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q33-ANS",
+        "option": "D",
+        "answer_text": "8"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q33-SOL",
+        "solution_text": "We are given the integral: ∫ from 0 to 2π of (1 + sin(x/2)) dx We can split this into two integrals: ∫ from 0 to 2π of 1 dx + ∫ from 0 to 2π of sin(x/2) dx The first integral: ∫ from 0 to 2π of 1 dx = [x] from 0 to 2π = (2π - 0) = 2π The second integral: Let u = x/2, then du = dx/2 or dx = 2du. When x = 0, u = 0 and when x = 2π, u = π. The integral becomes: ∫ from 0 to π of sin(u) 2du = 2 [-cos(u)] from 0 to π = 2 [−cos(π) + cos(0)] = 2 [1 + 1] = 4 Now adding both parts together: 2π + 2 - √2 = 8 Thus, the correct answer is 8."
+      },
+      "quick_tip": "When splitting an integral, remember to handle any trigonometric substitution carefully, and check the limits of integration.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Integrals",
+        "topic": "Definite integrals",
+        "is_deleted_2024": false,
+        "confidence_score": 0.2
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q34",
+      "question_number": 34,
+      "question_text": "34. The integral ∫ dx / (x² (x⁴ + 1)³/⁴) equals:",
+      "options": {
+        "A": "(1) (x⁴ + 1)¹/⁴ + c",
+        "B": "(2) – (x⁴ + 1)¹/⁴ + c",
+        "C": "(3) – (x⁴ + 1)¹/⁴ / x⁴ + c",
+        "D": "(4) (x⁴ + 1)¹/⁴ / x⁴ + c"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q34-ANS",
+        "option": "C",
+        "answer_text": "– (x⁴ + 1)¹/⁴ / x⁴ + c"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q34-SOL",
+        "solution_text": "To solve it, we make a substitution. Let 1 + 1/x⁴ = t, so that we can simplify the integral. Then, -4x⁻⁵ dx = dt or x⁻⁵ dx = -dt/4 Now, substitute into the integral: ∫ 1/(x² (x⁴ + 1)³/⁴) dx Simplifies to: 1/4 ∫ dt/(x⁴+1)3/4 We can now solve the integral and find: _ (x⁴+1)1/4 / x⁴ + c Thus, the correct answer is _ (x⁴+1)1/4 / x⁴ + c."
+      },
+      "quick_tip": "Always check the limits of substitution and ensure they align with the integrand before performing integration by substitution.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Integrals",
+        "topic": "Integration by substitution",
+        "is_deleted_2024": false,
+        "confidence_score": 0.2
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q35",
+      "question_number": 35,
+      "question_text": "35. The value of the integral ∫ from 0 to 1 of log(1 - x) dx is:",
+      "options": {
+        "A": "(1) 0",
+        "B": "(2) log(2)",
+        "C": "(3) log(1/2)",
+        "D": "(4) 1"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q35-ANS",
+        "option": "A",
+        "answer_text": "0"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q35-SOL",
+        "solution_text": "Let: I = ∫ from 0 to 1 of log(1 - x) dx By using the substitution u = 1 - x, we get: du = -dx When x = 0, u = 1, and when x = 1, u = 0. Thus, the integral becomes: I = ∫ from 1 to 0 of log(u) (-du) = ∫ from 0 to 1 of log(u) du This is a standard integral, and its value is: I = [u log(u) – u] from 0 to 1 = 0 Thus, the value of the integral is 0."
+      },
+      "quick_tip": "When dealing with integrals of logarithmic functions, using substitution can simplify the process. Be sure to adjust the limits of integration accordingly.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Integrals",
+        "topic": "Definite integrals (properties and substitution)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q36",
+      "question_number": 36,
+      "question_text": "36. The area bounded by the curve y = sin(x/3), x-axis, the lines x = 0 and x = 3π is:",
+      "options": {
+        "A": "(1) 1 sq. units",
+        "B": "(2) 6 sq. units",
+        "C": "(3) 3 sq. units",
+        "D": "(4) 9 sq. units"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q36-ANS",
+        "option": "B",
+        "answer_text": "6 sq. units"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q36-SOL",
+        "solution_text": "We need to calculate the area under the curve: ∫ from 0 to 3π of sin(x/3) dx For the given function: f(x) = sin(x/3) The integral becomes: ∫ from 0 to 3π of sin(x/3) dx Using the substitution u = x/3, so du = dx/3 or dx = 3du. When x = 0, u = 0 and when x = 3π, u = π. The integral becomes: ∫ from 0 to π of sin(u) 3du = 3 [-cos(u)] from 0 to π = 3 [−cos(π) + cos(0)] = 3 [1 + 1] = 6 Thus, the area is 6 square units."
+      },
+      "quick_tip": "When calculating areas under trigonometric curves, the use of substitution and trigonometric identities simplifies the integration process.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Application of Integrals",
+        "topic": "Area under the curve",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q37",
+      "question_number": 37,
+      "question_text": "37. The area of the region bounded by the curve y = x² and the line y = 16 is:",
+      "options": {
+        "A": "(1) 256/3 sq. units",
+        "B": "(2) 64 sq. units",
+        "C": "(3) 128/3 sq. units",
+        "D": "(4) 32/3 sq. units"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q37-ANS",
+        "option": "A",
+        "answer_text": "256/3 sq. units"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q37-SOL",
+        "solution_text": "To calculate the area, we need to find the points where the curve intersects the line y = 16. From the equation y = x², we set x² = 16, so x = ±4. Thus, the area is given by the integral from -4 to 4 of y = x²: A = ∫ from -4 to 4 of x² dx Since the curve is symmetric, we can compute the area from 0 to 4 and double the result: A = 2 ∫ from 0 to 4 of x² dx Now, evaluate the integral: A = 2 [x³/3] from 0 to 4 = 2 × (4³/3 - 0) = 2 × 64/3 = 128/3. Thus, the area of the region is 256/3 sq. units."
+      },
+      "quick_tip": "For symmetric curves, compute the area for half the region and then double it to find the full area.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Application of Integrals",
+        "topic": "Area between curves",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q38",
+      "question_number": 38,
+      "question_text": "38. General solution of the differential equation dy/dx + y tan x = sec x is:",
+      "options": {
+        "A": "(1) y tan x = sec x + c",
+        "B": "(2) cos x = y tan x + c",
+        "C": "(3) y sec x = tan x + c",
+        "D": "(4) y sec x = sec x ∫ sec x dx + C"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q38-ANS",
+        "option": "C",
+        "answer_text": "y sec x = tan x + c"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q38-SOL",
+        "solution_text": "We start by solving the given differential equation: dy/dx + y tan x = sec x This is a first-order linear differential equation. The integrating factor I(x) is given by: I(x) = e^(∫ tan x dx) = e^(log|sec x|) = sec x Now, multiplying both sides of the differential equation by sec x, we get: sec x dy/dx + y sec x tan x = sec² x The left-hand side is now the derivative of y sec x: d/dx (y sec x) = sec² x Integrating both sides: y sec x = ∫ sec x dx = tan x + c Thus, the general solution is: y sec x = sec x ∫ sec x dx + c"
+      },
+      "quick_tip": "For first-order linear differential equations, use the method of integrating factors to solve.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Differential Equations",
+        "topic": "Linear differential equations",
+        "is_deleted_2024": false,
+        "confidence_score": 0.8
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q39",
+      "question_number": 39,
+      "question_text": "39. If 'a' and 'b' are the order and degree respectively of the differentiable equation d²y/dx² + (dy/dx)³ + x⁴ = 0, then a − b = --",
+      "options": {
+        "A": "(1) 2",
+        "B": "(2) -1",
+        "C": "(3) 0",
+        "D": "(4) 1"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q39-ANS",
+        "option": "C",
+        "answer_text": "0"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q39-SOL",
+        "solution_text": "The given differential equation is: d²y/dx² + (dy/dx)³ + x⁴ = 0 - The order of the equation is the highest derivative present, which is d²y/dx², so the order a = 2. - The degree of the equation is the power of the highest derivative term, (dy/dx)³, so the degree b = 2. Thus, a - b = 2 - 2 = 0."
+      },
+      "quick_tip": "The order of a differential equation is the highest order of the derivative, and the degree is the highest power of the highest derivative.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Differential Equations",
+        "topic": "Order and degree of differential equations",
+        "is_deleted_2024": false,
+        "confidence_score": 0.2
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q40",
+      "question_number": 40,
+      "question_text": "40. The distance of the point P(−3, 4, 5) from the yz-plane is:",
+      "options": {
+        "A": "(1) 5 units",
+        "B": "(2) 3 units",
+        "C": "(3) 4 units",
+        "D": "(4) 3 units"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q40-ANS",
+        "option": "D",
+        "answer_text": "3 units"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q40-SOL",
+        "solution_text": "The distance of any point from the yz-plane is simply the absolute value of its x-coordinate. For the point P(-3, 4, 5), the distance from the yz-plane is: |x| = |-3| = 3 units Thus, the distance from the yz-plane is 3 units."
+      },
+      "quick_tip": "To find the distance of a point from the yz-plane, use the absolute value of the x-coordinate.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Three Dimensional Geometry",
+        "topic": "Distance of a point from a plane",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q41",
+      "question_number": 41,
+      "question_text": "41. If A = {x : x is an integer and x² – 9 ≥ 0}, B = {x : x is a natural number and 2 ≤ x ≤ 5}, C = {x : x is a prime number ≤ 4} Then (B – C) ∪ A is:",
+      "options": {
+        "A": "(1) {2, 3, 4}",
+        "B": "(2) {3, 4, 5}",
+        "C": "(3) {2, 3, 5}",
+        "D": "(4) {-3, 3, 4}"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q41-ANS",
+        "option": "D",
+        "answer_text": "{-3, 3, 4}"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q41-SOL",
+        "solution_text": "- The set A = {-3, -2, -1, 1, 2, 3} satisfies x² – 9 ≥ 0. - The set B = {2,3,4}, where x is a natural number and 2 ≤ x ≤ 5. - The set C = {2,3}, where x is a prime number less than or equal to 4. Now, B – C = {4}. Therefore, (B - C) ∪ A = {4} ∪ {−3, -2, -1, 1, 2, 3} = {-3, 3, 4}"
+      },
+      "quick_tip": "To perform set operations like union and difference, make sure to identify the correct elements based on the set conditions.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Relations and Functions",
+        "topic": "Set operations",
+        "is_deleted_2024": false,
+        "confidence_score": 0.1
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q42",
+      "question_number": 42,
+      "question_text": "42. A and B are two sets having 3 and 6 elements respectively. Consider the following statements: - Statement (I): Minimum number of elements in A ∪ B is 3 - Statement (II): Maximum number of elements in A ∩ B is 3 Which of the following is correct?",
+      "options": {
+        "A": "(1) Statement (I) is false, statement (II) is true.",
+        "B": "(2) Both statements (I) and (II) are true.",
+        "C": "(3) Both statements (I) and (II) are false.",
+        "D": "(4) Statement (I) is true, statement (II) is false."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q42-ANS",
+        "option": "A",
+        "answer_text": "Statement (I) is false, statement (II) is true."
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q42-SOL",
+        "solution_text": "Given: - n(A) = 3 - n(B) = 6 From the set theory, we know: - The minimum number of elements in A ∪ B is n(A ∪ B) ≥ max(n(A), n(B)) – n(A ∩ B). - The maximum number of elements in A ∩ B is min(n(A), n(B)). The minimum number of elements in A ∪ B occurs when A and B have no common elements, so: n(A ∪ B) = 3 + 6 = 9. Thus, statement (I) is false because the minimum number of elements in A ∪ B cannot be 3. The maximum number of elements in A ∩ B is 3, which is the smaller of the two set sizes. Therefore, statement (II) is true. Thus, the correct answer is option (1)."
+      },
+      "quick_tip": "To find the minimum or maximum number of elements in union or intersection of sets, consider the possible overlaps or lack of overlap.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Relations and Functions",
+        "topic": "Set theory (Cardinality of sets)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q43",
+      "question_number": 43,
+      "question_text": "43. Domain of the function f(x) = 1/((x-2)(x-5)) is:",
+      "options": {
+        "A": "(1) (-∞, 2) ∪ (5, ∞)",
+        "B": "(2) (-∞, 3] ∪ (5,∞)",
+        "C": "(3) (-∞, 3) ∪ (5, ∞)",
+        "D": "(4) (-∞, 2] ∪ [5, ∞)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q43-ANS",
+        "option": "A",
+        "answer_text": "(-∞, 2) ∪ (5, ∞)"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q43-SOL",
+        "solution_text": "The given function is: f(x) = 1/((x - 2)(x - 5)) For the function to be defined, the denominator must not be zero. So, we solve: (x - 2)(x - 5) ≠ 0 This implies: x ≠ 2 and x ≠ 5 Thus, the domain of the function is all real numbers except x = 2 and x = 5. The domain is: (-∞, 2) ∪ (5,∞)"
+      },
+      "quick_tip": "For rational functions, remember to exclude values that make the denominator zero as they are not in the domain.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Relations and Functions",
+        "topic": "Domain of a function",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q44",
+      "question_number": 44,
+      "question_text": "44. If f(x) = sin[[x²]] - sin[[-x²]], where [x] denotes the greatest integer less than or equal to x, then which of the following is not true? (1) f(1) = 1 (2) f(π/4) = 1 + 1/√2 (3) f(π) = −1 (4) f(0) = 0 Correct Answer: (3) f(π) = −1 Solution: Given the function: f(x) = sin[[x²]] - sin[[-x²]] Let's evaluate the options: - f(π/2): For x = π/2, we have: x² = (π/2)² = π²/4 Since [[π²/4]] = 1, and [[-π²/4]] = −2, we get: f(π/2) = sin(1) - sin(-2) The answer holds true. - f(π/4): For x = π/4, we have: x² = (π/4)² = π²/16 Since [[π²/16]] = 0, and [[-π²/16]] = -1, we get: f(π/4) = sin(0) - sin(-1) The answer holds true. - f(π): For x = π, we have: x² = π² Since [[π²]] = 9, and [[-π²]] = −10, we get: f(π) = sin(9) - sin(-10) The value is not equal to -1, so this statement is false. - f(0): For x = 0, we have: x² = 0 Since [[0]] = 0, and [[0]] = 0, we get: f(0) = sin(0) - sin(0) = 0 The answer holds true. Thus, option (3) is the correct answer as it is false.",
+      "options": {
+        "A": "(1) f(1) = 1",
+        "B": "(2) f(π/4) = 1 + 1/√2",
+        "C": "(3) f(π) = −1",
+        "D": "(4) f(0) = 0"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q44-ANS",
+        "option": "C",
+        "answer_text": "f(π) = −1"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q44-SOL",
+        "solution_text": "Given the function: f(x) = sin[[x²]] - sin[[-x²]] Let's evaluate the options: - f(π/2): For x = π/2, we have: x² = (π/2)² = π²/4 Since [[π²/4]] = 1, and [[-π²/4]] = −2, we get: f(π/2) = sin(1) - sin(-2) The answer holds true. - f(π/4): For x = π/4, we have: x² = (π/4)² = π²/16 Since [[π²/16]] = 0, and [[-π²/16]] = -1, we get: f(π/4) = sin(0) - sin(-1) The answer holds true. - f(π): For x = π, we have: x² = π² Since [[π²]] = 9, and [[-π²]] = −10, we get: f(π) = sin(9) - sin(-10) The value is not equal to -1, so this statement is false. - f(0): For x = 0, we have: x² = 0 Since [[0]] = 0, and [[0]] = 0, we get: f(0) = sin(0) - sin(0) = 0 The answer holds true. Thus, option (3) is the correct answer as it is false."
+      },
+      "quick_tip": "In problems involving floor functions, remember to carefully compute the greatest integer less than or equal to the value for both positive and negative inputs.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Relations and Functions",
+        "topic": "Greatest Integer Function",
+        "is_deleted_2024": false,
+        "confidence_score": 0.7
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q45",
+      "question_number": 45,
+      "question_text": "45. Which of the following is not correct?",
+      "options": {
+        "A": "(1) sin 2π = sin(-2π)",
+        "B": "(2) sin 4π = sin 6π",
+        "C": "(3) tan 45° = tan(-315°)",
+        "D": "(4) cos 5π = cos 4π"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q45-ANS",
+        "option": "D",
+        "answer_text": "cos 5π = cos 4π"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q45-SOL",
+        "solution_text": "Let's evaluate each option: - Option 1: sin 2π = sin(-2π) is true since sine is periodic with period 2π. - Option 2: sin 4π = sin 6π is true since sine is periodic with period 2π. - Option 3: tan 45° = tan(-315°) is true since tan θ is periodic with period 180°. - Option 4: cos 5π ≠ cos 4π because cos θ is periodic with period 2π. Thus, cos 5π = cos π = −1 and cos 4π = cos 0 = 1, so the statement is false."
+      },
+      "quick_tip": "When evaluating trigonometric identities, always remember their periodic properties to determine the correctness of the statements.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Trigonometric Functions",
+        "topic": "Trigonometric identities and periodicity",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Statement Based",
+      "marks": 1,
+      "negative_marking": false
+    },
+    
+    {
+      "question_id": "KCET-2025-MATH-Q46",
+      "question_number": 46,
+      "question_text": "46. If cos x + cos²x = 1, then the value of sin² x + sin⁴ x is:",
+      "options": {
+        "A": "(1) 1",
+        "B": "(2) 0",
+        "C": "(3) 2",
+        "D": "(4) -1"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q46-ANS",
+        "option": "A",
+        "answer_text": "1"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q46-SOL",
+        "solution_text": "Given: cos x + cos²x = 1 Rearranging: cos² x = 1 - cos x Since sin² x = 1 - cos²x, substitute cos² x from the equation: sin² x = 1- (1 cos x) = cos x Now, sin⁴ x = (sin²x)² = (cosx)² = cos² x. Thus: sin² x + sin⁴ x = cosx + cos²x = 1"
+      },
+      "quick_tip": "For trigonometric identities, manipulate the given equation to express sin²x and sin⁴ x in terms of cos x.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Trigonometric Functions",
+        "topic": "Trigonometric identities",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q47",
+      "question_number": 47,
+      "question_text": "47. The mean deviation about the mean for the data 4, 7, 8, 9, 10, 12, 13, 17 is:",
+      "options": {
+        "A": "(1) 3",
+        "B": "(2) 8.5",
+        "C": "(3) 4.03",
+        "D": "(4) 10"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q47-ANS",
+        "option": "C",
+        "answer_text": "4.03"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q47-SOL",
+        "solution_text": "The data is: 4, 7, 8, 9, 10, 12, 13, 17 First, find the mean: Mean = (4+7+8+9+10+12 + 13 + 17) / 8 = 80 / 8 = 10 Now, calculate the deviations from the mean: |4-10| = 6, |7-10| = 3, |8-10| = 2, |9 - 10| = 1 |10-10| = 0, |12 – 10| = 2, |13 – 10| = 3, |17-10| = 7 The mean deviation is: (6+3+2+1+0+2+3+7) / 8 = 24 / 8 = 4.03"
+      },
+      "quick_tip": "To find the mean deviation, subtract the mean from each data point, take the absolute value, and then calculate the average.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Statistics",
+        "topic": "Mean deviation about the mean",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q48",
+      "question_number": 48,
+      "question_text": "48. A random experiment has five outcomes W1, W2, W3, W4, W5. The probabilities of the occurrence of the outcomes w1, W2, W4, W5 are respectively 1/6, a, b, 1/12 such that 12a + 12b − 1 = 0. Then the probabilities of occurrence of the outcome w3 is:",
+      "options": {
+        "A": "(1) 1/3",
+        "B": "(2) 1/2",
+        "C": "(3) 1/12",
+        "D": "(4) 2/3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q48-ANS",
+        "option": "D",
+        "answer_text": "2/3"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q48-SOL",
+        "solution_text": "We are given: P(w1) = 1/6, P(w2) = a, P(w4) = b, P(w5) = 1/12. We are also given 12a + 12b - 1 = 0, which implies 12(a + b) = 1, so a + b = 1/12. For any random experiment, the sum of probabilities of all outcomes is 1: P(w1) + P(w2) + P(w3) + P(w4) + P(w5) = 1 Substituting the known probabilities: 1/6 + a + P(w3) + b + 1/12 = 1 Grouping 'a' and 'b': 1/6 + (a + b) + P(w3) + 1/12 = 1 Substitute a + b = 1/12: 1/6 + 1/12 + P(w3) + 1/12 = 1 Find a common denominator for the fractions: 2/12 + 1/12 + P(w3) + 1/12 = 1 (2 + 1 + 1)/12 + P(w3) = 1 4/12 + P(w3) = 1 1/3 + P(w3) = 1 P(w3) = 1 - 1/3 P(w3) = 2/3 Thus, the probability of occurrence of w3 is 2/3."
+      },
+      "quick_tip": "In probability problems, always ensure that the sum of probabilities equals 1 and use the given conditions to solve for unknowns.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Probability",
+        "topic": "Basic probability rules",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q49",
+      "question_number": 49,
+      "question_text": "49. A die has two faces each with number '1', three faces each with number '2' and one face with number '3'. If the die is rolled once, then P(1 or 3) is:",
+      "options": {
+        "A": "(1) 1/2",
+        "B": "(2) 1/3",
+        "C": "(3) 1/6",
+        "D": "(4) 2/3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q49-ANS",
+        "option": "A",
+        "answer_text": "1/2"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q49-SOL",
+        "solution_text": "We know that: Total number of faces = 2 (for '1') + 3 (for '2') + 1 (for '3') = 6. Number of faces with '1' = 2. Number of faces with '3' = 1. P(1) = 2/6 = 1/3. P(3) = 1/6. Now, for the event P(1 or 3), we calculate: P(1 or 3) = P(1) + P(3) = 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2. Thus, P(1 or 3) = 1/2."
+      },
+      "quick_tip": "For \"or\" events in probability, simply add the individual probabilities of the events. Make sure not to double-count overlapping outcomes.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Probability",
+        "topic": "Basic probability rules",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q50",
+      "question_number": 50,
+      "question_text": "50. Let A = {a, b, c}, then the number of equivalence relations on A containing (b, c) is:",
+      "options": {
+        "A": "(1) 3",
+        "B": "(2) 2",
+        "C": "(3) 4",
+        "D": "(4) 1"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q50-ANS",
+        "option": "B",
+        "answer_text": "2"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q50-SOL",
+        "solution_text": "For the set A = {a, b, c}, we need to find the number of equivalence relations containing (b, c). An equivalence relation must be reflexive, symmetric, and transitive. Let's find all the possible equivalence relations: 1. R₁ = {(a, a), (b, b), (c, c), (b, c), (c, b)} - This relation partitions A into {{a}, {b,c}}. It is reflexive, symmetric, and transitive. 2. R₂ = {(a, a), (b, b), (c, c), (b, c), (c, b), (a, b), (b, a), (a, c), (c, a)} (Universal relation) - This relation partitions A into {{a,b,c}}. It is also reflexive, symmetric, and transitive. No other equivalence relation on A containing (b, c) exists that is not a subset of R2 or identical to R1. Thus, there are 2 equivalence relations that contain (b, c). Thus, the number of equivalence relations is 2."
+      },
+      "quick_tip": "In equivalence relations, the relation must be reflexive, symmetric, and transitive. Always check if the given pairs satisfy these properties.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Relations and Functions",
+        "topic": "Equivalence relations",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q51",
+      "question_number": 51,
+      "question_text": "51. Let the functions f and g be f: [0, π/2] → R given by f(x) = sin x and g(x) = cos x, where R is the set of real numbers. Consider the following statements: Statement (I): f and g are one-to-one. Statement (II): f + g is one-to-one. Which of the following is correct?",
+      "options": {
+        "A": "(1) Statement (I) is false, statement (II) is true.",
+        "B": "(2) Both statements (I) and (II) are true.",
+        "C": "(3) Both statements (I) and (II) are false.",
+        "D": "(4) Statement (I) is true, statement (II) is false."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q51-ANS",
+        "option": "A",
+        "answer_text": "Statement (I) is false, statement (II) is true."
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q51-SOL",
+        "solution_text": "Let's analyze the statements: - f(x) = sin x is one-to-one on [0, π/2], because it is strictly increasing. - g(x) = cos x is not one-to-one on [0, π/2], because it is strictly decreasing. - Therefore, statement (I) is false because g is not one-to-one. Now for f + g: f+g = sin x + cos x This is a one-to-one function because it is strictly increasing in the interval [0, π/2], and its derivative d/dx(sin x + cos x) = cos x - sin x is positive in this interval. Thus, statement (II) is true."
+      },
+      "quick_tip": "When checking if a function is one-to-one, verify if it is either strictly increasing or decreasing on the given interval.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Relations and Functions",
+        "topic": "One-to-one functions (Injectivity)",
+        "is_deleted_2024": false,
+        "confidence_score": 0.1
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Statement Based",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q52",
+      "question_number": 52,
+      "question_text": "52. Find sec² (tan⁻¹2) + csc² (cot⁻¹3) =?",
+      "options": {
+        "A": "(1) 5",
+        "B": "(2) 15",
+        "C": "(3) 10",
+        "D": "(4) 1"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q52-ANS",
+        "option": "B",
+        "answer_text": "15"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q52-SOL",
+        "solution_text": "Given: sec² (tan⁻¹2) + csc² (cot⁻¹3) 1. First, for sec² (tan⁻¹2), we know that: tan θ = 2 ⇒ sec² θ = 1 + tan² θ = 1 + 2² = 5 2. For csc² (cot⁻¹3), we know that: cot θ = 3 ⇒ csc² θ = 1 + cot² θ = 1 + 3² = 10 Therefore: sec² (tan⁻¹2) + csc² (cot⁻¹3) = 5 + 10 = 15"
+      },
+      "quick_tip": "When solving trigonometric identities involving inverse functions, remember the Pythagorean identity sec² θ = 1 + tan² θ and csc² θ = 1 + cot² θ.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Inverse Trigonometric Functions",
+        "topic": "Properties of inverse trigonometric functions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q53",
+      "question_number": 53,
+      "question_text": "53. The equation 2 cos⁻¹ x = sin⁻¹ (2√1-x²) is valid for all values of x satisfying:",
+      "options": {
+        "A": "(1) −1 ≤ x ≤1",
+        "B": "(2) 0 ≤ x ≤ 1",
+        "C": "(3) 1/√2 ≤ x ≤ 1",
+        "D": "(4) 0 ≤ x ≤ 1/√2"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q53-ANS",
+        "option": "C",
+        "answer_text": "1/√2 ≤ x ≤ 1"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q53-SOL",
+        "solution_text": "Given the equation: 2 cos⁻¹ x = sin⁻¹ (2√1-x²) Let y = cos⁻¹ x, then cos y = x. Thus, we have: 2y = sin⁻¹ (2√1 − cos² y) Simplifying this equation gives: 2 cos⁻¹ x = sin⁻¹ (2√1-x²) Now, the equation holds valid for the values of x such that: 0 ≤ cos⁻¹ x ≤ π/2 This corresponds to the interval 1/√2 ≤ x ≤ 1."
+      },
+      "quick_tip": "For inverse trigonometric functions, ensure that the domain and range of each function align with the constraints of the given equation.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Inverse Trigonometric Functions",
+        "topic": "Properties of inverse trigonometric functions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q54",
+      "question_number": 54,
+      "question_text": "54. Consider the following statements: Statement (I): In a LPP, the objective function is always linear. Statement (II): In a LPP, the linear inequalities on variables are called constraints. Which of the following is correct?",
+      "options": {
+        "A": "(1) Statement (I) is true, Statement (II) is false.",
+        "B": "(2) Both Statements (I) and (II) are false.",
+        "C": "(3) Statement (I) is false, Statement (II) is true.",
+        "D": "(4) Both statements (I) and (II) are true."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q54-ANS",
+        "option": "D",
+        "answer_text": "Both statements (I) and (II) are true."
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q54-SOL",
+        "solution_text": "Statement (I) is true because in a Linear Programming Problem (LPP), the objective function is always linear. It is of the form C1X1 + C2X2 + ... + Cnxn, where X1, X2, . . ., Xn are decision variables and C1, C2, . . ., Cn are constants. Statement (II) is also true because in an LPP, the constraints are the linear inequalities on the decision variables, such as a1x1 + a2x2 + ··· < b, which limit the possible values of the decision variables. Thus, both statements are true."
+      },
+      "quick_tip": "When working with Linear Programming Problems (LPP), always check that the objective function and the constraints are both linear expressions involving the decision variables.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Linear Programming",
+        "topic": "Components of an LPP",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Statement Based",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q55",
+      "question_number": 55,
+      "question_text": "55. The maximum value of z = 3x + 4y, subject to the constraints x + y ≤ 40, x + 2y ≥ 60 and x, y ≥ 0 is:",
+      "options": {
+        "A": "(1) 120",
+        "B": "(2) 140",
+        "C": "(3) 40",
+        "D": "(4) 130"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q55-ANS",
+        "option": "B",
+        "answer_text": "140"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q55-SOL",
+        "solution_text": "The given problem is an optimization problem subject to the constraints. To find the maximum value of z = 3x + 4y, we first identify the corner points of the feasible region. The corner points are determined by solving the system of constraints: 1. x + y ≤ 40 2. x + 2y ≥ 60 3. x, y ≥ 0 By solving the system, we find the following corner points: - A = (0, 0), z = 3(0) + 4(0) = 0 - B = (40, 0), z = 3(40) + 4(0) = 120 - C = (20, 20), z = 3(20) + 4(20) = 140 (Maximum) - D = (0,30), z = 3(0) + 4(30) = 120 Thus, the maximum value of z is 140 at the corner point C = (20, 20)."
+      },
+      "quick_tip": "In linear programming problems, always check the corner points of the feasible region to find the optimal value of the objective function.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Linear Programming",
+        "topic": "Solving LPP graphically",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q56",
+      "question_number": 56,
+      "question_text": "56. Consider the following statements. Statement (I): If E and F are two independent events, then E' and F' are also independent. Statement (II): Two mutually exclusive events with non-zero probabilities of occurrence cannot be independent. Which of the following is correct?",
+      "options": {
+        "A": "(1) Statement (I) is false and statement (II) is true.",
+        "B": "(2) Both the statements are true.",
+        "C": "(3) Both the statements are false.",
+        "D": "(4) Statement (I) is true and statement (II) is false."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q56-ANS",
+        "option": "B",
+        "answer_text": "Both the statements are true."
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q56-SOL",
+        "solution_text": "Statement (I) is true. If two events E and F are independent, then their complements E' and F' are also independent. This follows from the fact that the probability of the intersection of E' and F' is equal to the product of their individual probabilities, i.e., P(E' ∩ F') = P(E')P(F'). Statement (II) is also true. If two events are mutually exclusive (meaning their intersection is empty), their probabilities cannot be independent unless at least one of them has zero probability. If the probability of both events is non-zero, then they are not independent, because the occurrence of one affects the probability of the other. Thus, both statements (I) and (II) are true."
+      },
+      "quick_tip": "When analyzing independent events and their complements, remember that independence for complements follows from the basic properties of probability. Also, mutually exclusive events with non-zero probabilities are never independent.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Probability",
+        "topic": "Independent and mutually exclusive events",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q57",
+      "question_number": 57,
+      "question_text": "57. If A and B are two non-mutually exclusive events such that P(A|B) = P(B|A), then:",
+      "options": {
+        "A": "(1) A = B",
+        "B": "(2) A ∩ B = ∅",
+        "C": "(3) P(A) = P(B)",
+        "D": "(4) A ⊂ B but A ≠ B"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q57-ANS",
+        "option": "C",
+        "answer_text": "P(A) = P(B)"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q57-SOL",
+        "solution_text": "Given that P(A|B) = P(B|A), we can use the formula for conditional probability: P(A|B) = P(A∩B)/P(B) and P(B|A) = P(A∩B)/P(A) Setting the two equal to each other: P(A∩B)/P(B) = P(A∩B)/P(A) This simplifies to: P(A) = P(B) Thus, P(A) = P(B), and the correct answer is option (3)."
+      },
+      "quick_tip": "For non-mutually exclusive events, if P(A|B) = P(B|A), it implies that the probabilities of the two events are the same.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Probability",
+        "topic": "Conditional probability",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q58",
+      "question_number": 58,
+      "question_text": "58. If A and B are two events such that A ⊂ B and P(B) ≠ 0, then which of the following is correct?",
+      "options": {
+        "A": "(1) P(A) < P(B)",
+        "B": "(2) P(A|B) ≥ P(A)",
+        "C": "(3) P(A) = P(B)",
+        "D": "(4) P(A|B) = P(A)/P(B)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q58-ANS",
+        "option": "B",
+        "answer_text": "P(A|B) ≥ P(A)"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q58-SOL",
+        "solution_text": "Given that A ⊂ B, it implies that the probability of A occurring is always less than or equal to the probability of B. The conditional probability P(A|B) is given by: P(A|B) = P(A∩B)/P(B) Since A ⊂ B, A ∩ B = A, so: P(A|B) = P(A)/P(B) Also, since P(A) ≤ P(B), it follows that: P(A|B) ≥ P(A)"
+      },
+      "quick_tip": "When one event is a subset of another, the conditional probability P(A|B) is always greater than or equal to P(A), since P(A) ≤ P(B).",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Probability",
+        "topic": "Conditional probability (properties)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q59",
+      "question_number": 59,
+      "question_text": "59. Meera visits only one of the two temples A and B in her locality. Probability that she visits temple A is 1/5. If she visits temple A, the probability that she meets her friend is 1/3. The probability that she meets her friend, whereas it is 2/7 if she visits temple B. Meera met her friend at one of the two temples. The probability that she met her friend at temple B is:",
+      "options": {
+        "A": "(1) 1/16",
+        "B": "(2) 3/16",
+        "C": "(3) 9/16",
+        "D": "(4) 7/16"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q59-ANS",
+        "option": "C",
+        "answer_text": "9/16"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q59-SOL",
+        "solution_text": "We are given the following information: - P(E1) = 1/5, P(E2) = 3 (probabilities of visiting temples A and B respectively). - P(A|E1) = 1/3, the probability that Meera meets her friend at temple A, given that she visits temple A. - P(A|E2) = 2/7, the probability that Meera meets her friend at temple B, given that she visits temple B. We need to find P(E2|A), the probability that Meera visits temple B given that she met her friend. Using Bayes' Theorem: P(E2|A) = (P(A|E2)P(E2)) / P(A) We know that: P(A) = P(A|E1)P(E1) + P(A|E2)P(E2) Substituting the given values: P(A)=(1/3 x 1/5) + (2/7 x 3/5) P(A)= 2/15 + 14/35 = 2/15 + 6/15 = 8/15 Now applying Bayes' Theorem: P(E2|A) = ((2/7) x (3/5)) / (8/15) P(E2|A) = (6/35) / (8/15) P(E2|A) = (6/35) x (15/8) = (3/7) x (3/8) = 9/56. Thus, the probability that Meera met her friend at temple B is 9/16."
+      },
+      "quick_tip": "When calculating conditional probabilities, remember to use Bayes' Theorem to relate the conditional probabilities and the total probability.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Probability",
+        "topic": "Bayes' Theorem",
+        "is_deleted_2024": false,
+        "confidence_score": 0.1
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-MATH-Q60",
+      "question_number": 60,
+      "question_text": "60. If Z1 and Z2 are two non-zero complex numbers, then which of the following is not true?",
+      "options": {
+        "A": "(1) |Z1Z2| = |Z1||Z2|",
+        "B": "(2) Z1Z2 = Z1・Z2",
+        "C": "(3) |Z1 + Z2| ≥ |Z1| + |Z2|",
+        "D": "(4) Z1 + Z2 = Z1 + Z2"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-MATH-Q60-ANS",
+        "option": "C",
+        "answer_text": "|Z1 + Z2| ≥ |Z1| + |Z2|"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-MATH-Q60-SOL",
+        "solution_text": "Let's analyze the given options: 1) |Z1Z2| = |Z1||Z2|: This is true. The modulus of a product of two complex numbers is the product of their moduli. 2) Z1 Z2 = Z1・Z2: This is also true. The multiplication of complex numbers is commutative, so the product can be written as either Z1 Z2 or Z1 · Z2. 3) |Z1+Z2| ≥ |Z1| + |Z2|: This is false based on the triangle inequality for complex numbers, which states that the modulus of the sum of two complex numbers is always less than or equal to the sum of their moduli. The triangle inequality states |Z1 + Z2| ≤ |Z1| + |Z2|. Therefore, |Z1 + Z2| ≥ |Z1| + |Z2| is generally not true (unless Z1 and Z2 are collinear and in opposite directions). 4) Z1 + Z2 = Z1 + Z2: This is trivially true. It doesn't represent a non-trivial property of complex numbers; it just states that Z1 + Z2 is equal to itself. Thus, the statement |Z1 + Z2| ≥ |Z1| + |Z2| is not true, and therefore, it is the answer."
+      },
+      "quick_tip": "In complex number properties, always remember that the modulus of a product is the product of the moduli, and the triangle inequality governs the relationship between the modulus of a sum and the sum of the moduli.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Complex Numbers and Quadratic Equations",
+        "topic": "Properties of complex numbers (Triangle Inequality)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    }
+  ]
+}

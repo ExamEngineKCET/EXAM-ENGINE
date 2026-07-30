@@ -1,0 +1,28 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Node/React
+node_modules/
+dist/
+build/
+.npm/
+
+# Python/FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Database (Keep your local test data safe)
+*.db
+*.sqlite3
+app/db/exam_engine.db
+
+# OS Files
+.DS_Store
+Thumbs.db

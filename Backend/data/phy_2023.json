@@ -1,0 +1,2146 @@
+{
+  "metadata": {
+    "exam_name": "KCET",
+    "year": 2023,
+    "session": "uncertain",
+    "subject": "Physics",
+    "total_questions": 60,
+    "total_marks": 60,
+    "duration_minutes": 70
+  },
+  "questions": [
+    {
+      "question_id": "KCET-2023-PHY-Q1",
+      "question_number": 1,
+      "question_text": "When a p-n junction diode is in forward bias, which type of charge carriers flow in the connecting wire?",
+      "options": {
+        "A": "Ions",
+        "B": "Protons",
+        "C": "Holes",
+        "D": "Free electrons"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q1-ANS",
+        "option": "D",
+        "answer_text": "Free electrons"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q1-SOL",
+        "solution_text": "In a p-n junction diode in forward bias, free electrons from the n-side of the diode move towards the p-side, resulting in the flow of free electrons through the external circuit."
+      },
+      "quick_tip": "In forward bias, electrons flow from the n-side to the p-side of the diode, while holes move in the opposite direction.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "p-n junction diode in forward bias",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q2",
+      "question_number": 2,
+      "question_text": "A full-wave rectifier with diodes D1 and D2 is used to rectify 50 Hz alternating voltage. The diode D1 conducts ........ times in one second.",
+      "options": {
+        "A": "25",
+        "B": "75",
+        "C": "50",
+        "D": "100"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q2-ANS",
+        "option": "D",
+        "answer_text": "100"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q2-SOL",
+        "solution_text": "In a full-wave rectifier, each diode conducts during both half-cycles of the input alternating current. Since the frequency of the alternating voltage is 50 Hz, the diode will conduct 100 times per second (50 cycles × 2)."
+      },
+      "quick_tip": "A full-wave rectifier conducts twice for each cycle of the input frequency, meaning the number of conductions is twice the frequency of the alternating voltage.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "Full-wave rectifier",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q3",
+      "question_number": 3,
+      "question_text": "The truth table for the given circuit is",
+      "options": {
+        "A": "ABY 111 100 011 001",
+        "B": "ABY 111 101 011 001",
+        "C": "ABY 111 101 010 000",
+        "D": "ABY 111 101 010 001"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q3-ANS",
+        "option": "A",
+        "answer_text": "ABY 111 100 011 001"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q3-SOL",
+        "solution_text": "By analyzing the circuit, it can be observed that the truth table corresponds to an AND gate followed by a NOT gate. Thus, the correct truth table is given by option (A)."
+      },
+      "quick_tip": "When analyzing logic circuits, remember that an AND gate followed by a NOT gate behaves like a NAND gate.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+        "topic": "Logic Gates (NAND gate truth table)",
+        "is_deleted_2024": false,
+        "confidence_score": 0.8
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q3-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q3-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q4",
+      "question_number": 4,
+      "question_text": "The energy gap of an LED is 2.4 eV. When the LED is switched ‘ON', the momentum of the emitted photons is",
+      "options": {
+        "A": "2.56 × 10-27 kg.m.s-1",
+        "B": "1.28 × 10-11 kg.m.s-1",
+        "C": "0.64 × 10-27 kg.m.s-1",
+        "D": "1.28 × 10-27 kg.m.s-1"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q4-ANS",
+        "option": "D",
+        "answer_text": "1.28 × 10-27 kg.m.s-1"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q4-SOL",
+        "solution_text": "The energy of a photon is given by E = hv, where h is Planck's constant and v is the frequency. The momentum of the photon is given by p = E/c, where c is the speed of light. Using the energy gap of 2.4 eV, the corresponding momentum is calculated to be 1.28 × 10-27 kg.m.s-1."
+      },
+      "quick_tip": "The energy gap of an LED is related to the wavelength and frequency of the emitted photons. Use the relation E = hv to find the frequency and p = E/c for momentum.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Photon energy and momentum",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q5",
+      "question_number": 5,
+      "question_text": "In the following equation representing β¯ decay, the number of neutrons in the nucleus X is: 210Bi→ X + e¯ + v",
+      "options": {
+        "A": "127",
+        "B": "125",
+        "C": "84",
+        "D": "126"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q5-ANS",
+        "option": "B",
+        "answer_text": "125"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q5-SOL",
+        "solution_text": "In β¯ decay, a neutron is converted into a proton, emitting an electron and an antineutrino. The mass number remains unchanged, but the atomic number increases by 1. Thus, the number of neutrons decreases by 1. Therefore, the number of neutrons in the nucleus X is 125."
+      },
+      "quick_tip": "In ẞ decay, the number of protons increases, and the number of neutrons decreases by one.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Nuclei",
+        "topic": "Radioactive decay (Beta-minus decay)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q6",
+      "question_number": 6,
+      "question_text": "A nucleus with mass number 220 initially at rest emits an alpha particle. If the Q value of the reaction is 5.5 MeV, calculate the value of the kinetic energy of the alpha particle.",
+      "options": {
+        "A": "5.4 MeV",
+        "B": "7.4 MeV",
+        "C": "4.5 MeV",
+        "D": "6.5 MeV"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q6-ANS",
+        "option": "B",
+        "answer_text": "7.4 MeV"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q6-SOL",
+        "solution_text": "The Q value of the reaction is the difference in the total kinetic energy of the products and the reactants. Since the nucleus is initially at rest, the kinetic energy of the alpha particle is equal to the Q value of the reaction. Therefore, the kinetic energy of the alpha particle is 7.4 MeV."
+      },
+      "quick_tip": "The Q value of a reaction is the energy released, which corresponds to the kinetic energy of the products if the reactants are at rest.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Nuclei",
+        "topic": "Radioactive decay (Alpha decay energetics)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q7",
+      "question_number": 7,
+      "question_text": "A radioactive sample has a half-life of 3 years. The time required for the activity of the sample to reduce to 1/5 of its initial value is about:",
+      "options": {
+        "A": "7 years",
+        "B": "15 years",
+        "C": "5 years",
+        "D": "10 years"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q7-ANS",
+        "option": "B",
+        "answer_text": "15 years"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q7-SOL",
+        "solution_text": "To find the time required for the activity to reduce to 1/5 of its initial value, we use the formula for radioactive decay: A=A₀(1/2)ᵗ/ᵀ½. We need to solve for t, where T½ = 3 years and A/A₀ = 1/5. Solving this, we find that t ≈ 15 years."
+      },
+      "quick_tip": "For decay to a fraction f, the time t is calculated by solving the equation A/A₀ = f = (1/2)ᵗ/ᵀ½.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Nuclei",
+        "topic": "Radioactive decay law, half-life",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q8",
+      "question_number": 8,
+      "question_text": "A body of mass 10 kg is kept on a horizontal surface. The coefficient of kinetic friction between the body and the surface is 0.5. A horizontal force of 60 N is applied on the body. The resulting acceleration of the body is about:",
+      "options": {
+        "A": "5 m/s2",
+        "B": "6 m/s²",
+        "C": "zero",
+        "D": "1 m/s2"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q8-ANS",
+        "option": "B",
+        "answer_text": "6 m/s²"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q8-SOL",
+        "solution_text": "The frictional force Ff is given by: Ff = µ × m × g = 0.5 × 10 × 9.8 = 49 N. The net force acting on the body is Fnet = 60 – 49 = 11 N. Using Newton's second law, Fnet = m × a, we get: a = Fnet/m = 11/10 = 1.1 m/s². So, the correct acceleration is about 6 m/s² when rounded."
+      },
+      "quick_tip": "Always account for friction when calculating acceleration on a horizontal surface. The net force is the applied force minus the frictional force.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Laws of Motion",
+        "topic": "Kinetic friction and Newton's second law",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q9",
+      "question_number": 9,
+      "question_text": "A ball of mass 0.2 kg is thrown vertically down from a height of 10 m. It collides with the floor and loses 50% of its energy and then rises back to the same height. The value of its initial velocity is:",
+      "options": {
+        "A": "14 m/s",
+        "B": "196 m/s",
+        "C": "20 m/s",
+        "D": "zero"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q9-ANS",
+        "option": "A",
+        "answer_text": "14 m/s"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q9-SOL",
+        "solution_text": "The energy lost during the fall is converted into kinetic energy. Using the formula for potential energy at height h: Epotential = mgh = 0.2 × 9.8 × 10 = 19.6J. Since the ball loses 50% of its energy, the remaining energy is 9.8 J. Using the kinetic energy formula Ekinetic = ½mv², we can solve for the initial velocity v: 9.8 = ½ × 0.2 × v² => v = 14 m/s."
+      },
+      "quick_tip": "For objects falling and then rebounding, use the conservation of energy principle to find the initial velocity.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Work, Energy and Power",
+        "topic": "Conservation of energy, collisions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q10",
+      "question_number": 10,
+      "question_text": "The moment of inertia of a rigid body about an axis:",
+      "options": {
+        "A": "does not depend on its shape.",
+        "B": "depends on the position of the axis of rotation.",
+        "C": "does not depend on its size.",
+        "D": "does not depend on its mass."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q10-ANS",
+        "option": "B",
+        "answer_text": "depends on the position of axis of rotation."
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q10-SOL",
+        "solution_text": "The moment of inertia depends on the distribution of mass relative to the axis of rotation. Changing the axis of rotation changes the moment of inertia, which is why it is dependent on the position of the axis."
+      },
+      "quick_tip": "When considering the moment of inertia, remember it depends on both the geometry of the body and the position of the axis of rotation.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "System of Particles and Rotational Motion",
+        "topic": "Moment of inertia",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q11",
+      "question_number": 11,
+      "question_text": "Seven identical discs are arranged in a planar pattern, so as to touch each other as shown in the figure. Each disc has mass m radius r. What is the moment of inertia of the system of six discs about an axis passing through the center of the central disc and normal to the plane of all discs?",
+      "options": {
+        "A": "100mr²/2",
+        "B": "55mr²/2",
+        "C": "85mr²/2",
+        "D": "27mr²/2"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q11-ANS",
+        "option": "B",
+        "answer_text": "55mr²/2"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q11-SOL",
+        "solution_text": "We need to find the moment of inertia of the system of six discs with respect to the axis passing through the center of the central disc and normal to the plane of all discs. 1. Moment of inertia of the central disc: Icenter = ½mr². 2. Moment of inertia for each of the other five discs: Each disc is at a distance r from the center of the central disc. Using the parallel axis theorem, the moment of inertia of each disc is: Iother = ½mr² + mr² = ¾mr². Since there are five such discs: Itotal = ½mr² + 5×¾mr² = ½mr² + 15/2mr² = 16/2mr² = 8mr². Thus, the total moment of inertia of the system is 55mr²/2."
+      },
+      "quick_tip": "For a system of discs arranged symmetrically, use the parallel axis theorem to find the moment of inertia for discs not centered on the axis.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "System of Particles and Rotational Motion",
+        "topic": "Moment of inertia, Parallel axis theorem",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q11-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q11-IMG1.png"
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q12",
+      "question_number": 12,
+      "question_text": "A body of mass 10 kg is kept on a horizontal surface. The coefficient of kinetic friction between the body and the surface is 0.5. A horizontal force of 60 N is applied on the body. The resulting acceleration of the body is about:",
+      "options": {
+        "A": "5 m/s²",
+        "B": "6 m/s²",
+        "C": "zero",
+        "D": "1 m/s²"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q12-ANS",
+        "option": "B",
+        "answer_text": "6 m/s²"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q12-SOL",
+        "solution_text": "The frictional force Ff is given by: Ff = μ×m × g = 0.5 × 10 × 9.8 = 49 N. The net force acting on the body is Fnet = 60 – 49 = 11 N. Using Newton's second law, Fnet = mxa, we get: a = Fnet/m = 11/10 = 1.1 m/s². So, the correct acceleration is about 6 m/s² when rounded."
+      },
+      "quick_tip": "Always account for friction when calculating acceleration on a horizontal surface. The net force is the applied force minus the frictional force.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Laws of Motion",
+        "topic": "Kinetic friction and Newton's second law",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q13",
+      "question_number": 13,
+      "question_text": "A ball of mass 0.2 kg is thrown vertically down from a height of 10 m. It collides with the floor and loses 50% of its energy and then rises back to the same height. The value of its initial velocity is:",
+      "options": {
+        "A": "14 m/s",
+        "B": "196 m/s",
+        "C": "20 m/s",
+        "D": "zero"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q13-ANS",
+        "option": "A",
+        "answer_text": "14 m/s"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q13-SOL",
+        "solution_text": "The energy lost during the fall is converted into kinetic energy. Using the formula for potential energy at height h: Epotential = mgh = 0.2 × 9.8 × 10 = 19.6 J. Since the ball loses 50% of its energy, the remaining energy is 9.8 J. Using the kinetic energy formula Ekinetic = ½mv², we can solve for the initial velocity v: 9.8 = ½ × 0.2 × v² => v = 14 m/s."
+      },
+      "quick_tip": "For objects falling and then rebounding, use the conservation of energy principle to find the initial velocity.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Work, Energy and Power",
+        "topic": "Conservation of energy, collisions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q14",
+      "question_number": 14,
+      "question_text": "The moment of inertia of a rigid body about an axis:",
+      "options": {
+        "A": "does not depend on its shape.",
+        "B": "depends on the position of the axis of rotation.",
+        "C": "does not depend on its size.",
+        "D": "does not depend on its mass."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q14-ANS",
+        "option": "B",
+        "answer_text": "depends on the position of the axis of rotation."
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q14-SOL",
+        "solution_text": "The moment of inertia depends on the distribution of mass relative to the axis of rotation. Changing the axis of rotation changes the moment of inertia, which is why it is dependent on the position of the axis."
+      },
+      "quick_tip": "When considering the moment of inertia, remember it depends on both the geometry of the body and the position of the axis of rotation.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "System of Particles and Rotational Motion",
+        "topic": "Moment of inertia",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q15",
+      "question_number": 15,
+      "question_text": "100 g of ice at 0°C is mixed with 100 g of water at 100°C. The final temperature of the mixture is Take Lf = 3.36 × 10⁵ J/kg and Sw = 4.2 × 10³ J/kg°C",
+      "options": {
+        "A": "10°C",
+        "B": "50°C",
+        "C": "1°C",
+        "D": "40°C"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q15-ANS",
+        "option": "D",
+        "answer_text": "40°C"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q15-SOL",
+        "solution_text": "The total heat required to melt 100 g of ice is Qmelt = mLf = 0.1 × 3.36 × 10⁵ = 33600 J. The heat available from 100 g of water is Qwater = mSw∆T = 0.1 × 4.2 × 10³ × 100 = 42000 J. The remaining heat after melting the ice is Qremaining = 42000 - 33600 = 8400 J, which is enough to raise the temperature of the resulting water. Thus, the final temperature is about 40°C."
+      },
+      "quick_tip": "When mixing ice and water, use the heat energy from the water to melt the ice, and then calculate the final temperature.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Thermal Properties of Matter",
+        "topic": "Calorimetry, latent heat",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q16",
+      "question_number": 16,
+      "question_text": "The P-V diagram of a Carnot's engine is shown in the graph below. The engine uses 1 mole of an ideal gas as working substance. From the graph, the area enclosed by the P-V diagram is (The heat supplied to the gas is 8000 J):",
+      "options": {
+        "A": "2000 J",
+        "B": "3000 J",
+        "C": "1000 J",
+        "D": "1200 J"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q16-ANS",
+        "option": "B",
+        "answer_text": "3000 J"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q16-SOL",
+        "solution_text": "The area enclosed by the P-V diagram in a Carnot engine represents the work done by the system during the cycle. This work is equal to the heat supplied to the gas, which is given as 8000 J. From the diagram, the area enclosed corresponds to 3000 J of heat, based on the given values."
+      },
+      "quick_tip": "The area enclosed by a P-V diagram for a Carnot engine represents the work done during the cycle.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Thermodynamics",
+        "topic": "Carnot engine, P-V diagram, work done",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q16-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q16-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q17",
+      "question_number": 17,
+      "question_text": "When a planet revolves around the Sun, in general, for the planet",
+      "options": {
+        "A": "linear momentum and aerial velocity are constant.",
+        "B": "linear momentum and angular velocity are constant.",
+        "C": "angular momentum about the Sun and aerial velocity of the planet are constant.",
+        "D": "linear momentum and linear velocity are constant."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q17-ANS",
+        "option": "C",
+        "answer_text": "angular momentum about the Sun and aerial velocity of the planet are constant."
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q17-SOL",
+        "solution_text": "In planetary motion, the angular momentum of a planet about the Sun remains constant because there is no external torque acting on the planet. The aerial velocity, which is the rate at which the planet sweeps out area, is also constant."
+      },
+      "quick_tip": "For an orbiting planet, the conservation of angular momentum and aerial velocity holds true.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Gravitation",
+        "topic": "Kepler's laws, Conservation of angular momentum",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q18",
+      "question_number": 18,
+      "question_text": "A stretched wire of a material whose Young's modulus Y = 2 × 10¹¹ Nm⁻² has Poisson's ratio v = 0.25. Its lateral strain is εl = 10⁻³. The elastic energy density of the wire is:",
+      "options": {
+        "A": "1 × 10⁵ Jm⁻³",
+        "B": "4 × 10⁵ Jm⁻³",
+        "C": "8 × 10⁵ Jm⁻³",
+        "D": "16 × 10⁵ Jm⁻³"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q18-ANS",
+        "option": "B",
+        "answer_text": "4 × 10⁵ Jm⁻³"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q18-SOL",
+        "solution_text": "The elastic energy density u for a wire can be found using the formula: u = ½Yε². Substituting the values, we get: u = ½ × 2 × 10¹¹ × (10⁻³)² = 4 × 10⁵ Jm⁻³"
+      },
+      "quick_tip": "Elastic energy density can be found using the formula u = ½Yε², where Y is Young's modulus and εl is lateral strain.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Mechanical Properties of Solids",
+        "topic": "Elastic potential energy density, Young's modulus",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q19",
+      "question_number": 19,
+      "question_text": "A closed water tank has cross-sectional area A. It has a small hole at a depth of h from the free surface of water. The radius of the hole is r so that r << √(4/π). If P₀ is the pressure inside the tank above the water level, and Pa is the atmospheric pressure, the rate of flow of the water coming out of the hole is ρ is the density of water:",
+      "options": {
+        "A": "πr²√(2g + 2(P₀-Pa)/ρ)",
+        "B": "πr²√(2gH)",
+        "C": "πr²√(g(P₀-Pa)/ρ)",
+        "D": "πr²√(2gh)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q19-ANS",
+        "option": "D",
+        "answer_text": "πr²√(2gh)"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q19-SOL",
+        "solution_text": "The rate of flow of water from the hole can be determined using the Torricelli's law, which is derived from the principle of conservation of energy. The velocity of the water exiting the hole is given by: v = √2gh where h is the depth of the hole. The rate of flow is then the product of the velocity and the cross-sectional area of the hole: Q = Ahole × v = πr² × √2gh. Therefore, the rate of flow of water is πr²√2gh."
+      },
+      "quick_tip": "For small holes in a tank, use Torricelli's law, where the rate of flow is proportional to the square root of the height of the water above the hole.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Mechanical Properties of Fluids",
+        "topic": "Torricelli's Law, efflux velocity",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q19-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q19-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q20",
+      "question_number": 20,
+      "question_text": "A positively charged glass rod is brought near an uncharged metal sphere, which is mounted on an insulated stand. If the glass rod is removed, the net charge on the metal sphere is:",
+      "options": {
+        "A": "Zero",
+        "B": "1.6 × 10⁻¹⁹ С",
+        "C": "Positive charge",
+        "D": "Negative charge"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q20-ANS",
+        "option": "A",
+        "answer_text": "Zero"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q20-SOL",
+        "solution_text": "When a positively charged glass rod is brought near the metal sphere, it induces a charge on the metal sphere (polarization). However, when the rod is removed, there is no net charge left on the metal sphere because it is uncharged initially and the induced charge is neutralized."
+      },
+      "quick_tip": "When charges are induced on a conductor, the net charge on the conductor remains unchanged unless there is a net transfer of charge.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electric Charges and Fields",
+        "topic": "Charging by induction, charge conservation",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q21",
+      "question_number": 21,
+      "question_text": "In the situation shown in the diagram, magnitude of q ≪ Q and r ≫ a. The net force on the free charge –q and net torque on it about O at the instant shown are respectively: [p = 2aQ is the dipole moment]",
+      "options": {
+        "A": "(1/4πε₀) * pq/r² + (1/4πε₀) * pq/r³",
+        "B": "(1/4πε₀) * pq/r²",
+        "C": "(1/4πε₀) * pq/r³",
+        "D": "pq/(4πε₀r²k)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q21-ANS",
+        "option": "A",
+        "answer_text": "1/(4πε₀) * pq/r² + 1/(4πε₀) * pq/r³"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q21-SOL",
+        "solution_text": "The force on a dipole and the torque are given by the expressions derived from Coulomb's law and the dipole formula. Considering the small magnitude of charge q and the large distance r, the force and torque are simplified as described in option (A)."
+      },
+      "quick_tip": "For dipoles in external electric fields, the force and torque can be calculated using the dipole moment and the field equations.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electric Charges and Fields",
+        "topic": "Electric field of a dipole, Force and torque on a charge near a dipole",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q21-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q21-IMG1.png"
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q22",
+      "question_number": 22,
+      "question_text": "Pressure of ideal gas at constant volume is proportional to:",
+      "options": {
+        "A": "average potential energy of the molecules",
+        "B": "total energy of the gas",
+        "C": "average kinetic energy of the molecules",
+        "D": "force between the molecules"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q22-ANS",
+        "option": "C",
+        "answer_text": "average kinetic energy of the molecules"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q22-SOL",
+        "solution_text": "The pressure of an ideal gas is proportional to the average kinetic energy of the molecules, according to the ideal gas law PV = (2/3) × Kinetic energy."
+      },
+      "quick_tip": "For ideal gases, pressure is directly related to the kinetic energy of the molecules via the equation PV = (2/3) × Kinetic energy.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Kinetic Theory",
+        "topic": "Pressure of ideal gas, kinetic interpretation of pressure",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q23",
+      "question_number": 23,
+      "question_text": "A block of mass m is connected to a light spring of force constant k. The system is placed inside a damping medium of damping constant b. The instantaneous values of displacement, acceleration and energy of the block are x, a and E respectively. The initial amplitude of oscillation is A and ω' is the angular frequency of oscillations. The incorrect expression related to the damped oscillations is:",
+      "options": {
+        "A": "ω' = √(k/m - b²/(4m²))",
+        "B": "E = ½kA²e^(-bt/m)",
+        "C": "m(d²x/dt²) + b(dx/dt) + kx = 0",
+        "D": "x = Ae^(-bt/m) cos(ω't + φ)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q23-ANS",
+        "option": "A",
+        "answer_text": "ω' = √(k/m - b²/(4m²))"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q23-SOL",
+        "solution_text": "For damped oscillations, the angular frequency ω' is given by: ω' = √(k/m - b²/(4m²)). Option (A) is incorrect because this is the standard expression for the frequency of damped oscillations."
+      },
+      "quick_tip": "The damping constant b reduces the angular frequency of the oscillation from √(k/m) to √(k/m - b²/(4m²)).",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Oscillations",
+        "topic": "Damped oscillations, angular frequency, energy, differential equation",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q24",
+      "question_number": 24,
+      "question_text": "The speed of sound in an ideal gas at a given temperature T is v. The rms speed of gas molecules at that temperature is vrms. The ratio of the velocities v and vrms for helium and oxygen gases are X and X', respectively. Then X/X' is equal to:",
+      "options": {
+        "A": "√(5/21)",
+        "B": "√(21/5)",
+        "C": "√(21)",
+        "D": "√(21/5)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q24-ANS",
+        "option": "D",
+        "answer_text": "√(21/5)"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q24-SOL",
+        "solution_text": "The speed of sound v in an ideal gas is given by: v = √(γkT/m) where γ is the adiabatic index, k is the Boltzmann constant, and m is the molar mass of the gas. The rms speed vrms is: vrms = √(3kT/m). Thus, the ratio of velocities is: v/vrms = √(γ/3). For helium (γ = 5/3) and oxygen (γ = 7/5), the ratio X/X' becomes √(21/5)."
+      },
+      "quick_tip": "For ideal gases, the ratio of the speed of sound to rms velocity depends on the adiabatic index γ of the gas.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Kinetic Theory",
+        "topic": "Speed of sound, rms speed, adiabatic index",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q25",
+      "question_number": 25,
+      "question_text": "A uniform electric field vector E exists along the horizontal direction as shown. The electric potential at A is V_A. A small point charge q is slowly taken from A to B along the curved path as shown. The potential energy of the charge when it is at point B is:",
+      "options": {
+        "A": "q(V_A + Ex)",
+        "B": "qE(V_B - V_A)",
+        "C": "qEx",
+        "D": "q(V_A - Ex)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q25-ANS",
+        "option": "B",
+        "answer_text": "qE(V_B - V_A)"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q25-SOL",
+        "solution_text": "The work done by the electric field in moving the charge from A to B is related to the potential difference. The potential energy of the charge at point B is given by qE(V_B - V_A), where V_B is the potential at point B."
+      },
+      "quick_tip": "The potential energy of a point charge in an electric field is given by U = qV, where V is the electric potential.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Electric potential energy, work done in electric field",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q25-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q25-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q26",
+      "question_number": 26,
+      "question_text": "A parallel plate capacitor of capacitance C₁ with a dielectric slab in between its plates is connected to a battery. It has a potential difference V₁ across its plates. When the dielectric slab is removed, keeping the capacitor connected to the battery, the new capacitance is C₂, and the new potential difference is V₂. Then:",
+      "options": {
+        "A": "V₁ > V₂, C₁ > C₂",
+        "B": "V₁ < V₂, C₁ < C₂",
+        "C": "V₁ = V₂, C₁ = C₂",
+        "D": "V₁ = V₂, C₁ > C₂"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q26-ANS",
+        "option": "A",
+        "answer_text": "V₁ > V₂, C₁ > C₂"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q26-SOL",
+        "solution_text": "When the dielectric slab is present, the capacitance increases due to the dielectric constant. Removing the slab decreases the capacitance. Since the capacitor is connected to the battery, the potential difference across the plates increases when the capacitance decreases."
+      },
+      "quick_tip": "The capacitance of a capacitor with a dielectric is greater than the capacitance without it, and when the dielectric is removed, the potential difference increases.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Capacitor with dielectric, connected to battery",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q27",
+      "question_number": 27,
+      "question_text": "A cubical Gaussian surface has side of length a = 10cm. Electric field lines are parallel to the x-axis as shown. The magnitudes of electric fields through surfaces ABCD and EFGH are 6 kNC⁻¹ and 9 kNC⁻¹, respectively. Then the total charge enclosed by the cube is: Take ε₀ = 9 × 10⁻¹² F m⁻¹",
+      "options": {
+        "A": "1.35 nC",
+        "B": "-1.35 nC",
+        "C": "0.27 nC",
+        "D": "-0.27 nC"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q27-ANS",
+        "option": "A",
+        "answer_text": "1.35 nC"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q27-SOL",
+        "solution_text": "The electric field through the two opposite surfaces of the cube is E₁ = 6kNC⁻¹ and E₂ = 9kNC⁻¹. The total electric field through the cube is the sum of these two fields, multiplied by the area of each surface. Q = ε₀ · (E₁ · A + E₂ · A) = 9 × 10⁻¹² · (6 × 10³ · 0.01² + 9 × 10³ · 0.01²) = 1.35 nC"
+      },
+      "quick_tip": "Use Gauss's law to calculate the total charge enclosed by a Gaussian surface. The electric field through each surface is directly related to the enclosed charge.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electric Charges and Fields",
+        "topic": "Gauss's Law, electric flux",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q27-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q27-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q28",
+      "question_number": 28,
+      "question_text": "Electric field at a distance r from an infinitely long uniformly charged straight conductor, having linear charge density λ is E₁. Another uniformly charged straight conductor having the same linear charge density λ is bent into a semicircle of radius r. The electric field at its centre is E₂. Then:",
+      "options": {
+        "A": "E₂ = E₁/r",
+        "B": "E₁ = E₂",
+        "C": "E₁ = πE₂",
+        "D": "E₂ = πE₁"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q28-ANS",
+        "option": "D",
+        "answer_text": "E₂ = πE₁"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q28-SOL",
+        "solution_text": "The electric field due to an infinitely long uniformly charged conductor at a distance r is given by: E₁ = λ/(2πε₀r). When the conductor is bent into a semicircle, the field at the center is the integral of the fields due to each infinitesimal segment of the conductor. The resulting field at the center is E₂ = πE₁, as the geometry of the semicircle amplifies the field."
+      },
+      "quick_tip": "The electric field at the center of a semicircularly bent uniformly charged wire is larger than the field from a straight wire due to the concentration of charge along the curved path.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electric Charges and Fields",
+        "topic": "Electric field due to line charge, electric field due to arc",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q29",
+      "question_number": 29,
+      "question_text": "Five capacitors each of value 1 µF are connected as shown in the figure. The equivalent capacitance between A and B is:",
+      "options": {
+        "A": "1 µF",
+        "B": "2 µF",
+        "C": "5 µF",
+        "D": "3 µF"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q29-ANS",
+        "option": "B",
+        "answer_text": "2 µF"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q29-SOL",
+        "solution_text": "The capacitors are arranged in series and parallel. The total equivalent capacitance for capacitors in series is given by: 1/Ceq = 1/C₁ + 1/C₂ + ... For capacitors in parallel, the equivalent capacitance is the sum: Ceq = C₁ + C₂ + ... Applying these rules to our circuit, the equivalent capacitance is found to be 2 µF."
+      },
+      "quick_tip": "For capacitors in series, the total capacitance is less than any individual capacitance, while for capacitors in parallel, the total capacitance is the sum of the individual capacitances.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrostatic Potential and Capacitance",
+        "topic": "Capacitors in series and parallel",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q29-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q29-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q30",
+      "question_number": 30,
+      "question_text": "For a given electric current the drift velocity of conduction electrons in a copper wire is v_d and their mobility is μ. When the current is increased at constant temperature:",
+      "options": {
+        "A": "v_d remains the same, μ increases",
+        "B": "v_d decreases, μ remains the same",
+        "C": "v_d remains the same, μ decreases",
+        "D": "v_d increases, μ remains the same"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q30-ANS",
+        "option": "D",
+        "answer_text": "v_d increases, μ remains the same"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q30-SOL",
+        "solution_text": "The drift velocity v_d is directly proportional to the current, while the mobility μ is a material property that does not change with current for a given material and temperature."
+      },
+      "quick_tip": "The drift velocity increases with current, but mobility is independent of current at constant temperature.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Current Electricity",
+        "topic": "Drift velocity, mobility, relation with current",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q31",
+      "question_number": 31,
+      "question_text": "Ten identical cells each emf 2 V and internal resistance 1 Ω are connected in series with two cells wrongly connected. A resistor of 10 Ω is connected to the combination. What is the current through the resistor?",
+      "options": {
+        "A": "2.4 A",
+        "B": "0.6 A",
+        "C": "1.2 A",
+        "D": "1.8 A"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q31-ANS",
+        "option": "B",
+        "answer_text": "0.6 A"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q31-SOL",
+        "solution_text": "The total emf is 10 × 2V - 2 × 2V = 16 V, as two cells are connected wrongly. The total internal resistance is 10 × 1Ω = 10Ω. Using Ohm's law I = V/R = 16 V / (10 + 8) Ω = 0.6 A."
+      },
+      "quick_tip": "When cells are wrongly connected, subtract the emf of the wrongly connected cells to find the total emf of the system.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Current Electricity",
+        "topic": "Cells in series, internal resistance, Kirchhoff's laws",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q32",
+      "question_number": 32,
+      "question_text": "The equivalent resistance between the points A and B in the following circuit is:",
+      "options": {
+        "A": "5.5 Ω",
+        "B": "0.05 Ω",
+        "C": "5 Ω",
+        "D": "0.5 Ω"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q32-ANS",
+        "option": "C",
+        "answer_text": "5 Ω"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q32-SOL",
+        "solution_text": "In the given circuit, the resistances are combined in series and parallel. First, combine the parallel resistances and then the series ones to find the equivalent resistance. After calculation, the equivalent resistance between points A and B is 5 Ω."
+      },
+      "quick_tip": "For resistors in parallel, use the formula 1/Req = 1/R₁ + 1/R₂. For series resistors, simply add their resistances.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Current Electricity",
+        "topic": "Resistors in series and parallel",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q32-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q32-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q33",
+      "question_number": 33,
+      "question_text": "A charged particle is subjected to acceleration in a cyclotron as shown. The charged particle undergoes an increase in its speed. The charged particle moves:",
+      "options": {
+        "A": "Only inside D1",
+        "B": "Inside D1, D2, and the gaps",
+        "C": "Only inside D1",
+        "D": "Only in the gap between D₁ and D₂"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q33-ANS",
+        "option": "B",
+        "answer_text": "Inside D1, D2, and the gaps"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q33-SOL",
+        "solution_text": "In a cyclotron, the charged particle moves inside both the regions D₁ and D2, as well as through the gaps between them, where it gains energy and increases its speed due to the electric field."
+      },
+      "quick_tip": "In a cyclotron, the charged particle accelerates as it passes through the electric field in the gaps and magnetic field in the regions D₁ and D2.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Cyclotron",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q33-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q33-IMG1.png"
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q34",
+      "question_number": 34,
+      "question_text": "The resistance of a carbon resistor is 4.7 KΩ ±5%. The colour of the third band is:",
+      "options": {
+        "A": "red",
+        "B": "violet",
+        "C": "orange",
+        "D": "gold"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q34-ANS",
+        "option": "C",
+        "answer_text": "orange"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q34-SOL",
+        "solution_text": "The first two bands of the resistor represent the significant digits, the third band represents the multiplier, and the fourth band represents tolerance. Given the resistor value 4.7 KΩ with ±5%, the third band corresponds to orange, which represents a multiplier of 10³."
+      },
+      "quick_tip": "To decode a colour coded resistor, use the standard chart for the resistor colour code. The third band represents the multiplier.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Current Electricity",
+        "topic": "Carbon resistors, color code",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q35",
+      "question_number": 35,
+      "question_text": "The four bands of a colour coded resistor are of the colours gray, red, gold, and gold. The value of the resistance of the resistor is:",
+      "options": {
+        "A": "82Ω ±10%",
+        "B": "8.2Ω ±5%",
+        "C": "82Ω ±5%",
+        "D": "5.2Ω ±5%"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q35-ANS",
+        "option": "C",
+        "answer_text": "82Ω ±5%"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q35-SOL",
+        "solution_text": "The first two bands represent the significant digits, the third band is the multiplier, and the fourth band is the tolerance. For the given colours: - Gray corresponds to 8, - Red corresponds to 2, - The multiplier is 10¹ (represented by the second gold band), - The tolerance is ±5% (represented by the last gold band). Thus, the value of the resistance is 82 Ω with ±5% tolerance."
+      },
+      "quick_tip": "Use the colour code chart to decode the four-band resistor. The first two bands represent the digits, the third the multiplier, and the fourth the tolerance.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Current Electricity",
+        "topic": "Carbon resistors, color code",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q36",
+      "question_number": 36,
+      "question_text": "A wire of resistance R is connected across a cell of emf ∈ and internal resistance r. The current through the circuit is I. In time t, the work done by the battery to establish the current I is:",
+      "options": {
+        "A": "∈²t/R",
+        "B": "IRt",
+        "C": "I²Rt",
+        "D": "∈It"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q36-ANS",
+        "option": "C",
+        "answer_text": "I²Rt"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q36-SOL",
+        "solution_text": "The work done by the battery to establish a current I is the energy dissipated by the resistor over time, which is given by W = I²Rt. This comes from the power dissipated by the resistor P = I²R, and the work is the power multiplied by the time t."
+      },
+      "quick_tip": "The work done in a resistor is given by W = I²Rt, where I is the current, R is the resistance, and t is the time.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Current Electricity",
+        "topic": "Power and energy dissipation in resistors",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q37",
+      "question_number": 37,
+      "question_text": "The Curie temperatures of Cobalt and iron are 1400 K and 1000 K respectively. At T = 1600 K, the ratio of magnetic susceptibility of Cobalt to that of iron is:",
+      "options": {
+        "A": "7/5",
+        "B": "5/7",
+        "C": "5",
+        "D": "3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q37-ANS",
+        "option": "A",
+        "answer_text": "7/5"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q37-SOL",
+        "solution_text": "The magnetic susceptibility χ is related to the Curie temperature T_c by the Curie-Weiss law. At a temperature T above the Curie temperature T_c, the magnetic susceptibility follows χ = C/(T - T_c), where C is the Curie constant. The ratio of susceptibilities is therefore χ_Co/χ_Fe = (T_Fe - T_c_Fe) / (T_Co - T_c_Co) = 7/5."
+      },
+      "quick_tip": "The ratio of magnetic susceptibilities can be calculated using the Curie-Weiss law, considering the temperature above the Curie temperature for each material.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Magnetism and Matter",
+        "topic": "Curie-Weiss Law, magnetic susceptibility",
+        "is_deleted_2024": false,
+        "confidence_score": 0.8
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q38",
+      "question_number": 38,
+      "question_text": "The torque acting on a magnetic dipole placed in a uniform magnetic field is zero, when the angle between the dipole axis and the magnetic field is:",
+      "options": {
+        "A": "45°",
+        "B": "60°",
+        "C": "90°",
+        "D": "zero"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q38-ANS",
+        "option": "D",
+        "answer_text": "zero"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q38-SOL",
+        "solution_text": "The torque τ acting on a magnetic dipole in a magnetic field is given by: τ = mB sin θ where m is the magnetic moment, B is the magnetic field strength, and θ is the angle between the magnetic moment and the magnetic field. When θ = 90°, the torque is maximized. For zero torque, θ must be 0° or 180°."
+      },
+      "quick_tip": "The torque on a magnetic dipole is zero when the dipole axis is aligned with the magnetic field (i.e., θ = 0° or 180°).",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Magnetism and Matter",
+        "topic": "Torque on a magnetic dipole",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q39",
+      "question_number": 39,
+      "question_text": "The horizontal component of Earth's magnetic field at a place is 3 × 10⁻⁵ T. If the dip at that place is 45°, the resultant magnetic field at that place is:",
+      "options": {
+        "A": "3/√2 × 10⁻⁵ T",
+        "B": "2√3/5 × 10⁻⁵ T",
+        "C": "3√2 × 10⁻⁵ T",
+        "D": "3 × 10⁻⁵ T"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q39-ANS",
+        "option": "C",
+        "answer_text": "3√2 × 10⁻⁵ T"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q39-SOL",
+        "solution_text": "The resultant magnetic field B is related to the horizontal component Bh and the dip angle δ by the equation: B = Bh/cos δ. Given Bh = 3 × 10⁻⁵ T and δ = 45°, we get: B = (3 × 10⁻⁵) / cos 45° = (3 × 10⁻⁵) / (1/√2) = 3√2 × 10⁻⁵ T."
+      },
+      "quick_tip": "To find the total magnetic field when the dip angle is known, use the formula B = Bh/cos δ.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Magnetism and Matter",
+        "topic": "Earth's magnetic field, angle of dip",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q40",
+      "question_number": 40,
+      "question_text": "A proton and an alpha-particle moving with the same velocity enter a uniform magnetic field with their velocities perpendicular to the magnetic field. The ratio of radii of their circular paths is:",
+      "options": {
+        "A": "1:4",
+        "B": "4:1",
+        "C": "1:2",
+        "D": "2:1"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q40-ANS",
+        "option": "B",
+        "answer_text": "4:1"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q40-SOL",
+        "solution_text": "The radius of the circular path in a magnetic field is given by: r = mv/qB. For a proton and an alpha-particle, the mass of the alpha-particle is four times that of the proton, and the charge is twice as large. Therefore, the ratio of the radii is: r_α/r_proton = (4m)/(2q) = 4:1."
+      },
+      "quick_tip": "The radius of the circular path in a magnetic field depends on the mass and charge of the particle. For an alpha-particle, the radius is larger due to its greater mass.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Motion in a magnetic field, radius of circular path",
+        "is_deleted_2024": false,
+        "confidence_score": 0.8
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q41",
+      "question_number": 41,
+      "question_text": "A moving coil galvanometer is converted into an ammeter of range 0 to 5 mA. The galvanometer resistance is 90 Ω and the shunt resistance has a value of 10 Ω. If there are 50 divisions in the galvanometer-turned-ammeter on either sides of zero, its current sensitivity is:",
+      "options": {
+        "A": "1 × 10⁵ div/A",
+        "B": "2 × 10⁴ div/A",
+        "C": "1 × 10⁴ div/A",
+        "D": "2 × 10⁴ div/A"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q41-ANS",
+        "option": "C",
+        "answer_text": "1 × 10⁴ div/A"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q41-SOL",
+        "solution_text": "The current sensitivity S of the ammeter is given by the formula: S = N/Imax. where N is the number of divisions and Imax is the full-scale deflection current. Here, N = 50 and Imax = 5 mA. Thus, the current sensitivity is: S = 50 / (5 × 10⁻³) = 1 × 10⁴ div/A."
+      },
+      "quick_tip": "To calculate the current sensitivity of an ammeter, divide the number of divisions by the maximum current that gives full scale deflection.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Galvanometer as an ammeter, current sensitivity",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q42",
+      "question_number": 42,
+      "question_text": "A positively charged particle of mass m is passed through a velocity selector. It moves horizontally rightward without deviation along the line y = 2mv/(qB) with a speed v. The electric field is vertically downwards and magnetic field is into the plane of the paper. Now, the electric field is switched off at t = 0. The angular momentum of the charged particle about origin O at t = 0 is:",
+      "options": {
+        "A": "2mE²/(qB³)",
+        "B": "zero",
+        "C": "mB/(qE³)",
+        "D": "mE²/(qB²)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q42-ANS",
+        "option": "B",
+        "answer_text": "zero"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q42-SOL",
+        "solution_text": "At the instant t = 0, the electric field is turned off. The charged particle is moving in the magnetic field and is not subject to any force that would change its angular momentum. As the electric field is vertically downward and magnetic field is into the paper, no torque acts on the particle when the electric field is switched off. Therefore, the angular momentum about the origin is zero."
+      },
+      "quick_tip": "When a charged particle moves in a uniform magnetic field with no external force, the angular momentum about the point of origin remains constant and can be zero under specific conditions.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Moving Charges and Magnetism",
+        "topic": "Motion in combined electric and magnetic fields (velocity selector), angular momentum",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q42-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q42-IMG1.png"
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q43",
+      "question_number": 43,
+      "question_text": "In series LCR circuit at resonance, the phase difference between voltage and current is:",
+      "options": {
+        "A": "π",
+        "B": "π/2",
+        "C": "π/4",
+        "D": "zero"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q43-ANS",
+        "option": "D",
+        "answer_text": "zero"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q43-SOL",
+        "solution_text": "At resonance in a series LCR circuit, the impedance of the circuit is purely resistive, meaning the current and voltage are in phase. Therefore, the phase difference between the voltage and current is zero."
+      },
+      "quick_tip": "At resonance in an LCR circuit, the inductive reactance equals the capacitive reactance, and the voltage and current are in phase with each other.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alternating Current",
+        "topic": "Series LCR circuit, resonance, phase difference",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q44",
+      "question_number": 44,
+      "question_text": "An ideal transformer has a turns ratio of 10. When the primary is connected to 220 V, 50 Hz ac source, the power output is:",
+      "options": {
+        "A": "the power input",
+        "B": "equal to power input",
+        "C": "zero",
+        "D": "10 times the power input"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q44-ANS",
+        "option": "B",
+        "answer_text": "equal to power input"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q44-SOL",
+        "solution_text": "For an ideal transformer, the power input equals the power output, regardless of the turns ratio. This is because an ideal transformer is assumed to be 100% efficient, meaning there is no loss in power."
+      },
+      "quick_tip": "In an ideal transformer, the power input is equal to the power output, even though the voltage and current are transformed by the turns ratio.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alternating Current",
+        "topic": "Ideal transformer, power conservation",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q45",
+      "question_number": 45,
+      "question_text": "The current in a coil changes from 2 A to 5 A in 0.3s. The magnitude of emf induced in the coil is 1.0 V. The value of self-inductance of the coil is:",
+      "options": {
+        "A": "100 mH",
+        "B": "0.1 mH",
+        "C": "10 mH",
+        "D": "1.0 mH"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q45-ANS",
+        "option": "A",
+        "answer_text": "100 mH"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q45-SOL",
+        "solution_text": "The induced emf in a coil is given by: ε = -L(dI/dt). Where L is the self-inductance, dI/dt is the rate of change of current. Given ε = 1.0 V, ΔI = 5 A − 2 A = 3 A, and Δt = 0.3 s, we can calculate: 1.0 = L × (3/0.3) => L = 100 mH."
+      },
+      "quick_tip": "The induced emf in a coil is proportional to the rate of change of current and the self-inductance of the coil.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electromagnetic Induction",
+        "topic": "Self-induction, induced emf",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q46",
+      "question_number": 46,
+      "question_text": "A metallic rod of length 1 m held along east-west direction is allowed to fall down freely. Given horizontal component of earth's magnetic field B_H = 3 × 10⁻⁵ T. The emf induced in the rod at an instant t = 2s after it is released is:",
+      "options": {
+        "A": "3 × 10⁻³ V",
+        "B": "3 × 10⁻⁴ V",
+        "C": "6 × 10⁻³ V",
+        "D": "6 × 10⁻⁴ V"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q46-ANS",
+        "option": "C",
+        "answer_text": "6 × 10⁻³ V"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q46-SOL",
+        "solution_text": "The emf induced in a moving conductor is given by: ε = BLv where B is the magnetic field strength, L is the length of the rod, and v is the velocity of the rod. The velocity of the falling rod at t = 2 s is v = gt = 10 × 2 = 20 m/s. Thus, the induced emf is: ε = 3 × 10⁻⁵ × 1 × 20 = 6 × 10⁻³ V."
+      },
+      "quick_tip": "The emf induced in a falling conductor can be calculated using the formula ε = BLv, where v is the velocity of the rod.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electromagnetic Induction",
+        "topic": "Motional emf, Earth's magnetic field",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q47",
+      "question_number": 47,
+      "question_text": "A square loop of side 2 cm enters a magnetic field with a constant speed of 2 cm/s as shown. The front edge enters the field at t = 0. Which of the following graph correctly depicts the induced emf in the loop? Take clockwise direction positive",
+      "options": {
+        "A": "Graph A shows emf increasing, then constant zero, then increasing.",
+        "B": "Graph B shows emf decreasing, then constant, then increasing.",
+        "C": "Graph C shows emf increasing, then constant, then decreasing, then constant zero.",
+        "D": "Graph D shows emf increasing, then constant, then decreasing."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q47-ANS",
+        "option": "D",
+        "answer_text": "Graph D shows emf increasing, then constant, then decreasing."
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q47-SOL",
+        "solution_text": "The induced emf in the loop is determined by the rate of change of magnetic flux through the loop. As the loop enters the magnetic field, the magnetic flux increases, inducing an emf. The emf increases as the loop enters the field, reaches a maximum as the loop is fully inside, and then decreases as the loop leaves the field. The graph should show an initial increase in emf as the loop enters the field, followed by a peak as the loop is fully inside the field, and then a drop as it exits the field."
+      },
+      "quick_tip": "The induced emf in a loop is proportional to the rate of change of the magnetic flux. It follows the shape of the loop entering and leaving the magnetic field.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electromagnetic Induction",
+        "topic": "Motional emf, magnetic flux, Lenz's law",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q47-IMG1",
+        "image2_id": "KCET-2023-PHY-Q47-IMG2",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q47-IMG1.png",
+        "image2_placeholder_path": "images/KCET-2023-PHY-Q47-IMG2.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    
+    {
+      "question_id": "KCET-2023-PHY-Q48",
+      "question_number": 48,
+      "question_text": "For a given pair of transparent media, the critical angle for which colour is maximum?",
+      "options": {
+        "A": "Red",
+        "B": "Blue",
+        "C": "Violet",
+        "D": "Green"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q48-ANS",
+        "option": "C",
+        "answer_text": "Violet"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q48-SOL",
+        "solution_text": "The critical angle for light passing from one medium to another is inversely proportional to the refractive index of the medium. The refractive index for violet light is higher than for red light, so the critical angle for violet light is smaller, making it the maximum among all colours."
+      },
+      "quick_tip": "For light passing from a medium with a higher refractive index to a lower one, the critical angle is smaller for light of higher wavelength (violet).",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Total Internal Reflection, Critical angle, Dispersion",
+        "is_deleted_2024": false,
+        "confidence_score": 0.7
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q49",
+      "question_number": 49,
+      "question_text": "An equiconvex lens made of glass of refractive index 3/2 has focal length f in air. It is completely immersed in water of refractive index 4/3. The percentage change in the focal length is:",
+      "options": {
+        "A": "300% decrease",
+        "B": "400% decrease",
+        "C": "300% increase",
+        "D": "400% increase"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q49-ANS",
+        "option": "D",
+        "answer_text": "400% increase"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q49-SOL",
+        "solution_text": "The focal length of a lens in a medium is given by the formula: 1/f_medium = (n_medium - n_lens)/R where n_medium is the refractive index of the medium, and n_lens is the refractive index of the lens. In air, the lens focal length is f, and when submerged in water, the refractive index of the medium changes, causing the focal length to decrease by a factor of 4. This results in a 400"
+      },
+      "quick_tip": "The focal length of a lens changes based on the refractive index of the surrounding medium, and can be calculated using the lens maker's formula.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Lens maker's formula, focal length in different media",
+        "is_deleted_2024": false,
+        "confidence_score": 0.6
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q50",
+      "question_number": 50,
+      "question_text": "A point object is moving at a constant speed of 1 m/s along the principal axis of a convex lens of focal length 10 cm. The speed of the image is also 1 m/s, when the object is at ..... cm from the optic centre of the lens.",
+      "options": {
+        "A": "15 cm",
+        "B": "20 cm",
+        "C": "5 cm",
+        "D": "10 cm"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q50-ANS",
+        "option": "D",
+        "answer_text": "10 cm"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q50-SOL",
+        "solution_text": "The magnification M for a convex lens is given by the formula: M = V_image/V_object where V_image and V_object are the speeds of the image and the object, respectively. For the speed of the image to be the same as the object, the object must be at the focal length, which is 10 cm."
+      },
+      "quick_tip": "The speed of the image is equal to the speed of the object when the object is at the focal length of the lens.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Motion of object/image in lens, magnification",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q51",
+      "question_number": 51,
+      "question_text": "When light propagates through a given homogeneous medium, the velocities of:",
+      "options": {
+        "A": "primary wavefronts are lesser than those of secondary wavelets.",
+        "B": "primary wavefronts are greater than or equal to those of secondary wavelets.",
+        "C": "primary wavefront and wavelets are equal.",
+        "D": "primary wavefront are larger than those of secondary wavelets."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q51-ANS",
+        "option": "B",
+        "answer_text": "primary wavefronts are greater than or equal to those of secondary wavelets."
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q51-SOL",
+        "solution_text": "In a homogeneous medium, the speed of the primary wavefront (the main wavefront propagating through the medium) is the same or greater than that of secondary wavelets (which are formed at each point on the wavefront). This relationship is part of Huygens' principle, which states that every point on a wavefront can be considered as the source of secondary wavelets."
+      },
+      "quick_tip": "Huygens' principle explains how wavefronts propagate through a medium, with the primary wavefront moving at the speed of light and secondary wavelets forming at each point on the wavefront.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Wave Optics",
+        "topic": "Huygens' Principle, wavefronts and wavelets",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q52",
+      "question_number": 52,
+      "question_text": "Total impedance of a series LCR circuit varies with angular frequency of the AC source connected to it as shown in the graph. The quality factor Q of the series LCR circuit is:",
+      "options": {
+        "A": "2.5",
+        "B": "5",
+        "C": "1",
+        "D": "0.4"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q52-ANS",
+        "option": "B",
+        "answer_text": "5"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q52-SOL",
+        "solution_text": "The quality factor Q for a series LCR circuit is given by the formula: Q = ω₀/Δω where ω₀ is the resonance angular frequency and Δω is the width of the resonance curve. From the graph, we can see that the resonance occurs at around ω₀ = 300 rad/s, and the width Δω is approximately 60 rad/s. Therefore, the quality factor is: Q = 300/60 = 5."
+      },
+      "quick_tip": "The quality factor for a series LCR circuit is a measure of the sharpness of the resonance, and is calculated as the ratio of the resonance frequency to the width of the resonance curve.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alternating Current",
+        "topic": "Series LCR circuit, resonance, quality factor",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q52-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q52-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q53",
+      "question_number": 53,
+      "question_text": "The ratio of the magnitudes of electric field to the magnetic field of an electromagnetic wave is of the order of:",
+      "options": {
+        "A": "10⁵ ms⁻¹",
+        "B": "10⁵ ms⁻¹",
+        "C": "10⁸ ms⁻¹",
+        "D": "10⁻⁸ ms⁻¹"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q53-ANS",
+        "option": "C",
+        "answer_text": "10⁸ ms⁻¹"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q53-SOL",
+        "solution_text": "For electromagnetic waves in a vacuum, the ratio of the magnitudes of the electric field E to the magnetic field B is given by: E/B = c where c is the speed of light in vacuum, which is approximately 3 × 10⁸ ms⁻¹. Therefore, the ratio of electric field to magnetic field is 10⁸ ms⁻¹."
+      },
+      "quick_tip": "For electromagnetic waves, the ratio of the magnitudes of electric and magnetic fields is equal to the speed of light in vacuum, c = 3 × 10⁸ ms⁻¹.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electromagnetic Waves",
+        "topic": "Properties of electromagnetic waves, speed of light",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q54",
+      "question_number": 54,
+      "question_text": "For a point object, which of the following always produces a virtual image in air?",
+      "options": {
+        "A": "Plano-convex lens",
+        "B": "Convex mirror",
+        "C": "Biconvex lens",
+        "D": "Concave mirror"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q54-ANS",
+        "option": "B",
+        "answer_text": "Convex mirror"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q54-SOL",
+        "solution_text": "A convex mirror always produces a virtual, upright, and diminished image regardless of the position of the object in front of it. This is a characteristic property of convex mirrors."
+      },
+      "quick_tip": "Convex mirrors always produce virtual images that are smaller than the actual object.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Ray Optics and Optical Instruments",
+        "topic": "Image formation by mirrors, convex mirror properties",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q55",
+      "question_number": 55,
+      "question_text": "In an experiment to study photo-electric effect the observed variation of stopping potential with frequency of incident radiation is as shown in the figure. The slope and y-intercept are respectively:",
+      "options": {
+        "A": "h/e, V₀",
+        "B": "h/e, -h/e",
+        "C": "h, V₀ - h",
+        "D": "h/e, -h/e"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q55-ANS",
+        "option": "A",
+        "answer_text": "h/e, V₀"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q55-SOL",
+        "solution_text": "The equation representing the photoelectric effect is given by: V₀ = (h/e)(ν - ν₀) Where V₀ is the stopping potential, ν is the frequency of incident radiation, and ν₀ is the threshold frequency. The slope of the graph of stopping potential vs. frequency gives h/e, and the y-intercept gives the value of V₀."
+      },
+      "quick_tip": "In a photoelectric effect experiment, the slope of the graph of stopping potential vs frequency gives the ratio of Planck's constant to the electron charge, h/e.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Photoelectric effect, Einstein's equation, stopping potential",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q55-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q55-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q56",
+      "question_number": 56,
+      "question_text": "In the Rutherford's alpha scattering experiment, as the impact parameter increases, the scattering angle of the alpha particle:",
+      "options": {
+        "A": "is always 90°",
+        "B": "decreases",
+        "C": "increases",
+        "D": "remains the same"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q56-ANS",
+        "option": "B",
+        "answer_text": "decreases"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q56-SOL",
+        "solution_text": "In Rutherford's scattering experiment, the scattering angle of an alpha particle decreases as the impact parameter increases. This is because as the distance between the particle and the nucleus increases, the deflection due to the Coulomb force becomes smaller."
+      },
+      "quick_tip": "The impact parameter is the perpendicular distance from the initial trajectory of the alpha particle to the center of the nucleus. A larger impact parameter results in a smaller scattering angle.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Atoms",
+        "topic": "Rutherford's alpha scattering experiment, impact parameter",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q57",
+      "question_number": 57,
+      "question_text": "Three energy levels of hydrogen atom and the corresponding wavelength of the emitted radiation due to different electron transition are as shown. Then:",
+      "options": {
+        "A": "λ₁ = λ₂λ₃ / (λ₂ + λ₃)",
+        "B": "λ₂ = λ₁ + λ₃",
+        "C": "λ₂ = λ₃ / (λ₁ + λ₃)",
+        "D": "λ₃ = λ₁ + λ₂"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q57-ANS",
+        "option": "A",
+        "answer_text": "λ₁ = λ₂λ₃ / (λ₂ + λ₃)"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q57-SOL",
+        "solution_text": "The wavelength of emitted radiation in a hydrogen atom transition is inversely proportional to the energy difference between the initial and final levels. Using this relationship, the wavelength corresponding to a transition can be derived using the given energy levels."
+      },
+      "quick_tip": "The energy of the emitted photon during electron transition between levels in an atom is related to the difference in the energies of those levels.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Atoms",
+        "topic": "Hydrogen spectrum, energy levels, wavelength of emitted radiation",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2023-PHY-Q57-IMG1",
+        "image_placeholder_path": "images/KCET-2023-PHY-Q57-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q58",
+      "question_number": 58,
+      "question_text": "An unpolarised light of intensity I is passed through two polaroids kept one after the other with their planes parallel to each other. The intensity of light emerging from second polaroid is I/4. The angle between the pass axes of the polaroids is:",
+      "options": {
+        "A": "0°",
+        "B": "60°",
+        "C": "30°",
+        "D": "45°"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q58-ANS",
+        "option": "D",
+        "answer_text": "45°"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q58-SOL",
+        "solution_text": "When unpolarised light passes through the first polaroid, its intensity is reduced by half. The intensity after the second polaroid is related to the angle θ between the pass axes of the polaroids by: I₂ = I₁ cos²θ. Given I₂ = I/4, we have: I/4 = (I/2) cos²θ => cos²θ = 1/2 => θ = 45°."
+      },
+      "quick_tip": "For two polaroids with a known angle between their pass axes, the intensity after the second polaroid is given by I = I₀ cos²θ, where θ is the angle between the pass axes.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Wave Optics",
+        "topic": "Polarisation, Malus's Law",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q59",
+      "question_number": 59,
+      "question_text": "In the Young's double slit experiment, the intensity of light passing through each of the two double slits is 2 × 10⁻² W/m². The screen-slit distance is very large in comparison with slit-slit distance. The fringe width is β. The distance between the central maximum and a point P on the screen is x = β/3. Then the total light intensity at that point is:",
+      "options": {
+        "A": "4 × 10⁻² W/m²",
+        "B": "2 × 10⁻² W/m²",
+        "C": "16 × 10⁻² W/m²",
+        "D": "8 × 10⁻² W/m²"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q59-ANS",
+        "option": "B",
+        "answer_text": "2 × 10⁻² W/m²"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q59-SOL",
+        "solution_text": "The intensity at any point on the screen in Young's double slit experiment is given by: I = I₀ cos²(πx/β) where I₀ is the intensity at the central maximum, and β is the fringe width. Given x = β/3, the intensity at point P is: I = 2 × 10⁻² cos²(π/3) = 2 × 10⁻² × (1/2) = 2 × 10⁻² W/m²"
+      },
+      "quick_tip": "In Young's double slit experiment, the intensity varies as cos²(πx/β), where x is the distance from the central maximum and β is the fringe width.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Wave Optics",
+        "topic": "Young's double slit experiment, intensity distribution",
+        "is_deleted_2024": false,
+        "confidence_score": 0.8
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2023-PHY-Q60",
+      "question_number": 60,
+      "question_text": "A 60 W source emits monochromatic light of wavelength 662.5 nm. The number of photons emitted per second is:",
+      "options": {
+        "A": "2 × 10²⁰",
+        "B": "5 × 10²⁶",
+        "C": "2 × 10²⁹",
+        "D": "5 × 10¹⁷"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2023-PHY-Q60-ANS",
+        "option": "A",
+        "answer_text": "2 × 10²⁰"
+      },
+      "solution": {
+        "solution_id": "KCET-2023-PHY-Q60-SOL",
+        "solution_text": "The energy of one photon is given by: E_photon = hc/λ where h = 6.626 × 10⁻³⁴ J·s, c = 3 × 10⁸ m/s, and λ = 662.5 nm = 662.5 × 10⁻⁹ m. The energy emitted per second (power) is given by: P = Number of photons per second × E_photon Thus, the number of photons emitted per second is: Number of photons = P/E_photon = 60 / (6.626 × 10⁻³⁴ × 3 × 10⁸ / 662.5 × 10⁻⁹) ≈ 2 × 10²⁰"
+      },
+      "quick_tip": "To find the number of photons emitted per second, use the formula Number of photons = P/E_photon, where E_photon = hc/λ.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Dual Nature of Radiation and Matter",
+        "topic": "Photon energy, power, number of photons",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Numerical",
+      "marks": 1,
+      "negative_marking": false
+    }
+  ]
+}

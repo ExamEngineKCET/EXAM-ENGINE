@@ -1,0 +1,2133 @@
+{
+  "metadata": {
+    "exam_name": "KCET 2025 Chemistry Question Paper With Solutions",
+    "year": 2025,
+    "session": "null",
+    "subject": "Chemistry",
+    "total_questions": 60,
+    "total_marks": 180,
+    "duration_minutes": 80
+  },
+  "questions": [
+    {
+      "question_id": "KCET-2025-CHEM-Q1",
+      "question_number": 1,
+      "question_text": "1. In the reaction between hydrogen sulphide and acidified permanganate solution,(1) H2S is oxidised to SO2, MnOī is reduced to MnO2(2) H2S is reduced to SO2, MnO4 is oxidised to Mn2+(3) H2S is oxidised to S, MnOī is reduced to Mn2+(4) H2S is reduced to S, MnOī is oxidised to Mn2+",
+      "options": {
+        "A": "H2S is oxidised to SO2, MnOī is reduced to MnO2",
+        "B": "H2S is reduced to SO2, MnO4 is oxidised to Mn2+",
+        "C": "H2S is oxidised to S, MnOī is reduced to Mn2+",
+        "D": "H2S is reduced to S, MnOī is oxidised to Mn2+"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q1-ANS",
+        "option": "C",
+        "answer_text": "H2S is oxidised to S, MnO is reduced to Mn2+"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q1-SOL",
+        "solution_text": "In the reaction between hydrogen sulphide (H2S) and acidified permanganate solution, the manganese in permanganate MnOī is reduced to Mn2+, and the hydrogen sulphide (H2S) is oxidised to sulfur (S). This is a redox reaction where H2S undergoes oxidation, and MnO undergoes reduction. Thus, the correct answer is:(3) H2S is oxidised to S, MnO is reduced to Mn2+ 4"
+      },
+      "quick_tip": "In redox reactions, oxidation involves the loss of electrons, while reduction involves the gain of electrons. Always identify the species that gains and loses electrons.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Redox Reactions",
+        "topic": "Oxidation and Reduction",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q2",
+      "question_number": 2,
+      "question_text": "2. A member of the Lanthanoid series which is well known to exhibit +4 oxidation state is(1) Europium(2) Erbium(3) Cerium(4) Samarium",
+      "options": {
+        "A": "Europium",
+        "B": "Erbium",
+        "C": "Cerium",
+        "D": "Samarium"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q2-ANS",
+        "option": "C",
+        "answer_text": "Cerium"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q2-SOL",
+        "solution_text": "The lanthanoid series consists of the elements with atomic numbers from 57 to 71. The +4 oxidation state is relatively rare among the lanthanoids, but it is most commonly exhibited by Cerium (Ce). Cerium has an oxidation state of +4 in certain compounds, whereas other lanthanoids like Europium and Samarium predominantly show +3 oxidation states. Thus, the correct answer is:(3) Cerium"
+      },
+      "quick_tip": "Cerium is the only element in the lanthanoid series that exhibits a stable +4 oxidation state, commonly in compounds like cerium dioxide (CeO2).",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "d- and f-Block Elements",
+        "topic": "Lanthanoids and their Oxidation States",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q3",
+      "question_number": 3,
+      "question_text": "3. In which of the following pairs, both the elements do not have(n-1)d10ns2 con figuration?(1) Zn, Cd(2) Cd, Hg(3) Ag, Cu(4) Cu, Zn",
+      "options": {
+        "A": "Zn, Cd",
+        "B": "Cd, Hg",
+        "C": "Ag, Cu",
+        "D": "Cu, Zn"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q3-ANS",
+        "option": "C",
+        "answer_text": "Ag, Cu"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q3-SOL",
+        "solution_text": "For transition metals, the electron configuration typically follows the (n-1)d10ns2pattern.Let'slookattheelectroncon figurationsofthepairs :- Zinc (Zn): [Ar]3d104s2 – follows the configuration. Cadmium (Cd): [Kr]4d105s2 – follows the configuration. Silver (Ag): [Kr]4d105s1 – does not follow the configuration due to a single electron in the 5s orbital. Copper (Cu): [Ar]3d104s¹ – does not follow the configuration due to a single electron in the 4s orbital. Thus, the pair that does not follow the typical (n-1)d10ns2con figurationisAgandCu. Therefore, the correct answer is:(3) Ag, Cu"
+      },
+      "quick_tip": "Remember, silver (Ag) and copper (Cu) have unusual electron configurations where the 4s orbital only has one electron. This is a special case due to the stability of fully filled or half-filled d-orbitals.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "d- and f-Block Elements",
+        "topic": "Electronic Configurations of Transition Elements",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q4",
+      "question_number": 4,
+      "question_text": "4. A ligand which has two different donor atoms and either of the two ligates with the central metal atom/ion in the complex is called(1) Unidentate ligand(2) Polydentate ligand(3) Ambidentate ligand(4) Chelate ligand",
+      "options": {
+        "A": "Unidentate ligand",
+        "B": "Polydentate ligand",
+        "C": "Ambidentate ligand",
+        "D": "Chelate ligand"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q4-ANS",
+        "option": "C",
+        "answer_text": "Ambidentate ligand"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q4-SOL",
+        "solution_text": "An ambidentate ligand is a type of ligand that can bind to a metal ion at two different donor atoms, one of which is used to form a coordinate bond at a time. These ligands contain two or more donor atoms, but only one donor atom is involved in the binding with the metal ion at a given time. An example of an ambidentate ligand is thiocyanate (SCN¯), where the sulfur or nitrogen atom can serve as the donor atom. Thus, the correct answer is:(3) Ambidentate ligand"
+      },
+      "quick_tip": "Ambidentate ligands can bind through different atoms, making them versatile in coor- dination chemistry. They can show different binding modes depending on the metal ion and the environment.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Coordination Compounds",
+        "topic": "Types of Ligands",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q5",
+      "question_number": 5,
+      "question_text": "5. Which of the following statements are true about [NiCl4]2-?(a) The complex has tetrahedral geometry.(b) Co-ordination number of Ni is 2 and oxidation state is +4.(c) The complex is sp³ hybridised.(d) It is a high spin complex.(e) The complex is paramagnetic.(1) a, b, d and e(2) b, c, and d(3) a, b, c and d(4) a, c, d and e",
+      "options": {
+        "A": "a, b, d and e",
+        "B": "b, c, and d",
+        "C": "a, b, c and d",
+        "D": "a, c, d and e"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q5-ANS",
+        "option": "D",
+        "answer_text": "a, c, d and e"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q5-SOL",
+        "solution_text": "For the complex [NiCl4]2−, the key points to remember are: Nickel in [NiCl4]2– has an oxidation state of +2, not +4. Therefore, statement (b) is incorrect. The complex has a tetrahedral geometry, as typically seen with Ni²+ complexes, and the coordination number is 4. Statement (a) is correct. The complex is sp³ hybridised because it has a tetrahedral geometry, and 4 equivalent hybrid orbitals are required. Statement (c) is correct. - [NiCl4]2- has two unpaired electrons in its d-orbitals, making it a high spin complex. Therefore, statement (d) is correct. The complex is paramagnetic because of the presence of unpaired electrons. Statement (e) is correct. Thus, the correct answer is:(4) a, c, d and e"
+      },
+      "quick_tip": "For transition metal complexes, the geometry, hybridization, and magnetic properties are strongly influenced by the coordination number and the electronic configuration of the metal ion.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Coordination Compounds",
+        "topic": "Bonding in Coordination Compounds (VBT)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q6",
+      "question_number": 6,
+      "question_text": "6. Which formula and its name combination is incorrect?(1) [CoCl2(en)2]Cl, Dichloridobis (ethane-1, 2-diamine) cobalt(III) chloride(2) [Co(NH3)5(CO3)]Cl, Pentaamine carbonylcobalt (III) chloride(3) [Pt(NH3)2Cl(NO2)], Diamine chloridonitrito-N-platinum(II)(4) K3[Cr(C2O4)3], Potassium trioxalatochromate(III)",
+      "options": {
+        "A": "[CoCl2(en)2]Cl, Dichloridobis (ethane-1, 2-diamine) cobalt(III) chloride",
+        "B": "[Co(NH3)5(CO3)]Cl, Pentaamine carbonylcobalt (III) chloride",
+        "C": "[Pt(NH3)2Cl(NO2)], Diamine chloridonitrito-N-platinum(II)",
+        "D": "K3[Cr(C2O4)3], Potassium trioxalatochromate(III)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q6-ANS",
+        "option": "B",
+        "answer_text": "[Co(NH3)5(CO3)]Cl, Pentaamine carbonylcobalt(III) chloride"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q6-SOL",
+        "solution_text": "The correct name for the complex [Co(NH3)5(CO3)]Cl is Pentaamine carbonatocobalt(III) chloride and not Pentaamine carbonylcobalt(III) chloride. The error lies in the use of \"carbonyl\" instead of \"carbonate”. Carbonyl refers to a ligand where a carbon atom is double-bonded to an oxygen atom, but in this case, the complex contains a carbonate ion (CO3), which is correctly named as carbonatocobalt(III). Thus, the correct answer is:(2) [Co(NH3)5(CO3)]Cl, Pentaamine carbonylcobalt(III) chloride"
+      },
+      "quick_tip": "Be sure to recognize the difference between \"carbonyl” (a CO group bound to metal) and \"carbonate” (a CO group as a ligand) when naming coordination compounds.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Coordination Compounds",
+        "topic": "Nomenclature of Coordination Compounds",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q7",
+      "question_number": 7,
+      "question_text": "7. In the complex ion [Fe(C2O4)3]³¯, the co-ordination number of Fe is(1) 5(2) 6(3) 3(4) 4",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q7-ANS",
+        "option": "B",
+        "answer_text": "6"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q7-SOL",
+        "solution_text": "In the complex ion [Fe(C2O4)3]³¯, the oxalate ions (C202-) are bidentate ligands, meaning 4 each oxalate ligand forms two bonds with the central metal ion. Since there are three oxalate ions, they contribute 6 bonding sites to the central Fe ion, making the coordination number of Fe equal to 6. Thus, the correct answer is:(2) 6"
+      },
+      "quick_tip": "Remember that the coordination number is the number of bonds formed between the metal and ligands. For bidentate ligands like oxalate, each ligand contributes two bonds.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Coordination Compounds",
+        "topic": "Coordination Number",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q8",
+      "question_number": 8,
+      "question_text": "8. Match List-I with List-II for the following reaction pattern:List-I (Reagents)a) Acetic anhydrideb) Bromine waterc) Hydroiodic acidd) Hydrogen cyanideList-II (Structural prediction)i) Glucose has an aldehyde groupii) Glucose has a straight chain of six carbon atomsiii) Glucose has five hydroxyl groupsiv) Glucose has a carbonyl groupChoose the correct answer from the options given below.1) a-iii, b-i, c-ii, d-iv3) a-iii, b-ii, c-i, d-iv2) a-i, b-ii, c-iii, d-iv4) a-iv, b-iii, c-ii, d-i",
+      "options": {
+        "A": "a-iii, b-i, c-ii, d-iv",
+        "B": "a-i, b-ii, c-iii, d-iv",
+        "C": "a-iii, b-ii, c-i, d-iv",
+        "D": "a-iv, b-iii, c-ii, d-i"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q8-ANS",
+        "option": "A",
+        "answer_text": "a-iii, b-i, c-ii, d-iv"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q8-SOL",
+        "solution_text": "- When glucose reacts with acetic anhydride, it results in an esterification reaction, where glucose forms an ester with the anhydride, producing a product that has a straight chain of six carbon atoms (prediction ii). Hence, a-i is incorrect. - When glucose reacts with bromine water, it leads to oxidation of the aldehyde group in glucose. The resulting product has an aldehyde group, which corresponds to prediction i. Hence, b-i is correct. - Hydroiodic acid reaction with glucose results in the replacement of the hydroxyl groups by iodine, giving the product with five hydroxyl groups, which matches prediction iii. Hence, c-ii is correct. - Hydrogen cyanide reacts with glucose, resulting in the formation of a cyano group, which corresponds to prediction iv (a carbonyl group). Hence, d-iv is correct. Thus, the correct match is:(1) а — iii, b — i, c — ii, d – iv"
+      },
+      "quick_tip": "When working with glucose reactions, it's essential to recognize the functional group that each reagent will interact with, such as the aldehyde, hydroxyl, or carbonyl group.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Biomolecules",
+        "topic": "Reactions of Glucose",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q9",
+      "question_number": 9,
+      "question_text": "9. The correct sequence of a-amino acid, hormone, vitamin, carbohydrates respectively is(1) Glutamine, Insulin, Aspartic acid, Fructose(2) Arginine, Testosterone, Glutamic acid, Maltose(3) Aspartic acid, Insulin, Ascorbic acid, rhamnose(4) Thiamine, Thyroxine, Vitamin A, Glucose",
+      "options": {
+        "A": "Glutamine, Insulin, Aspartic acid, Fructose",
+        "B": "Arginine, Testosterone, Glutamic acid, Maltose",
+        "C": "Aspartic acid, Insulin, Ascorbic acid, rhamnose",
+        "D": "Thiamine, Thyroxine, Vitamin A, Glucose"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q9-ANS",
+        "option": "C",
+        "answer_text": "Aspartic acid, Insulin, Ascorbic acid, rhamnose"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q9-SOL",
+        "solution_text": "Glutamine is an a-amino acid, but it is not the correct first choice for the sequence. Aspartic acid is another a-amino acid, and it fits well in the sequence for amino acid. - Insulin is a hormone, which is correct in position for the hormone. - Ascorbic acid is a vitamin (vitamin C), which corresponds correctly to the vitamin in the sequence. - Rhamnose is a sugar, fitting well as the carbohydrate. Thus, the correct sequence is:(3) Aspartic acid, Insulin, Ascorbic acid, rhamnose"
+      },
+      "quick_tip": "Remember to categorize substances carefully: a-amino acids are proteins, hormones like insulin are essential for regulation, vitamins like ascorbic acid (vitamin C) play a vital role in immune function, and sugars like rhamnose are carbohydrates.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Biomolecules",
+        "topic": "Classification of Biomolecules",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q10",
+      "question_number": 10,
+      "question_text": "10. Which examples of carbohydrates exhibit a-link (a-glycosidic link) in their structure?(1) Amylose and Amylopectin(2) Cellulose and Glycogen(3) Glucose and Fructose(4) Maltose and Lactose",
+      "options": {
+        "A": "Amylose and Amylopectin",
+        "B": "Cellulose and Glycogen",
+        "C": "Glucose and Fructose",
+        "D": "Maltose and Lactose"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q10-ANS",
+        "option": "A",
+        "answer_text": "Amylose and Amylopectin"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q10-SOL",
+        "solution_text": "The a-link (a-glycosidic link) in carbohydrates refers to the specific linkage between the monomer units of glucose in starch, which is found in amylose and amylopectin. Both amylose and amylopectin, which are components of starch, exhibit a-glycosidic bonds. Amylose is a linear polysaccharide with a-1,4-glycosidic bonds between glucose units. Amylopectin, which is a branched polysaccharide, has both a-1,4-glycosidic bonds and a-1,6-glycosidic bonds. Thus, the correct examples are amylose and amylopectin. Thus, the correct answer is:(1) Amylose and Amylopectin"
+      },
+      "quick_tip": "The a-link in carbohydrates is a crucial bond in polysaccharides like starch. Recog- nizing these bonds helps in distinguishing between polysaccharides like amylose, amy- lopectin, and cellulose.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Biomolecules",
+        "topic": "Carbohydrates (Glycosidic Linkages)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q11",
+      "question_number": 11,
+      "question_text": "11. In the titration of potassium permanganate (KMnO4) against Ferrous ammonium sulphate (FAS) solution, dilute sulphuric acid but not nitric acid is used to maintain acidic medium, because(1) Nitric acid doesn't act as an indicator(2) Nitric acid itself is an oxidising agent(3) Nitric acid is a weak acid than sulphuric acid(4) It is difficult to identify the end point",
+      "options": {
+        "A": "Nitric acid doesn't act as an indicator",
+        "B": "Nitric acid itself is an oxidising agent",
+        "C": "Nitric acid is a weak acid than sulphuric acid",
+        "D": "It is difficult to identify the end point"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q11-ANS",
+        "option": "B",
+        "answer_text": "Nitric acid itself is an oxidising agent"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q11-SOL",
+        "solution_text": "In the titration of ferrous ammonium sulfate with potassium permanganate, an acidic medium is necessary to maintain the iron(II) ions in solution. The reason dilute sulphuric acid is preferred over nitric acid is because nitric acid is itself an oxidizing agent, and it would interfere with the redox reaction. Sulfuric acid does not have strong oxidizing properties and does not interfere with the redox reactions between KMnO4 and FAS. - On the other hand, nitric acid would oxidize the iron(II) ions to iron(III), which would skew the titration results. Thus, the correct answer is:(2) Nitric acid itself is an oxidising agent"
+      },
+      "quick_tip": "In redox titrations, it's crucial to avoid using strong oxidizing acids like nitric acid because they can interfere with the reaction you're trying to measure. Sulfuric acid is the preferred choice in this case.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "d- and f-Block Elements",
+        "topic": "Redox Titrations (KMnO4)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q12",
+      "question_number": 12,
+      "question_text": "12. The group reagent NH4Cl (s) and aqueous NH3, will precipitate which of the following ion(1) Al3+(2) Ba2+(3) Ca2+(4) NH",
+      "options": {
+        "A": "Al3+",
+        "B": "Ba2+",
+        "C": "Ca2+",
+        "D": "NH"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q12-ANS",
+        "option": "A",
+        "answer_text": "Al3+"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q12-SOL",
+        "solution_text": "When the group reagent NH4Cl (ammonium chloride) and aqueous NH3 (ammonia) are added, a common ion effect is observed. The ammonia neutralizes the free H+ ions in the solution, creating a basic environment, and the NH4Cl serves to provide ammonium ions (NH) that help precipitate metal hydroxides. This combination will precipitate the aluminum ion as aluminum hydroxide (Al(OH)3). For Al3+, ammonia creates a basic environment which results in the formation of Al(OH)3. Ba2+ and Ca2+ would not precipitate under these conditions as their hydroxides are more soluble. - NH is already in its ionized form and will not precipitate. Thus, the correct answer is:(1) Al³+ ppt as Al(OH)3 in presence of NH4Cl and NH4OH."
+      },
+      "quick_tip": "To selectively precipitate ions in qualitative analysis, it's crucial to control the pH and the reagents used, as these factors determine which hydroxides will precipitate.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "p-Block Elements",
+        "topic": "Qualitative Analysis of Group III cations",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q13",
+      "question_number": 13,
+      "question_text": "13. In the preparation of sodium fusion extract, the purpose of fusing organic compound with a piece of sodium metal is to(1) Convert the elements of the compound from covalent form to ionic form(2) Convert the elements of the compound from ionic form to covalent form(3) Decrease the melting point of the compound(4) Convert the organic compound into vapour state",
+      "options": {
+        "A": "Convert the elements of the compound from covalent form to ionic form",
+        "B": "Convert the elements of the compound from ionic form to covalent form",
+        "C": "Decrease the melting point of the compound",
+        "D": "Convert the organic compound into vapour state"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q13-ANS",
+        "option": "A",
+        "answer_text": "Convert the elements of the compound from covalent form to ionic form"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q13-SOL",
+        "solution_text": "In the process of sodium fusion extraction, sodium metal is used to react with an organic compound to convert its elements from covalent form to ionic form. This is done to facilitate the analysis of elements that may not be easily detected in their covalent form. The sodium metal reacts with the organic compound, breaking the covalent bonds and forming sodium salts of the elements in the organic compound. - This helps in detecting and identifying various elements in the organic compound using qualitative analysis methods. - This fusion also allows for easier solubility of the products in water, which is important for subsequent chemical tests. Thus, the correct answer is:(1) Convert the elements of the compound from covalent form to ionic form"
+      },
+      "quick_tip": "Sodium fusion is an essential technique in qualitative inorganic analysis to convert or- ganic compounds into ionic forms, allowing for easier detection of metals and elements.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Organic Chemistry - Some Basic Principles and Techniques",
+        "topic": "Qualitative Analysis of Organic Compounds (Lassaigne's Test)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q14",
+      "question_number": 14,
+      "question_text": "14. The sodium fusion extract is boiled with concentrated nitric acid while testing for halogens. By doing so, it(1) increases the solubility of AgCl(2) increases the concentration of NO3 ion(3) decomposes Na2S and NaCN, if formed(4) helps in precipitation of AgCl",
+      "options": {
+        "A": "increases the solubility of AgCl",
+        "B": "increases the concentration of NO3 ion",
+        "C": "decomposes Na2S and NaCN, if formed",
+        "D": "helps in precipitation of AgCl"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q14-ANS",
+        "option": "C",
+        "answer_text": "decomposes Na2S and NaCN, if formed"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q14-SOL",
+        "solution_text": "testing halogens, and the purpose of boiling with nitric acid is to achieve several things:1. Decomposing Na2S and NaCN: When sodium sulfide (Na2S) or sodium cyanide (NaCN) are formed during the fusion, boiling with concentrated nitric acid will decompose them. This is important because these compounds might interfere with the halogen detection process, so they must be decomposed to avoid any false results.2. Increasing solubility of AgCl: While nitric acid might increase the solubility of certain compounds, it is not primarily responsible for increasing the solubility of AgCl. The solubility of AgCl is more directly affected by the presence of other chemical reagents.3. Increases concentration of NO3 ions: Boiling with concentrated nitric acid does increase the concentration of NO3 ions, but this is not the main purpose for boiling when testing halogens, which focuses more on decomposition of interference compounds.4. Helps in precipitation of AgCl: The formation of AgCl is typically achieved by adding silver nitrate to the solution, but the boiling step with nitric acid is not primarily aimed at precipitating AgCl.Thus, the correct answer is:(3) decomposes Na2S and NaCN, if formed."
+      },
+      "quick_tip": "Boiling with nitric acid during sodium fusion helps decompose any sulfur or cyanide compounds formed, ensuring a cleaner solution for halogen detection.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Organic Chemistry - Some Basic Principles and Techniques",
+        "topic": "Qualitative Analysis of Halogens",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q15",
+      "question_number": 15,
+      "question_text": "15. Which of the following is not an aromatic compound?1) 2) 3) 4)",
+      "options": {
+        "A": "1)",
+        "B": "2)",
+        "C": "3)",
+        "D": "4)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q15-ANS",
+        "option": "D",
+        "answer_text": "4)"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q15-SOL",
+        "solution_text": "Aromatic compounds follow the rules defined by Hückel's rule, which states that a compound is aromatic if it is cyclic, planar, and has a total of 4n + 2 delocalized pi electrons, where n is an integer. Option (1) is a benzene ring (C6H6), which satisfies the criteria for aromaticity, as it has 6 pi electrons, a multiple of 4n + 2. - Option (2) is naphthalene, which is also aromatic as it has 10 pi electrons, satisfying Hückel's rule. - Option (3) is another aromatic compound, specifically a 5-membered ring with conjugated double bonds. - Option (4), however, is a non-aromatic compound. It does not satisfy the aromaticity condition because it lacks a fully conjugated system, making it non-aromatic. Thus, the correct answer is:(4) is the non-aromatic compound."
+      },
+      "quick_tip": "To test aromaticity, check the number of pi electrons in a cyclic compound. It must follow Hückel's rule: 4n + 2 pi electrons.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Hydrocarbons",
+        "topic": "Aromaticity (Hückel's Rule)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2025-CHEM-Q15-IMG1",
+        "image_placeholder_path": "images/KCET-2025-CHEM-Q15-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q16",
+      "question_number": 16,
+      "question_text": "16. The IUPAC name of the given organic compound is HC = C - CH = CH - CH2.(1) Hexa - 5-yn-1,3-diene(2) Hexa-1,3-dien-5-yne(3) Hexa - 3,5-dien-1-yne(4) Hexa-1-yn-3,5-diene",
+      "options": {
+        "A": "Hexa - 5-yn-1,3-diene",
+        "B": "Hexa-1,3-dien-5-yne",
+        "C": "Hexa - 3,5-dien-1-yne",
+        "D": "Hexa-1-yn-3,5-diene"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q16-ANS",
+        "option": "B",
+        "answer_text": "Hexa-1,3-dien-5-yne"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q16-SOL",
+        "solution_text": "To determine the IUPAC name of this compound, we need to follow the systematic nomenclature rules for alkenes, alkynes, and conjugated systems. First, we identify the longest carbon chain containing both a double and triple bond. This is a 6-carbon chain (hexane). - We then number the carbon chain starting from the side closest to the functional group. Here, the triple bond is at position 1, and the double bonds are at positions 3 and 5. - The compound contains a triple bond at position 1 (yne), double bonds at positions 3 and 5 (diene), and the appropriate suffixes for each. Thus, the correct IUPAC name is Hexa-1,3-dien-5-yne, corresponding to option (2). Correct IUPAC Name: Hexa-1,3-dien-5-yne."
+      },
+      "quick_tip": "When naming organic compounds, identify the longest chain with the highest-priority functional groups and number it to give the lowest locants to the functional groups.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Hydrocarbons",
+        "topic": "IUPAC Nomenclature of Unsaturated Hydrocarbons",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q17",
+      "question_number": 17,
+      "question_text": "17. Among the following, identify the compound that is not an isomer of hexane:1) CH3-CH2-CH2-CH2-CH2-CH32) 3) CH3CH3-CH-CH2-CH2-CH34) CH3-CH2-CH-CH2-CH3CH3",
+      "options": {
+        "A": "CH3-CH2-CH2-CH2-CH2-CH3",
+        "B": "",
+        "C": "CH3CH3-CH-CH2-CH2-CH3",
+        "D": "CH3-CH2-CH-CH2-CH3CH3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q17-ANS",
+        "option": "B",
+        "answer_text": "2)"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q17-SOL",
+        "solution_text": "Hexane is a straight-chain or branched-chain alkane with the formula C6H14, and it can have several structural isomers. - Option (1) is a straight-chain alkane with 6 carbon atoms, so it is an isomer of hexane. - Option (3) is another form of hexane, with a different branching, and hence it is also an isomer of hexane. - Option (4) is another valid structure that corresponds to an isomer of hexane. - Option (2) shows a cyclic structure, which is not an isomer of hexane. This compound is a ring-chain isomer of hexene and not of hexane. Therefore, the correct answer is:(2) is not an isomer of hexane."
+      },
+      "quick_tip": "When identifying isomers, check if the compound is a chain or ring version of the original compound. A ring-chain isomer is not a true chain isomer.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Hydrocarbons",
+        "topic": "Isomerism in Alkanes",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2025-CHEM-Q17-IMG1",
+        "image_placeholder_path": "images/KCET-2025-CHEM-Q17-IMG1.png"
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q18",
+      "question_number": 18,
+      "question_text": "18. The organic compound can be classified as d CH 3 Cl CH₁₂ 3 (1) Benzyl halide(2) Aryl halide(3) Alkyl halide(4) Allylic halide",
+      "options": {
+        "A": "Benzyl halide",
+        "B": "Aryl halide",
+        "C": "Alkyl halide",
+        "D": "Allylic halide"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q18-ANS",
+        "option": "A",
+        "answer_text": "Benzyl halide"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q18-SOL",
+        "solution_text": "The given compound is a benzyl chloride because the halogen atom (Cl) is attached to a benzylic group (C–CH), which is connected to a benzene ring. This makes it a benzyl halide. Specifically, the carbon bearing the chlorine atom is a C³ carbon (tertiary carbon), making it a tertiary benzyl chloride. Thus, the correct answer is: Benzyl chloride is a 3º benzyl chloride."
+      },
+      "quick_tip": "When identifying organic halides, remember that a benzyl halide is a halide where the carbon bearing the halogen is attached to a benzylic group.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Classification of Haloalkanes and Haloarenes",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2025-CHEM-Q18-IMG1",
+        "image_placeholder_path": "images/KCET-2025-CHEM-Q18-IMG1.png"
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q19",
+      "question_number": 19,
+      "question_text": "19. Chlorobenzene reacts with bromine gas in the presence of Anhydrous AlBr3to yield p-Bromochlorobenzene. This reaction is classified as_____(1) Nucleophilic substitution reaction(2) Electrophilic substitution reaction(3) Addition reaction(4) Elimination reaction",
+      "options": {
+        "A": "Nucleophilic substitution reaction",
+        "B": "Electrophilic substitution reaction",
+        "C": "Addition reaction",
+        "D": "Elimination reaction"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q19-ANS",
+        "option": "B",
+        "answer_text": "Electrophilic substitution reaction"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q19-SOL",
+        "solution_text": "In this reaction, chlorobenzene reacts with bromine (Br) in the presence of AlBr (an anhydrous catalyst), leading to the substitution of one hydrogen atom of the benzene ring with a bromine atom. This is a classic example of an electrophilic substitution reaction, where the bromine acts as the electrophile and the reaction occurs at the para position of the benzene ring. The role of AlBr is to activate the bromine molecule, facilitating the substitution. Thus, the correct answer is: Electrophilic substitution reaction."
+      },
+      "quick_tip": "In electrophilic substitution reactions, an electrophile attacks a benzene ring and re- places a hydrogen atom with a substituent, such as bromine.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Electrophilic Substitution Reactions of Haloarenes",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q20",
+      "question_number": 20,
+      "question_text": "20. The organometallic compound (CH3)3CMgBr on reaction with D₂O produces(1) (CD)CD(2) (CD)COD(3) (CH)CD(4) (CH)COD",
+      "options": {
+        "A": "(CD)CD",
+        "B": "(CD)COD",
+        "C": "(CH)CD",
+        "D": "(CH)COD"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q20-ANS",
+        "option": "C",
+        "answer_text": "(CH)CD"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q20-SOL",
+        "solution_text": "(CH3)3CMgBr, which reacts with deuterium oxide (DO). The Grignard reagent acts as a nucleophile and attacks the proton (H) in DO, where the hydrogen atom (H) is replaced by the deuterium atom (D). In this case, the Grignard reagent's carbon atom (C) attaches to the deuterium (D), forming the product (CH)CD, where the hydrogen is replaced by deuterium, thus creating a deuterated alkane. Thus, the correct answer is: The product is (CH)3CD."
+      },
+      "quick_tip": "In reactions involving Grignard reagents, the carbon atom bonded to magnesium attacks the proton in water or DO, leading to the formation of an alkane. If DO is used, the hydrogen is replaced by deuterium.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Reactions of Grignard Reagents",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q21",
+      "question_number": 21,
+      "question_text": "21. The major product formed when 1 - Bromo-3-Chlorocyclobutane reacts with metallic sodium in dry ether is1) 2) 3) Cl 4) Br",
+      "options": {
+        "A": "1)",
+        "B": "2)",
+        "C": "3) Cl",
+        "D": "4) Br"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q21-ANS",
+        "option": "B",
+        "answer_text": "2)"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q21-SOL",
+        "solution_text": "When 1-Bromo-3-Chlorocyclobutane reacts with metallic sodium in dry ether, the Wurtz reaction occurs. The Wurtz reaction is an intramolecular coupling reaction that produces a cyclic product. In this case, the reaction involves the coupling of two molecules of 1-bromo-3-chlorocyclobutane, leading to the formation of a bicyclic product where the two original carbon atoms from the bromo and chloro positions are now bonded. The structure resulting from this coupling reaction is a bicyclo[2.2.2]octane derivative. Therefore, the correct answer is option (2). Thus, the correct answer is option (2)."
+      },
+      "quick_tip": "In Wurtz reactions, when two alkyl halides react with metallic sodium in dry ether, an intramolecular reaction can occur to form cyclic compounds, often leading to bicyclic structures.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Haloalkanes and Haloarenes",
+        "topic": "Wurtz Reaction (Intramolecular)",
+        "is_deleted_2024": false,
+        "confidence_score": 0.8
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2025-CHEM-Q21-IMG1",
+        "image_placeholder_path": "images/KCET-2025-CHEM-Q21-IMG1.png"
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q22",
+      "question_number": 22,
+      "question_text": "22. Ethyl alcohol is heated with concentrated sulphuric acid at 413 K (140°C). The major product formed is(1) CH - O - CH(2) CH = CH(3) CHCOOCH(4) CH - O - CH",
+      "options": {
+        "A": "CH - O - CH",
+        "B": "CH = CH",
+        "C": "CHCOOCH",
+        "D": "CH - O - CH"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q22-ANS",
+        "option": "D",
+        "answer_text": "CH - O - CH"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q22-SOL",
+        "solution_text": "When ethyl alcohol (ethanol) is heated with concentrated sulfuric acid at a temperature of 413 K (140°C), the reaction is an intramolecular dehydration reaction. The ethanol undergoes a dehydration reaction where a molecule of water (HO) is eliminated, resulting in the formation of diethyl ether (CH - O - CH). This reaction occurs via an elimination mechanism and is a well-known etherification reaction. The product formed is diethyl ether, which is an ether with two ethyl groups connected by an oxygen atom. Thus, the correct answer is option (4)."
+      },
+      "quick_tip": "The dehydration of alcohols with concentrated sulfuric acid at high temperatures (140°C) typically leads to the formation of ethers through the removal of a water molecule, as seen in the formation of diethyl ether from ethanol.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Dehydration of Alcohols",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q23",
+      "question_number": 23,
+      "question_text": "23. Phenol can be distinguished from propanol by using the reagent(1) Iron metal(2) Iodine in alcohol(3) Sodium metal(4) Bromine water",
+      "options": {
+        "A": "Iron metal",
+        "B": "Iodine in alcohol",
+        "C": "Sodium metal",
+        "D": "Bromine water"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q23-ANS",
+        "option": "D",
+        "answer_text": "Bromine water"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q23-SOL",
+        "solution_text": "The correct reagent to distinguish phenol from propanol is bromine water. Phenol (CHOH) reacts with bromine water (Br) to form a white precipitate of 2,4,6-tribromophenol. This is a characteristic reaction of phenols, due to their ability to undergo electrophilic substitution with bromine at the ortho and para positions of the benzene ring. On the other hand, propanol (CHOH) does not react with bromine water and hence, there is no reaction. This is the basis for distinguishing phenol from propanol. Thus, the correct answer is option (4)."
+      },
+      "quick_tip": "Bromine water is commonly used to test for the presence of phenol, as it forms a white precipitate in phenols due to bromination, while alcohols like propanol do not react.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Distinguishing Phenols and Alcohols",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q24",
+      "question_number": 24,
+      "question_text": "24. Match the following with their pKa values Acid pkaI Phenol a) 16II p-Nitrophenol b) 0.78III Ethyl alcohol. c) 10IV Picric acid d) 7.11) I-a, II - d, III - c, IV - b2) I-a, II - b, III - c, IV - d3) I-b, II-a, III - d, IV - c4) I-c. II -d. III a. IV-b",
+      "options": {
+        "A": "I-a, II - d, III - c, IV - b",
+        "B": "I-a, II - b, III - c, IV - d",
+        "C": "I-b, II-a, III - d, IV - c",
+        "D": "I-c. II -d. III a. IV-b"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q24-ANS",
+        "option": "D",
+        "answer_text": "I-c. II -d. III a. IV-b"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q24-SOL",
+        "solution_text": "Below is the pKa value matching with each compound: - Phenol (I) has a pKa of 16, which is relatively high and indicates weak acidity. Thus, it matches with (c). - p-Nitrophenol (II) has a pKa of 0.78, which is relatively low, indicating it is a stronger acid compared to phenol. Thus, it matches with (d). - Ethyl alcohol (III) has a pKa of 10, indicating it is weaker than phenol. Therefore, it matches with (a). Picric acid (IV) has a pKa of 7.1, which is low, making it a relatively strong acid. Thus, it matches with (b). Thus, the correct answer is option (4)."
+      },
+      "quick_tip": "pKa values are a useful measure of the strength of acids: lower pKa values correspond to stronger acids. Phenol has a high pKa value, while picric acid has a lower one.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Acidity of Phenols and Alcohols",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q25",
+      "question_number": 25,
+      "question_text": "25. CH3CH3-C-OCH3 + HI CH3 Respectively are CH31) A = CH3OH, B = CH3-C-1CH3CH32) A = CH3-1, B = CH3-C-1CH3CH33) A = CH3OH, B = CH3-C-OHCH3CH34) A = CH3 - I, B = CH3-C-OHCH3A+B, A",
+      "options": {
+        "A": "A = CH3OH, B = CH3-C-1CH3",
+        "B": "A = CH3-1, B = CH3-C-1CH3",
+        "C": "A = CH3OH, B = CH3-C-OHCH3",
+        "D": "A = CH3 - I, B = CH3-C-OHCH3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q25-ANS",
+        "option": "A",
+        "answer_text": "A = CH3OH, B = CH3-C-1CH3"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q25-SOL",
+        "solution_text": "This reaction is an example of a substitution reaction in which methoxy group (OCH) reacts with HI (hydroiodic acid). The bond between carbon and oxygen in the methoxy group breaks, leading to the formation of methanol (CHOH) and methyl iodide (CH - I) as products. The correct reaction is: CH-C- OCH + HI → CHOH + CH - I Thus, A = CHOH and B = CH - I."
+      },
+      "quick_tip": "This is an example of a substitution reaction where the methoxy group (OCH) is re- placed by iodine (I) in the presence of HI.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Alcohols, Phenols and Ethers",
+        "topic": "Cleavage of Ethers",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2025-CHEM-Q25-IMG1",
+        "image_placeholder_path": "images/KCET-2025-CHEM-Q25-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q26",
+      "question_number": 26,
+      "question_text": "26. Oxidation of Toluene with chromyl chloride followed by hydrolysis gives Benzaldehyde. This reaction is known as(1) Kolbe reaction(2) Stephen reaction(3) Cannizzaro Reaction(4) Etard Reaction",
+      "options": {
+        "A": "Kolbe reaction",
+        "B": "Stephen reaction",
+        "C": "Cannizzaro Reaction",
+        "D": "Etard Reaction"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q26-ANS",
+        "option": "D",
+        "answer_text": "Etard Reaction"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q26-SOL",
+        "solution_text": "The Etard Reaction involves the oxidation of toluene (methylbenzene) with chromyl chloride (CrCl) in the presence of aerated conditions. This reaction is followed by hydrolysis, which produces benzaldehyde (CHCHO). This is an example of an oxidation reaction that transforms methyl group on toluene into an aldehyde group. The reaction mechanism proceeds through the formation of a chromium complex, which leads to the selective formation of benzaldehyde. Thus, the correct reaction is the Etard Reaction."
+      },
+      "quick_tip": "In the Etard Reaction, toluene is oxidized using chromyl chloride and results in ben- zaldehyde after hydrolysis.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "topic": "Name Reactions (Etard Reaction)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q27",
+      "question_number": 27,
+      "question_text": "27. Statement-I: Reduction of ester by DIBAL-H followed by hydrolysis gives aldehyde.Statement-II: Oxidation of benzyl alcohol with aqueous KMnO leads to the formation of benzaldehyde.Among the above statements, identify the correct statement.(1) Statement-I is true but statement-II is false(2) Statement-I is false but statement-II is true(3) Both statements-I and II are true(4) Both statements-I and II are false",
+      "options": {
+        "A": "Statement-I is true but statement-II is false",
+        "B": "Statement-I is false but statement-II is true",
+        "C": "Both statements-I and II are true",
+        "D": "Both statements-I and II are false"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q27-ANS",
+        "option": "A",
+        "answer_text": "Statement-I is true but statement-II is false"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q27-SOL",
+        "solution_text": "Statement-I is true. DIBAL-H (Diisobutylaluminum hydride) is a reducing agent commonly used to reduce esters to aldehydes under mild conditions. After reduction by DIBAL-H, hydrolysis of the resulting intermediate leads to the formation of aldehyde. DIBAL-H Ester Aldehyde Hydrolysis Aldehyde Statement-II is false. Oxidation of benzyl alcohol with KMnO (potassium permanganate) typically results in the formation of benzoic acid, not benzaldehyde. KMnO is a strong oxidizing agent that oxidizes alcohols to carboxylic acids, so it cannot be used to selectively form benzaldehyde from benzyl alcohol. Thus, the correct answer is that Statement-I is true and Statement-II is false."
+      },
+      "quick_tip": "DIBAL-H is selective in reducing esters to aldehydes. Strong oxidizing agents like KMnO oxidize benzyl alcohol to benzoic acid.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "topic": "Reactions of Esters and Alcohols",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q28",
+      "question_number": 28,
+      "question_text": "28. Arrange the following compounds in their decreasing order of reactivity towards nucleophilic addition reaction.(1) CHCOCH, CHCOCH, CHCHO(2) CHCOCH ¿ CHCOCH ¿ CHCHO(3) CHCHO CHCOCH ¿ CHCOCH(4) CHCHO ¿ CHCOCH ¿ CHCOCH",
+      "options": {
+        "A": "CHCOCH, CHCOCH, CHCHO",
+        "B": "CHCOCH ¿ CHCOCH ¿ CHCHO",
+        "C": "CHCHO CHCOCH ¿ CHCOCH",
+        "D": "CHCHO ¿ CHCOCH ¿ CHCOCH"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q28-ANS",
+        "option": "D",
+        "answer_text": "CHCHO ¿ CHCOCH ¿ CHCOCH"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q28-SOL",
+        "solution_text": "Nucleophilic addition reactions are characterized by the addition of a nucleophile to the carbonyl carbon of an aldehyde or ketone. The reactivity of carbonyl compounds in nucleophilic addition reactions generally follows the order of Aldehyde ¿ Ketone ¿ Ester, with aldehydes being more reactive due to the electron-donating effect of alkyl groups in ketones and esters, which reduces the partial positive charge on the carbonyl carbon. In the given compounds: - CHCHO (Acetaldehyde) is the most reactive as it is an aldehyde. CHCOCH (Acetone), a ketone, is less reactive than aldehydes. - CHCOCH (Ethyl acetate), an ester, is the least reactive towards nucleophilic addition reactions due to the electron-donating effect of the ethyl group on the carbonyl carbon. Thus, the order of reactivity towards nucleophilic addition reactions is: CHCHO ¿CHCOCH ¿ CHCOCH"
+      },
+      "quick_tip": "Aldehydes are more reactive than ketones and esters in nucleophilic addition due to the lack of electron-donating groups on the carbonyl carbon.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "topic": "Nucleophilic Addition Reactions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q29",
+      "question_number": 29,
+      "question_text": "29. Which of the following has the most acidic Hydrogen?(1) Dichloroacetic acid(2) Trichloroacetic acid(3) Chloroacetic acid(4) Propanoic acid",
+      "options": {
+        "A": "Dichloroacetic acid",
+        "B": "Trichloroacetic acid",
+        "C": "Chloroacetic acid",
+        "D": "Propanoic acid"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q29-ANS",
+        "option": "B",
+        "answer_text": "Trichloroacetic acid"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q29-SOL",
+        "solution_text": "The acidity of a carboxylic acid is influenced by the electron-withdrawing or electron-donating groups attached to the carboxyl group. Electron-withdrawing groups such as halogens (Cl, Br, I) stabilize the negative charge on the conjugate base (carboxylate ion), increasing the acid strength. The more halogen atoms attached to the -carbon of the carboxyl group, the more acidic the compound. In the given options: - Trichloroacetic acid (CClCOOH) has three chlorine atoms attached to the -carbon, which is highly electron-withdrawing, making it the most acidic. - Dichloroacetic acid (CCICOOH) has two chlorine atoms, followed by Chloroacetic acid (CCICOOH), which has only one chlorine atom. - Propanoic acid (CHCHCOOH), with no electron-withdrawing groups, is the least acidic. Thus, Trichloroacetic acid has the most acidic hydrogen."
+      },
+      "quick_tip": "The more electron-withdrawing groups (such as halogens) attached to the -carbon of a carboxylic acid, the more acidic the compound will be.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+        "topic": "Acidity of Carboxylic Acids",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q30",
+      "question_number": 30,
+      "question_text": "30. Which of the following reagents are suitable to differentiate Aniline and N-methylaniline chemically?(1) Br water(2) Conc. Hydrochloric acid and anhydrous zinc chloride(3) Chloroform and Alcoholic potassium hydroxide(4) Acetic anhydride",
+      "options": {
+        "A": "Br water",
+        "B": "Conc. Hydrochloric acid and anhydrous zinc chloride",
+        "C": "Chloroform and Alcoholic potassium hydroxide",
+        "D": "Acetic anhydride"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q30-ANS",
+        "option": "C",
+        "answer_text": "Chloroform and Alcoholic potassium hydroxide"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q30-SOL",
+        "solution_text": "Aniline (CHNH) and N-methylaniline (CHNHCH) are both aromatic amines, but they react differently with certain reagents due to the difference in the substituent attached to the nitrogen. One of the distinguishing tests for these compounds is the Hinsberg test, which uses chloroform (CHCl) and alcoholic potassium hydroxide (KOH). In this test: - Aniline reacts with chloroform and alcoholic potassium hydroxide to form a soluble product (the product will be a sulfonamide). - N-Methylaniline, however, does not react in the same way and does not form the sulfonamide under these conditions. Thus, the suitable reagents to differentiate Aniline from N-methylaniline are chloroform and alcoholic potassium hydroxide."
+      },
+      "quick_tip": "The Hinsberg test with chloroform and alcoholic potassium hydroxide is commonly used to differentiate between primary and secondary amines, such as aniline and N- methylaniline.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Amines",
+        "topic": "Distinguishing Primary, Secondary, and Tertiary Amines",
+        "is_deleted_2024": false,
+        "confidence_score": 0.9
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q31",
+      "question_number": 31,
+      "question_text": "31. Which of the following reaction/s does not yield an amine?(I) R - X + NH alc(II) R - CN Na (Hg)/CHOHH/NiH(III) R - C = N + HO LiAlH(IV) R - C - NH + 4 [H] HO + HCorrect Answer: (2) Only III",
+      "options": {
+        "A": "(I) R - X + NH alc",
+        "B": "(II) R - CN Na (Hg)/CHOH",
+        "C": "(III) R - C = N + HO H",
+        "D": "(IV) R - C - NH + 4 [H] LiAlH HO + H"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q31-ANS",
+        "option": "C",
+        "answer_text": "Only III"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q31-SOL",
+        "solution_text": "Reaction I: This is an alkylation reaction of an alkyl halide (R-X) with ammonia (NH). It yields a primary amine (R-NH) by substitution. - Reaction II: This reaction involves the reduction of a nitrile (R-CN) to a primary amine (R-CHNH) under catalytic hydrogenation conditions (H/Ni). - Reaction III: In this case, a nitrile (R-CN) is hydrolyzed with acidic water (HO + H), which leads to the formation of a carboxylic acid (R-COOH), not an amine. Reaction IV: Here, a primary amide (R-C-NH) undergoes reduction with LiAlH to form an amine (R-CHNH). Thus, reaction III does not yield an amine, as it produces a carboxylic acid instead. Therefore, the correct answer is Option 2 (Only III)."
+      },
+      "quick_tip": "When hydrolyzing a nitrile (R-CN) with acidic water, it leads to a carboxylic acid in- stead of an amine.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Amines",
+        "topic": "Preparation of Amines",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q32",
+      "question_number": 32,
+      "question_text": "32. Match the compounds given in List-I with the items given in List-IIList-I List-II(I) Benzenesulphonyl (a) ZwitterionChloride(II) Sulphanilic acid (b) Hinsberg reagent(III) Alkyl Diazonium (c) Dyessalts(IV) Aryl Diazonium (d) Conversion tosaltsalcohols1) I-a, II-c, III-b, IV-d2) I-c, II-a, III-d, IV-b3) I-b. II-a. III-d. IV-c4) I-c. II-b. III-a. IV-d",
+      "options": {
+        "A": "I-a, II-c, III-b, IV-d",
+        "B": "I-c, II-a, III-d, IV-b",
+        "C": "I-b. II-a. III-d. IV-c",
+        "D": "I-c. II-b. III-a. IV-d"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q32-ANS",
+        "option": "C",
+        "answer_text": "I-b. II-a. III-d. IV-c"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q32-SOL",
+        "solution_text": "- (I) Benzenesulphonyl Chloride: This compound reacts with amines to form sulphonamide derivatives. It is used in the Hinsberg test, so it corresponds to (b) Hinsberg reagent. - (II) Sulphanilic acid: This compound has an amino group and a sulfonic acid group, and it can exist as a zwitterion under certain conditions. Therefore, it corresponds to (a) Zwitterion. (III) Alkyl Diazonium salts: These salts are used in the azo dye synthesis and can react to form colored dyes. Thus, it corresponds to (c) Dyes. - (IV) Ary1 Diazonium salts: Ary1 diazonium salts can undergo reduction reactions to form alcohols, making them relevant to (d) Conversion to alcohols. Thus, the correct matching is 1-a, II-b, III-c, IV-d. The correct answer is Option (3)."
+      },
+      "quick_tip": "The Hinsberg test uses benzenesulphonyl chloride to differentiate between primary, sec- ondary, and tertiary amines.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Amines",
+        "topic": "Reactions of Amines and Diazonium Salts",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q33",
+      "question_number": 33,
+      "question_text": "33. The number of orbitals associated with 'N' shell of an atom is(1) 32(2) 3(3) 4(4) 16",
+      "options": {
+        "A": "32",
+        "B": "3",
+        "C": "4",
+        "D": "16"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q33-ANS",
+        "option": "D",
+        "answer_text": "16"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q33-SOL",
+        "solution_text": "The number of orbitals in any shell is given by n2, where n is the principal quantum number of the shell. For the N shell, the principal quantum number n = 4. Therefore, the number of orbitals in the N shell is: n2 42 = 16 Thus, the total number of orbitals in the N shell is 16."
+      },
+      "quick_tip": "The number of orbitals in any shell can be calculated using the formula n², where n is the shell number.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Structure of Atom",
+        "topic": "Quantum Numbers and Atomic Orbitals",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Numerical",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q34",
+      "question_number": 34,
+      "question_text": "34. According to the Heisenberg's Uncertainty principle, the value of Δυ· ∆x for an object whose mass is 10-6 kg is(1) 4.0 × 10-26 ms-1(2) 3.5 × 10-25 ms-1(3) 5.2 × 10-29 ms-1(4) 3.0 × 10-24 ms-1",
+      "options": {
+        "A": "4.0 × 10-26 ms-1",
+        "B": "3.5 × 10-25 ms-1",
+        "C": "5.2 × 10-29 ms-1",
+        "D": "3.0 × 10-24 ms-1"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q34-ANS",
+        "option": "C",
+        "answer_text": "5.2 × 10-29 ms-1"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q34-SOL",
+        "solution_text": "According to Heisenberg's Uncertainty principle: h Δυ· Δx > 4πη Where: - h = 6.626 × 10-34 Js (Planck's constant) nt) - m = 10-6 kg (mass of the object) Now, substitute the given values: 6.626 × 10-34 Δυ· Δα = = 5.2 x 10-29 ms -1 4π × 10-6 Thus, the correct answer is Option (3)."
+      },
+      "quick_tip": "Heisenberg's Uncertainty principle provides a relationship between the uncertainty in position and momentum, and it can be applied to calculate uncertainties in velocity and position.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Structure of Atom",
+        "topic": "Heisenberg's Uncertainty Principle",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Numerical",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q35",
+      "question_number": 35,
+      "question_text": "35. Given below are two statements.Statement-I: Adiabatic work done is positive when work is done on the system and internal energy of the system increases.Statement-II: No work is done during free expansion of an ideal gas. (1) Statement-I is true but Statement-II is false.(2) Statement-I is false but Statement-II is true.(3) Both Statement-I and Statement-II are true.(4) Both Statement-I and Statement-II are false.",
+      "options": {
+        "A": "Statement-I is true but Statement-II is false.",
+        "B": "Statement-I is false but Statement-II is true.",
+        "C": "Both Statement-I and Statement-II are true.",
+        "D": "Both Statement-I and Statement-II are false."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q35-ANS",
+        "option": "C",
+        "answer_text": "Both Statement-I and Statement-II are true."
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q35-SOL",
+        "solution_text": "Statement-I: In adiabatic processes, no heat is exchanged (q = 0). Work done on the system (w) can change the internal energy (∆U). If work is done on the system, the internal energy increases, which aligns with Statement-I. Hence, Statement-I is true. Statement-II: During free expansion of an ideal gas (no external pressure), the system does not perform any work (w = 0), as the gas does not push against any external pressure. Hence, Statement-II is true."
+      },
+      "quick_tip": "In adiabatic processes, the first law of thermodynamics is simplified to ∆U = w since q = 0.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Thermodynamics",
+        "topic": "First Law of Thermodynamics",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q36",
+      "question_number": 36,
+      "question_text": "36. Which one of the following reactions has ΔΗ = AU?(1) C6H6(l) + O2(g) → 6CO2(g) + 3H2O(l)(2) 2HI(g) → H2(g) + I2(g)(3) N2(g) + 3H2(g) → 2NH3(g)(4) CaCO3(s) → CaO(s) + CO2(g)",
+      "options": {
+        "A": "C6H6(l) + O2(g) → 6CO2(g) + 3H2O(l)",
+        "B": "2HI(g) → H2(g) + I2(g)",
+        "C": "N2(g) + 3H2(g) → 2NH3(g)",
+        "D": "CaCO3(s) → CaO(s) + CO2(g)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q36-ANS",
+        "option": "B",
+        "answer_text": "2HI(g) → H2(g) + I2(g)"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q36-SOL",
+        "solution_text": "In the reaction where there is no change in the number of moles of gases or phase change, the enthalpy change (AH) is equal to the internal energy change (AU) as no work is done (w = 0) in such cases. In Option 2, the reaction is occurring between gaseous reactants and products without phase changes, and thus ∆H = ∆U."
+      },
+      "quick_tip": "When reactions involve only solids or liquids, or when there is no change in the number of moles of gases, ∆H is equal to ∆U.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Thermodynamics",
+        "topic": "Enthalpy and Internal Energy Relationship",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q37",
+      "question_number": 37,
+      "question_text": "37. Identify the incorrect statements among the following:(a) All enthalpies of fusion are positive.(b) The magnitude of enthalpy change does not depend on the strength of the intermolecular interactions in the substance undergoing phase transformations.(c) When a chemical reaction is reversed, the value of ∆Η° is reversed in sign.(d) The change in enthalpy is dependent on the path between initial state (reactants) and final state (products).",
+      "options": {
+        "A": "(a) All enthalpies of fusion are positive.",
+        "B": "(b) The magnitude of enthalpy change does not depend on the strength of the intermolecular interactions in the substance undergoing phase transformations.",
+        "C": "(c) When a chemical reaction is reversed, the value of ∆Η° is reversed in sign.",
+        "D": "(d) The change in enthalpy is dependent on the path between initial state (reactants) and final state (products)."
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q37-ANS",
+        "option": "D",
+        "answer_text": "(d) The change in enthalpy is dependent on the path between initial state (reactants) and final state (products)."
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q37-SOL",
+        "solution_text": "Statement (a) is true: All enthalpies of fusion are positive because energy is required to overcome intermolecular forces during fusion. Statement (b) is false: The magnitude of enthalpy change indeed depends on the strength of intermolecular interactions, especially during phase transitions. Statement (c) is true: When a chemical reaction is reversed, the sign of ∆Η° is indeed reversed. Statement (d) is false: Enthalpy change (AH) is a state function, which means it only depends on the initial and final states, not the path taken. Thus, the change in enthalpy is not dependent on the path."
+      },
+      "quick_tip": "Always remember that enthalpy is a state function, so its change depends only on the initial and final states, not the path.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Thermodynamics",
+        "topic": "Enthalpy and State Functions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q38",
+      "question_number": 38,
+      "question_text": "38. Which of the following statements is/are true about equilibrium?(a) Equilibrium is possible only in a closed system at a given temperature(b) All the measurable properties of the system remain constant at equilibrium.(c) Equilibrium constant for the reverse reaction is the inverse of the equilibrium constant for the reaction in the forward direction.Correct Answer: (2) a, b and c",
+      "options": {
+        "A": "a only",
+        "B": "a, b and c",
+        "C": "b only",
+        "D": "a and c"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q38-ANS",
+        "option": "B",
+        "answer_text": "a, b and c"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q38-SOL",
+        "solution_text": "Statement (a) is true because equilibrium can only be established in a closed system, where the system's components do not escape. Statement (b) is true because at equilibrium, properties like concentration, pressure, and temperature remain constant over time. Statement (c) is true as well. The equilibrium constant for the reverse reaction is indeed the inverse of the equilibrium constant for the forward reaction, i.e., Kreverse 1 Kforward"
+      },
+      "quick_tip": "At equilibrium, the properties of the system remain constant, but this does not imply that the system has no motion. It means the rates of forward and reverse reactions are equal.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Equilibrium",
+        "topic": "Characteristics of Chemical Equilibrium",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q39",
+      "question_number": 39,
+      "question_text": "39. According to Le Chatelier's principle, in the reaction CO(g) + 3H2(g)=CH4(g) + H2O(g), the formationofmethaneis favouredby(a) increasing the concentration of CO(b) increasing the concentration of H2O(c) decreasing the concentration of CH4(d) decreasing the concentration of H2Correct Answer: (4) a and c",
+      "options": {
+        "A": "a only",
+        "B": "b and d",
+        "C": "a, b and c",
+        "D": "a and c"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q39-ANS",
+        "option": "D",
+        "answer_text": "a and c"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q39-SOL",
+        "solution_text": "Le Chatelier's principle states that if a system at equilibrium is subjected to a change in concentration, temperature, or pressure, the system will shift to counteract that change. In this case: Increasing the concentration of CO will shift the reaction to the right, favouring the formation of CH4. Decreasing the concentration of CH4willalsoshi fttheequilibriumtotherighttoproducemoreCH4. Thus, increasing the concentration of CO and decreasing the concentration of CH4 favour sthe formationof methane."
+      },
+      "quick_tip": "Le Chatelier's principle helps predict the direction of equilibrium shifts in response to changes in concentration, pressure, or temperature.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Equilibrium",
+        "topic": "Le Chatelier's Principle",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q40",
+      "question_number": 40,
+      "question_text": "40. The equilibrium constant at 298 K for the reaction A + B = C + D is 100. If the initial concentrations of all the four species were 1 M each, then equilibrium concentration of D (in mol/L) will be(1) 1.818(2) 1.182(3) 0.818(4) 0.182",
+      "options": {
+        "A": "1.818",
+        "B": "1.182",
+        "C": "0.818",
+        "D": "0.182"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q40-ANS",
+        "option": "A",
+        "answer_text": "1.818"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q40-SOL",
+        "solution_text": "The equilibrium expression for the reaction is: [C][D] Kc = 100 [A][B] At equilibrium, if the initial concentrations of all species are 1 M, we assume the change in concentration is x. Therefore, the concentrations at equilibrium are: [A] = 1 - x - [B] = 1 - x - [C] = 1 + x - [D] = 1 + x Substitute these values into the equilibrium expression: (1+x)(1+x) 100 (1 - x)(1 - x) Solving for x, we get: (1+x)2 100 = (1-x)2 Simplifying: 2 (1 + x)² = 100(1 – x)2 Expanding both sides and solving for x, we find x = 0.818. Thus, the equilibrium concentration of D is: 1+x=1+ 0.818 = 1.818 M"
+      },
+      "quick_tip": "For equilibrium calculations, use the ICE table (Initial, Change, Equilibrium) to track the changes in concentration and apply the equilibrium constant expression to solve for unknown concentrations.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Equilibrium",
+        "topic": "Equilibrium Constant Calculations",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Numerical",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q41",
+      "question_number": 41,
+      "question_text": "41. Among the following 0.1 m aqueous solutions, which one will exhibit the lowest boiling point elevation, assuming complete ionization of the compounds in solution?(1) Aluminium sulphate(2) Potassium sulphate(3) Sodium chloride(4) Aluminium chloride",
+      "options": {
+        "A": "Aluminium sulphate",
+        "B": "Potassium sulphate",
+        "C": "Sodium chloride",
+        "D": "Aluminium chloride"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q41-ANS",
+        "option": "C",
+        "answer_text": "Sodium chloride"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q41-SOL",
+        "solution_text": "Boiling point elevation (∆T♭) is directly proportional to the molality of the solution and the number of ions formed by dissociation. The formula for boiling point elevation is: ΔΤ₁ = i × Кь × т Where: - i is the van 't Hoff factor (number of ions formed per formula unit), - K₁ is the ebullioscopic constant (depends on the solvent), - m is the molality of the solution. Since all the solutions have the same molality (0.1 m), the key factor in determining the boiling point elevation is the van 't Hoff factor i. The ions produced by each compound are: - Aluminium sulphate (Al2(SO4)3) dissociates into 5 ions. - Potassium sulphate (K2SO4) dissociates into 3 ions. - Sodium chloride (NaCl) dissociates into 2 ions. - Aluminium chloride (AlCl3) dissociates into 4 ions. The boiling point elevation will be lowest for the solution with the lowest i, which is Sodium chloride (NaCl) with i = 2. Thus, the answer is Sodium chloride."
+      },
+      "quick_tip": "When dealing with colligative properties like boiling point elevation or freezing point depression, remember that the more ions a solute dissociates into, the greater the effect on the property.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solutions",
+        "topic": "Colligative Properties (Boiling Point Elevation)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Numerical",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q42",
+      "question_number": 42,
+      "question_text": "42. Variation of solubility with temperature T for a gas in liquid is shown by the following graphs. The correct representation is1) Solubility T→ 2) Solubility T→ 3) Solubility Sol T- 4) Solubility T- (1) (2) (3) (4)",
+      "options": {
+        "A": "1)",
+        "B": "2)",
+        "C": "3)",
+        "D": "4)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q42-ANS",
+        "option": "B",
+        "answer_text": "2)"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q42-SOL",
+        "solution_text": "The solubility of a gas in a liquid typically decreases with an increase in temperature. This is because, as temperature rises, the kinetic energy of the gas molecules increases, making them more likely to escape the solution. Therefore, the solubility of gases in liquids generally decreases as the temperature increases, which is represented by the graph in option 2."
+      },
+      "quick_tip": "When dealing with solubility of gases, remember that increased temperature leads to decreased solubility because of the increased energy of the gas molecules.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solutions",
+        "topic": "Solubility of Gases in Liquids (Effect of Temperature)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2025-CHEM-Q42-IMG1",
+        "image_placeholder_path": "images/KCET-2025-CHEM-Q42-IMG1.png"
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q43",
+      "question_number": 43,
+      "question_text": "43. 180 g of glucose, C6H12O6, is dissolved in 1 kg of water in a vessel. The temperature at which water boils at 1.013 bar is for water is 0.52 K kg mol¯¹). Boiling point (given, Kb for pure water is 373.15 K(1) 373.15 Κ(2) 373.0 Κ(3) 373.202 Κ(4) 373.67 Κ",
+      "options": {
+        "A": "373.15 Κ",
+        "B": "373.0 Κ",
+        "C": "373.202 Κ",
+        "D": "373.67 Κ"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q43-ANS",
+        "option": "D",
+        "answer_text": "373.67 K"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q43-SOL",
+        "solution_text": "To calculate the boiling point elevation, we use the formula: ∆Ть = Кьт Where: - AT is the boiling point elevation, - K₁ is the ebullioscopic constant, - m is the molality of the solution. We are given: - w2 = 180 g (mass of glucose), - M2 = 180 g/mol (molar mass of glucose), - w₁ = 1 kg (mass of water), - K₁ = 0.52 Kkg/mol (for water). Now, calculate the molality (m): mol of solute W2/M2 m = mass of solvent in kg W1 180/180 m = 1 mol/kg 1 Now, calculate the boiling point elevation: ΔΤο = 0.52 x 1 = 0.52 K Finally, the boiling point of the solution will be: Το = Το + ΔΤ₁ = 373.15 + 0.52 = 373.67 K Thus, the answer is 373.67 Κ."
+      },
+      "quick_tip": "When calculating colligative properties like boiling point elevation or freezing point depression, remember that the effect depends on the number of solute particles, not their identity.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solutions",
+        "topic": "Boiling Point Elevation (Numerical)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Numerical",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q44",
+      "question_number": 44,
+      "question_text": "44. If N2 gas is bubbled through water at 293 K, how many moles of N2 gas would dissolve in 1 litre of water? Assume that N2 exerts a partial pressure of 0.987 bar. [Given KH for N2 at 293 K is 76.48 K bar](1) 7.16 × 10-5(2) 7.16 × 10-4(3) 7.16 × 10-3(4) 0.716 × 10-3",
+      "options": {
+        "A": "7.16 × 10-5",
+        "B": "7.16 × 10-4",
+        "C": "7.16 × 10-3",
+        "D": "0.716 × 10-3"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q44-ANS",
+        "option": "B",
+        "answer_text": "7.16 × 10-4"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q44-SOL",
+        "solution_text": "Using Henry's Law, P 0.987 X = KH 76.48 × 103 X = 0.0129 × 10-3 Since nN2 nwater, we can use the approximation: NN₂ = nwater × 0.0129 × 10-3 Where nwater 1000 g (1 litre of water) and the molar mass of water is 18 g/mol. Thus, η Ν2 1000 18 × 0.0129 × 10-3 = 0.000716 mol Thus, the number of moles of N2 gas dissolved is 0.716 × 10-3."
+      },
+      "quick_tip": "To calculate the solubility of a gas in water, remember that Henry's Law is useful when the gas behaves ideally and is at low concentrations.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solutions",
+        "topic": "Henry's Law",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Numerical",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q45",
+      "question_number": 45,
+      "question_text": "45. The correct statement/s about Galvanic cell is/are:(a) Current flows from cathode to anode(b) Anode is positive terminal(c) If Ecell < 0, then it is spontaneous reaction(d) Cathode is positive terminal(1) a, b, and c(2) a, b, and c(3) a, b, and c(4) a and b only",
+      "options": {
+        "A": "a, b, and c",
+        "B": "a, b, and c",
+        "C": "a, b, and c",
+        "D": "a and b only"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q45-ANS",
+        "option": "B",
+        "answer_text": "a, b, and c"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q45-SOL",
+        "solution_text": "In a galvanic cell: - Current flows from cathode to anode. - The anode is the negative terminal, and the cathode is the positive terminal. - If Ecell < 0, then the reaction is non-spontaneous. Therefore, the correct statement is that the cathode is positive, and the reaction will occur spontaneously when Ecell > 0. Thus, the correct answer is: - a, b, and c are correct."
+      },
+      "quick_tip": "In a galvanic cell, the anode is negative, and the cathode is positive. The cell voltage must be positive for the reaction to be spontaneous.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrochemistry",
+        "topic": "Galvanic Cells",
+        "is_deleted_2024": false,
+        "confidence_score": 0.7
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Hard",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q46",
+      "question_number": 46,
+      "question_text": "46. The electronic conductance depends on:(1) The number of valence electrons per atom(2) Concentration of the electrolyte(3) Size of the ions(4) Nature of electrolyte added",
+      "options": {
+        "A": "The number of valence electrons per atom",
+        "B": "Concentration of the electrolyte",
+        "C": "Size of the ions",
+        "D": "Nature of electrolyte added"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q46-ANS",
+        "option": "A",
+        "answer_text": "The number of valence electrons per atom"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q46-SOL",
+        "solution_text": "The electronic conductance primarily depends on the number of valence electrons per atom, which allows for the conduction of electricity in materials. This is because the number of free electrons available for conduction directly influences the material's ability to carry an electric current."
+      },
+      "quick_tip": "For conductors, such as metals, electronic conductance is mostly determined by the availability of free electrons in the material.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrochemistry",
+        "topic": "Electronic Conductance",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q47",
+      "question_number": 47,
+      "question_text": "47. For a given half cell, Al³+ + 3e¯ → Al on increasing the concentration of aluminium ion, the electrode potential will(1) No change(2) First increase then decrease(3) Increase(4) Decrease",
+      "options": {
+        "A": "No change",
+        "B": "First increase then decrease",
+        "C": "Increase",
+        "D": "Decrease"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q47-ANS",
+        "option": "C",
+        "answer_text": "Increase"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q47-SOL",
+        "solution_text": "For the half reaction Al3+ + 3e- → Al, the electrode potential is governed by the Nernst equation. As the concentration of Al³+ increases, the reaction will shift, leading to an increase in the electrode potential. This is because a higher concentration of the reactant (Al³+) leads to a greater driving force for the reaction. 1 E = E0 -0.059 10g [A] 3 log 3+ Thus, increasing the concentration of Al 13+ results in an increase in the electrode potential."
+      },
+      "quick_tip": "In electrochemical cells, increasing the concentration of the reactant increases the elec- trode potential.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrochemistry",
+        "topic": "Nernst Equation",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    
+
+    {
+      "question_id": "KCET-2025-CHEM-Q48",
+      "question_number": 48,
+      "question_text": "48. Match the following and select the correct option for the quantity of electricity, in Cmol-¹, required to deposit various metals at the cathode.",
+      "options": {
+        "A": "a-iii, b-iv, c-ii, d-i",
+        "B": "a-i, b-ii, c-iii, d-iv",
+        "C": "a-ii, b-i, c-iv, d-iii",
+        "D": "a-iv, b-iii, c-i, d-ii"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q48-ANS",
+        "option": "A",
+        "answer_text": "a-iii, b-iv, c-ii, d-i"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q48-SOL",
+        "solution_text": "The quantity of electricity (Cmol−¹) required to deposit a metal is inversely proportional to the number of electrons required to deposit one mole of metal. The relationship follows from the equation: nF Where: - Q is the charge in coulombs, - n is the number of moles of electrons, - F is the Faraday constant (96500 Cmol-1), - z is the valency of the metal ion. For the metals listed, the corresponding values of Q can be matched as follows: - Ag+ (1 electron) needs 96500 Cmol-1, - Mg2+ (2 electrons) needs 193000 Cmol-1, - Al3+ (3 electrons) needs 289500 Cmol−¹, - Ti⁴+ (4 electrons) needs 386000 Cmol-1. Thus, the correct matching is a-iii, b-iv, c-ii, d-i."
+      },
+      "quick_tip": "Remember, the quantity of electricity required is inversely proportional to the number of electrons involved in the redox reaction.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Electrochemistry",
+        "topic": "Faraday's Laws of Electrolysis",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q49",
+      "question_number": 49,
+      "question_text": "49. Catalysts are used to increase the rate of a chemical reaction. Because it(1) Decrease the activation energy of the reaction(2) Brings about improper orientation of reactant molecules(3) Increases the potential energy barrier(4) Increases the activation energy of the reaction",
+      "options": {
+        "A": "Decrease the activation energy of the reaction",
+        "B": "Brings about improper orientation of reactant molecules",
+        "C": "Increases the potential energy barrier",
+        "D": "Increases the activation energy of the reaction"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q49-ANS",
+        "option": "A",
+        "answer_text": "Decrease the activation energy of the reaction"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q49-SOL",
+        "solution_text": "Catalysts work by lowering the activation energy of the reaction. This makes it easier for reactant molecules to overcome the energy barrier and form products, thereby increasing the rate of the reaction. Catalysts do not alter the potential energy barrier or the orientation of reactant molecules, but they do provide an alternative pathway with a lower activation energy. Catalyst decreases the activation energy of the reaction, thus increasing the reaction rate."
+      },
+      "quick_tip": "A catalyst works by lowering the activation energy of a reaction without being con- sumed in the process.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemical Kinetics",
+        "topic": "Catalysis and Activation Energy",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q50",
+      "question_number": 50,
+      "question_text": "50. Half-life of a first order reaction is 20 seconds and initial concentration of reactant is 0.2M. The concentration of reactant left after 80 seconds is(1) 0.5 M(2) 0.0125 M(3) 0.2 M(4) 0.1 M",
+      "options": {
+        "A": "0.5 M",
+        "B": "0.0125 M",
+        "C": "0.2 M",
+        "D": "0.1 M"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q50-ANS",
+        "option": "B",
+        "answer_text": "0.0125 M"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q50-SOL",
+        "solution_text": "For a first-order reaction, the relationship between the concentration at time t and the initial concentration is given by: [A]o In ([A]t) = kt Where: - [A]o is the initial concentration, - [A]t is the concentration at time t, - k is the rate constant, - t is the time. The half-life t1/2 for a first-order reaction is given by: t1/2 = 0.693 k Given t1/2 = 20 sec, we can calculate k: k = 0.693 / 20 = 0.03465 sec-1 Now, to find the concentration at 80 seconds: ln(0.2 / [A]t) = 0.03465 x 80 ln(0.2 / [A]t) = 2.772 0.2 / [A]t = e^2.772 = 16 [A]t = 0.2 / 16 = 0.0125 M"
+      },
+      "quick_tip": "For first-order reactions, use the formula In ([A]o / [A]t) = kt to determine the concentration at any given time.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemical Kinetics",
+        "topic": "First Order Reactions (Numerical)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Numerical",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q51",
+      "question_number": 51,
+      "question_text": "51. In the given graph, Ea for the reverse reaction will be",
+      "options": {
+        "A": "215 KJ",
+        "B": "90 KJ",
+        "C": "305 KJ",
+        "D": "125 KJ"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q51-ANS",
+        "option": "D",
+        "answer_text": "125 KJ"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q51-SOL",
+        "solution_text": "From the graph, the activation energy for the forward reaction is Ea = 215 KJ. The change in enthalpy ∆H is given as 90 KJ. The activation energy for the reverse reaction is: ΔΗ = Ea(forward) - Ea(reverse) Since ΔΗ = -90 KJ (because the products have lower energy than the reactants), we calculate: -90 = 215 - Ea(reverse) Ea(reverse) = 215 – 90 = 125 KJ"
+      },
+      "quick_tip": "To calculate the activation energy for the reverse reaction, use the relationship ∆H = Ea(forward) - Ea(reverse).",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemical Kinetics",
+        "topic": "Activation Energy and Enthalpy",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2025-CHEM-Q51-IMG1",
+        "image_placeholder_path": "images/KCET-2025-CHEM-Q51-IMG1.png"
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Numerical",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q52",
+      "question_number": 52,
+      "question_text": "52. For the reaction 2N2O5 → 4NO2(g) + O2(g), the initial concentration of N2O5 is 2.0 mol L-¹, and after 300 minutes, it is reduced to 1.4 mol L¯¹. The rate of production of NO2 (in mol L−1 min¯¹) is(1) 4 × 10-4(2) 2.5 × 10-3(3) 4 × 10-3(4) 2.5 × 10-4",
+      "options": {
+        "A": "4 × 10-4",
+        "B": "2.5 × 10-3",
+        "C": "4 × 10-3",
+        "D": "2.5 × 10-4"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q52-ANS",
+        "option": "C",
+        "answer_text": "4 × 10-3"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q52-SOL",
+        "solution_text": "The rate of production of NO2 can be determined from the rate of change of N2O5. The balanced equation shows that for every 2 moles of N2O5 consumed, 4 moles of NO2 are produced. Therefore, the rate of production of NO2 is: d[NO2]/dt = (4/2) * d[N2O5]/dt Using the concentration change of N2O5: Δ[Ν2Ο5] = 2.0 – 1.4 = 0.6 mol L-1 Since the reaction occurs over 300 minutes, the rate of change of N2O5 is: d[N2O5]/dt = 0.6 / 300 = 2 × 10-3 mol L-1min-1 Thus, the rate of production of NO2 is: d[NO2]/dt = 4 × 10−3 mol L¯¹min®1"
+      },
+      "quick_tip": "For reactions with stoichiometric relationships, the rate of formation or consumption of a product or reactant can be calculated using the rate of change of one species and the stoichiometric coefficients.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Chemical Kinetics",
+        "topic": "Rate of Reaction (Stoichiometry)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Numerical",
+      "question_type": "Numerical",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q53",
+      "question_number": 53,
+      "question_text": "53. Which of the following methods of expressing concentration are unitless?(1) Molality and Mole fraction(2) Mass percent (W/W) and Molality(3) Molality and Molality(4) Mole fraction and Mass percent (W/W)",
+      "options": {
+        "A": "Molality and Mole fraction",
+        "B": "Mass percent (W/W) and Molality",
+        "C": "Molality and Molality",
+        "D": "Mole fraction and Mass percent (W/W)"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q53-ANS",
+        "option": "D",
+        "answer_text": "Mole fraction and Mass percent (W/W)"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q53-SOL",
+        "solution_text": "Mole fraction and mass percent (W/W) are unitless because both are mass ratios. The mole fraction is the ratio of the number of moles of one component to the total number of moles in the solution, and mass percent is the ratio of the mass of one component to the total mass of the solution. Neither of these ratios requires any units."
+      },
+      "quick_tip": "Mass percent and mole fraction are unitless, making them useful for comparing concen- trations across different substances.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "Solutions",
+        "topic": "Concentration Terms",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q54",
+      "question_number": 54,
+      "question_text": "54. Select the INCORRECT statement/s from the following:(a) 22 books have infinite significant figures.(b) In the answer of calculation 2.5 × 1.25 has four significant figures.(c) Zero's preceding to first non-zero digit are significant.(d) In the answer of calculation 12.11 + 18.0 + 1.012 has three significant figures.",
+      "options": {
+        "A": "(b) and (c) only",
+        "B": "(a) and (b) only",
+        "C": "(c) and (d) only",
+        "D": "(a) and (d) only"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q54-ANS",
+        "option": "A",
+        "answer_text": "(b) and (c) only"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q54-SOL",
+        "solution_text": "The correct interpretations are: - (a) The statement is true: Numbers like 22 (which are exact countable numbers) have infinite significant figures. - (b) The statement is incorrect: When multiplying, the result should have the same number of significant figures as the number with the least significant figures, which is 2.5 (2 significant figures). Hence, the product will have 2 significant figures, not 4. - (c) The statement is incorrect: Zeros before the first non-zero digit are not significant (e.g., in 0.0023, the leading zeros are not significant). - (d) The statement is correct: The result of the addition should be rounded to the least number of decimal places, so the result will have three significant figures."
+      },
+      "quick_tip": "When performing multiplication or division, the result should have the same number of significant figures as the number with the least significant figures. In addition or subtraction, round to the least number of decimal places.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Some Basic Concepts of Chemistry",
+        "topic": "Significant Figures",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q55",
+      "question_number": 55,
+      "question_text": "55. Given below are the atomic masses of the elements:Element: Li Na Cl K Ca Br Sr I BaAtomic Mass (gmol¹): 7 23 35.5 39 40 80 88 127 137Which of the following doesn't form triad?1) Cl, Br, I2) Cl, K, Ca3) Li, Na, K4) Ba, Sr, Ca",
+      "options": {
+        "A": "Cl, Br, I",
+        "B": "Cl, K, Ca",
+        "C": "Li, Na, K",
+        "D": "Ba, Sr, Ca"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q55-ANS",
+        "option": "B",
+        "answer_text": "Cl, K, Ca"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q55-SOL",
+        "solution_text": "In a triad, the atomic masses of the middle element is approximately the average of the other two. Cl, Br, I: The atomic masses of chlorine (Cl), bromine (Br), and iodine (I) are in a triad since the atomic mass of bromine is approximately the average of chlorine and iodine (35.5, 79.9, and 126.9, respectively). Cl, K, Ca: The atomic masses of chlorine (Cl), potassium (K), and calcium (Ca) do not form a triad as the middle element's mass (K = 39) is not the average of Cl (35.5) and Ca (40). - Li, Na, K: The atomic masses of lithium (Li), sodium (Na), and potassium (K) form a triad as the atomic mass of sodium (Na = 23) is the average of Li (7) and K (39). Ba, Sr, Ca: The atomic masses of barium (Ba), strontium (Sr), and calcium (Ca) form a triad as the atomic mass of strontium (Sr = 88) is the average of Ba (137) and Ca (40). Thus, the correct answer is Cl, K, Ca, which does not form a triad."
+      },
+      "quick_tip": "The triad rule is often used in understanding periodic trends. The middle element in a triad has an atomic mass that is nearly the average of the other two.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Classification of Elements and Periodicity in Properties",
+        "topic": "Dobereiner's Triads",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2025-CHEM-Q55-IMG1",
+        "image_placeholder_path": "images/KCET-2025-CHEM-Q55-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q56",
+      "question_number": 56,
+      "question_text": "56. The change in hybridisation (if any) of the 'Al' atom in the following reaction is AlCl3 + Cl¯ → AlCl (1) sp² to sp³3(2) sp³ to spd(3) sp³ to sp2(4) No change in the hybridisation state",
+      "options": {
+        "A": "sp² to sp³",
+        "B": "sp³ to spd",
+        "C": "sp³ to sp2",
+        "D": "No change in the hybridisation state"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q56-ANS",
+        "option": "A",
+        "answer_text": "sp² to sp³"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q56-SOL",
+        "solution_text": "In the reaction AlCl3 + Cl¯ → AlClī, the Al atom in AlCl3 initially has an sp² hybridisation as it is bonded to three chloride ions. When a chloride ion Cl¯ is added, the Al atom undergoes hybridisation change from sp² to sp³ as it now forms four bonds, resulting in the formation of the tetrahedral complex AlClī."
+      },
+      "quick_tip": "The hybridisation of an atom changes when its bonding increases, such as in the case of AlCl3 to AlCl, where sp² changes to sp³.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "topic": "Hybridization",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q57",
+      "question_number": 57,
+      "question_text": "57. Match List-I with List-II and select the correct option:List-I (Molecule /ion) List-II (Bond order)(a) NO (i) 1.5(b) CO (ii) 2.0(c) O2 (iii) 2.5(d) O₂- (iv) 3.0Choose the correct answer from the options given below.1) a-i, b-iv, c-iii, d-ii2) a-ii, b-iii, c-iv, d-i3) a-iv, b-iii, c-ii, d-i4) a-iii, b-iv, c-i, d-ii",
+      "options": {
+        "A": "a-i, b-iv, c-iii, d-ii",
+        "B": "a-ii, b-iii, c-iv, d-i",
+        "C": "a-iv, b-iii, c-ii, d-i",
+        "D": "a-iii, b-iv, c-i, d-ii"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q57-ANS",
+        "option": "D",
+        "answer_text": "a-iii, b-iv, c-i, d-ii"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q57-SOL",
+        "solution_text": "We know that the bond order of a molecule is calculated as: Bond order = (1/2) * (number of bonding electrons – number of antibonding electrons) For the molecules: - NO (15 electrons) has a bond order of 2.5. - CO (14 electrons) has a bond order of 3.0. - O2 (16 electrons) has a bond order of 2.0. - O2- (17 electrons) has a bond order of 1.5. Thus, the correct matching is a-iii, b-iv, c-ii, d-i."
+      },
+      "quick_tip": "The bond order can help predict the stability and bond strength of a molecule. A higher bond order indicates a more stable and stronger bond.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "topic": "Molecular Orbital Theory (Bond Order)",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q58",
+      "question_number": 58,
+      "question_text": "58. The electronic configuration of X and Y are given below:X: 1s22s22p63s23p3Y: 1s22s22p63s23p5Which of the following is the correct molecular formula and type of bond formed between X and Y?1) X2Y3, coordinate bond2) X3Y3, covalent bond3) X2Y3, covalent bond4) X3Y, ionic bond",
+      "options": {
+        "A": "X2Y3, coordinate bond",
+        "B": "X3Y3, covalent bond",
+        "C": "X2Y3, covalent bond",
+        "D": "X3Y, ionic bond"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q58-ANS",
+        "option": "C",
+        "answer_text": "X2Y3, covalent bond"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q58-SOL",
+        "solution_text": "The electronic configuration of X and Y suggests that X has 3 valence electrons and Y has 5 valence electrons. Therefore, X will bond with Y to form a covalent bond where X donates 3 electrons and Y accepts them. The correct molecular formula for the compound is X2Y3, and it forms a covalent bond due to the sharing of electrons."
+      },
+      "quick_tip": "For covalent bonding, elements share electrons to complete their octet. The number of bonds formed depends on the number of valence electrons each element needs to reach a stable configuration.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Chemical Bonding and Molecular Structure",
+        "topic": "Covalent Bonding and Formation of Compounds",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q59",
+      "question_number": 59,
+      "question_text": "59. Match List-I with List-II and choose the correct answer from the options given below.List-I (Types of redox reactions)List-II (Examples)(a) Combination reaction (i) Cl2(g) + 2Br(aq) → 2Cl(aq) + Br2(b) Decomposition reaction (ii) 2H2O2(aq) → 2H2O(C) + O2(g)(c) Displacement reaction (iii) CH4(g) +2O2(g) →CO2(g) + 2H2O (1)(d) Disproportio -nation Reaction (iv) 2H₂O (0) →2H +O2 2(g) 2(g)Choose the correct answer from the options given below.1) a-ii, b-i, c-iv, d-iii2) a-iii, b-iv, c-i, d-ii3) a-iii, b-ii, c-i, d-iv4) a-iv, b-iii, c-i, d-ii",
+      "options": {
+        "A": "a-ii, b-i, c-iv, d-iii",
+        "B": "a-iii, b-iv, c-i, d-ii",
+        "C": "a-iii, b-ii, c-i, d-iv",
+        "D": "a-iv, b-iii, c-i, d-ii"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q59-ANS",
+        "option": "B",
+        "answer_text": "a-iii, b-iv, c-i, d-ii"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q59-SOL",
+        "solution_text": "- (a) Combination reaction: CH4 + 2O2 → CO2 + 2H2O is a combination reaction as two reactants combine to form one product. - (b) Decomposition reaction: 2H2O → 2H2 + O2 is a decomposition reaction, where one reactant breaks down into two products. - (c) Displacement reaction: Cl2 + 2Br® → 2Cl- + Br2 is a displacement reaction where one element displaces another from a compound. - (d) Disproportionation reaction: 2H2O → 2H2 + O2 is a disproportionation reaction where the same species undergoes both oxidation and reduction. Thus, the correct answer is 2) a-iii, b-i, c-iv, d-ii."
+      },
+      "quick_tip": "Disproportionation reactions involve a species undergoing both oxidation and reduction. Keep an eye out for these when identifying reaction types.",
+      "classification": {
+        "puc_level": "11th",
+        "chapter": "Redox Reactions",
+        "topic": "Types of Redox Reactions",
+        "is_deleted_2024": false,
+        "confidence_score": 0.8
+      },
+      "media": {
+        "has_image": true,
+        "image_id": "KCET-2025-CHEM-Q59-IMG1",
+        "image_placeholder_path": "images/KCET-2025-CHEM-Q59-IMG1.png"
+      },
+      "difficulty_level": "Moderate",
+      "question_type": "Statement Based",
+      "marks": 3,
+      "negative_marking": false
+    },
+    {
+      "question_id": "KCET-2025-CHEM-Q60",
+      "question_number": 60,
+      "question_text": "60. In the following pairs, the one in which both transition metal ions are colourless is1) V2+, Ti3+2) Zn2+, Mn2+3) Ti4+, Cu2+4) Sc³+, Zn2+",
+      "options": {
+        "A": "V2+, Ti3+",
+        "B": "Zn2+, Mn2+",
+        "C": "Ti4+, Cu2+",
+        "D": "Sc³+, Zn2+"
+      },
+      "correct_answer": {
+        "answer_id": "KCET-2025-CHEM-Q60-ANS",
+        "option": "D",
+        "answer_text": "Sc³+, Zn2+"
+      },
+      "solution": {
+        "solution_id": "KCET-2025-CHEM-Q60-SOL",
+        "solution_text": "Sc³+ and Zn2+ are both colourless because they have no unpaired electrons in their d-orbitals, which means they do not absorb visible light. - In other cases like V2+, Ti3+, and Ti4+, Cu2+, the ions have unpaired electrons in their d-orbitals, which are responsible for absorbing light and thus exhibiting colour. Thus, the correct answer is 4) Sc3+, Zn2+."
+      },
+      "quick_tip": "Transition metal ions with completely filled d-orbitals or empty d-orbitals typically do not exhibit colour. They are colourless.",
+      "classification": {
+        "puc_level": "12th",
+        "chapter": "d- and f-Block Elements",
+        "topic": "Color of Transition Metal Ions",
+        "is_deleted_2024": false,
+        "confidence_score": 1.0
+      },
+      "media": {
+        "has_image": false
+      },
+      "difficulty_level": "Easy",
+      "question_type": "Conceptual",
+      "marks": 3,
+      "negative_marking": false
+    }
+  ]
+}
