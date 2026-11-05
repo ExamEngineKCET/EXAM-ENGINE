@@ -1,33 +1,43 @@
+
 import os
+from pathlib import Path
+
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
 
-# 1. Define the path to your SQLite database file
-# This ensures it always looks for the 'db' folder relative to this file's location
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DB_DIR = os.path.join(BASE_DIR, "db")
+# Backend/app
+APP_DIR = Path(__file__).resolve().parents[1]
 
-# Create the db directory automatically if it doesn't exist yet
-os.makedirs(DB_DIR, exist_ok=True)
+# Local development: Backend/app/db
+# AWS deployment: EBS-mounted directory via DATABASE_DIR
+DB_DIR = Path(
+    os.getenv("DATABASE_DIR", str(APP_DIR / "db"))
+).resolve()
 
-SQLALCHEMY_DATABASE_URL = f"sqlite:///{os.path.join(DB_DIR, 'exam_engine.db')}"
+DB_DIR.mkdir(parents=True, exist_ok=True)
 
-# 2. Create the SQLAlchemy Engine
-# Note: "check_same_thread": False is required for SQLite + FastAPI to prevent thread-sharing errors
+DB_PATH = DB_DIR / "exam_engine.db"
+
+SQLALCHEMY_DATABASE_URL = f"sqlite:///{DB_PATH}"
+
+# Create SQLAlchemy Engine
 engine = create_engine(
-    SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False}
+    SQLALCHEMY_DATABASE_URL,
+    connect_args={"check_same_thread": False}
 )
 
-# 3. Create a SessionLocal class
-# Each instance of this class will be a database session
-SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+# Session factory
+SessionLocal = sessionmaker(
+    autocommit=False,
+    autoflush=False,
+    bind=engine
+)
 
-# 4. Create a Base class
-# All of our database models (Users, Questions, etc.) will inherit from this
+# Base class for models
 Base = declarative_base()
 
-# 5. Dependency function
-# We will use this in our FastAPI routes to get a database connection and close it safely
+
+# FastAPI database dependency
 def get_db():
     db = SessionLocal()
     try:

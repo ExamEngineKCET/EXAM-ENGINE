@@ -18,7 +18,7 @@ from app.models.exam import GeneratedExam, ExamQuestion
 from app.models.interactions import QuestionReport, AppFeedback
 
 # --- 4. DATA DIRECTORY ---
-DATA_DIR = os.path.join(BACKEND_DIR, "app", "data")
+DATA_DIR = os.path.join(BACKEND_DIR, "data")
 
 def seed_database():
     # THE NUKE OPTION: Destroy existing tables if they exist
