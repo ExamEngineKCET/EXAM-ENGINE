@@ -34,7 +34,7 @@ export default function FeedbackPage() {
 
     try {
       setIsLoading(true);
-      const res = await fetch("http://localhost:8000/api/interactions/feedback", {
+      const res = await fetch("/api/interactions/feedback", {
         method: "POST",
         headers: { 
           "Content-Type": "application/json",

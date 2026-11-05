@@ -15,7 +15,7 @@ export default function MockConfigPage() {
   });
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/mock/metadata")
+    fetch("/api/mock/metadata")
       .then((res) => res.json())
       .then((data) => setDbData(data))
       .catch((err) => console.error("Error pulling database metadata fields:", err));
@@ -40,7 +40,7 @@ export default function MockConfigPage() {
 
     try {
       setIsLoading(true);
-      const res = await fetch("http://localhost:8000/api/mock/generate", {
+      const res = await fetch("/api/mock/generate", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(config),

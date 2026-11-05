@@ -39,7 +39,7 @@ export default function ReportPage() {
 
     try {
       setIsLoading(true);
-      const res = await fetch("http://localhost:8000/api/interactions/reports", {
+      const res = await fetch("/api/interactions/reports", {
         method: "POST",
         headers: { 
           "Content-Type": "application/json",

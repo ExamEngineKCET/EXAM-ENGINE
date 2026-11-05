@@ -19,7 +19,7 @@ export const fetchWithAuth = async (endpoint: string, options: RequestInit = {})
   };
 
   // 3. Make the fetch call to your backend
-  const response = await fetch(`http://localhost:8000${endpoint}`, {
+  const response = await fetch(endpoint, {
     ...options,
     headers,
   });
