@@ -133,7 +133,41 @@ echo "10. Deploying frontend files..."
 sudo mkdir -p /var/www/exam-engine
 sudo cp -a "$FRONTEND/dist/." /var/www/exam-engine/
 
-# 11. Validate Nginx
+# 11. Configure FastAPI systemd service
+echo "Configuring FastAPI systemd service..."
+
+sudo tee /etc/systemd/system/exam-engine.service > /dev/null <<'EOF'
+[Unit]
+Description=Exam Engine FastAPI Backend
+After=network.target
+RequiresMountsFor=/mnt/exam-engine-db
+
+[Service]
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/home/ubuntu/EXAM-ENGINE/Backend
+Environment="DATABASE_DIR=/mnt/exam-engine-db"
+ExecStart=/home/ubuntu/EXAM-ENGINE/Backend/venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
+EOF
+
+sudo systemctl daemon-reload
+sudo systemctl enable exam-engine
+sudo systemctl restart exam-engine
+
+if ! sudo systemctl is-active --quiet exam-engine; then
+    echo "ERROR: FastAPI service failed to start."
+    sudo journalctl -u exam-engine -n 30 --no-pager
+    exit 1
+fi
+
+echo "FastAPI service: Running"
+
+# 12. Validate Nginx
 echo
 echo "11. Checking Nginx configuration..."
 
@@ -141,16 +175,16 @@ sudo nginx -t
 
 echo
 echo "======================================"
-echo "       DEPLOYMENT CHECK COMPLETE"
+echo "DEPLOYMENT COMPLETED SUCCESSFULLY"
 echo "======================================"
-
 echo "Python environment: Ready"
 echo "Backend requirements: Installed"
 echo "Frontend dependencies: Installed"
 echo "Frontend build: Complete"
 echo "Frontend files: Deployed"
+echo "FastAPI systemd service: Running"
 echo "Nginx configuration: Validated"
-echo "Database: Not modified"
+echo "Database: Preserved"
 
 echo
 echo "NOTE: FastAPI systemd configuration and"
