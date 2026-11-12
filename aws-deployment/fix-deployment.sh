@@ -50,19 +50,15 @@ sudo DEBIAN_FRONTEND=noninteractive apt-get install -y \
     unzip psmisc iproute2
 
 if ! command -v aws >/dev/null 2>&1; then
-    if apt-cache show awscli >/dev/null 2>&1; then
-        sudo DEBIAN_FRONTEND=noninteractive apt-get install -y awscli \
-            || warn "awscli install failed; CloudWatch/Backup/SG automation will be skipped."
-    else
-        info "awscli not in apt; installing AWS CLI v2 from official source."
-        curl -fsSL "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o /tmp/awscliv2.zip \
-            && unzip -q /tmp/awscliv2.zip -d /tmp \
-            && sudo /tmp/aws/install \
-            && rm -rf /tmp/aws /tmp/awscliv2.zip \
-            || warn "AWS CLI v2 install failed; CloudWatch/Backup/SG automation will be skipped."
-    fi
+    info "AWS CLI not found. Installing AWS CLI v2 from official source..."
+    curl -fsSL "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "/tmp/awscliv2.zip"
+    unzip -q "/tmp/awscliv2.zip" -d "/tmp"
+    sudo /tmp/aws/install
+    rm -rf /tmp/aws /tmp/awscliv2.zip
 fi
-command -v aws >/dev/null 2>&1 && info "aws: $(aws --version 2>&1 | head -1)"
+info "aws: $(aws --version 2>&1 | head -1)"
+
+
 
 # ==========================================================
 # 2. Node.js 20+
