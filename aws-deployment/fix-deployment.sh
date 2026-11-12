@@ -382,8 +382,21 @@ NGINX_TAIL
 sudo ln -sf /etc/nginx/sites-available/exam-engine /etc/nginx/sites-enabled/exam-engine
 sudo rm -f /etc/nginx/sites-enabled/default
 sudo nginx -t || die "Nginx config invalid"
-sudo systemctl reload nginx
-systemctl is-active --quiet nginx || die "Nginx not running"
+
+sudo systemctl enable nginx >/dev/null 2>&1
+if systemctl is-active --quiet nginx; then
+    sudo systemctl reload nginx
+else
+    info "nginx was not running; starting it."
+    sudo systemctl start nginx
+fi
+
+sleep 1
+if ! systemctl is-active --quiet nginx; then
+    sudo journalctl -u nginx -n 40 --no-pager
+    die "Nginx failed to start"
+fi
+info "Nginx: running"
 info "Nginx: running"
 
 # ==========================================================
