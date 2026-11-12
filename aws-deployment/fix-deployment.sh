@@ -1,3 +1,6 @@
+cd ~/EXAM-ENGINE
+
+cat > aws-deployment/fix-deployment.sh <<'EOF'
 #!/usr/bin/env bash
 set -Eeuo pipefail
 
@@ -27,11 +30,12 @@ echo
 echo "2. Installing system dependencies..."
 
 sudo apt-get update
-sudo apt-get install -y 
-    python3 
-    python3-venv 
-    python3-pip 
-    build-essential 
+
+sudo apt-get install -y \
+    python3 \
+    python3-venv \
+    python3-pip \
+    build-essential \
     nginx
 
 # 3. Verify database volume
@@ -74,14 +78,14 @@ fi
 echo
 echo "6. Checking database configuration..."
 
-grep -RniE 'DATABASE_URL|create_all|sqlite|SQLALCHEMY_DATABASE_URL' 
+grep -RniE 'DATABASE_URL|create_all|sqlite|SQLALCHEMY_DATABASE_URL' \
     "$BACKEND/app" --include='*.py' --exclude-dir=__pycache__ || true
 
 echo
 echo "SQLite files on EBS:"
 
-find "$DB_MOUNT" -maxdepth 3 -type f 
-    \( -name '*.db' -o -name '*.sqlite' -o -name '*.sqlite3' \) 
+find "$DB_MOUNT" -maxdepth 3 -type f \
+    \( -name '*.db' -o -name '*.sqlite' -o -name '*.sqlite3' \) \
     -printf '%p (%s bytes)\n'
 
 # 7. Check Node.js
@@ -90,7 +94,6 @@ echo "7. Checking Node.js..."
 
 if ! command -v node >/dev/null 2>&1; then
     echo "ERROR: Node.js is not installed."
-    echo "Install Node.js 22 before running this script again."
     exit 1
 fi
 
@@ -98,7 +101,6 @@ NODE_MAJOR=$(node -p "Number(process.versions.node.split('.')[0])")
 
 if (( NODE_MAJOR < 20 )); then
     echo "ERROR: Node.js 20 or newer is required."
-    echo "Current version: $(node --version)"
     exit 1
 fi
 
@@ -124,12 +126,12 @@ echo "9. Building React frontend..."
 
 npm run build
 
-# 10. Copy frontend build
+# 10. Deploy frontend
 echo
 echo "10. Deploying frontend files..."
 
 sudo mkdir -p /var/www/exam-engine
-sudo cp -r "$FRONTEND/dist/." /var/www/exam-engine/
+sudo cp -a "$FRONTEND/dist/." /var/www/exam-engine/
 
 # 11. Validate Nginx
 echo
@@ -146,11 +148,11 @@ echo "Python environment: Ready"
 echo "Backend requirements: Installed"
 echo "Frontend dependencies: Installed"
 echo "Frontend build: Complete"
-echo "Frontend files: Copied to /var/www/exam-engine"
+echo "Frontend files: Deployed"
 echo "Nginx configuration: Validated"
 echo "Database: Not modified"
 
 echo
-echo "NOTE: This script does not yet configure"
-echo "the FastAPI systemd service or initialize"
-echo "missing database tables."
+echo "NOTE: FastAPI systemd configuration and"
+echo "database initialization are not included yet."
+EOF
