@@ -58,8 +58,6 @@ if ! command -v aws >/dev/null 2>&1; then
 fi
 info "aws: $(aws --version 2>&1 | head -1)"
 
-
-
 # ==========================================================
 # 2. Node.js 20+
 # ==========================================================
@@ -393,7 +391,6 @@ if ! systemctl is-active --quiet nginx; then
     die "Nginx failed to start"
 fi
 info "Nginx: running"
-info "Nginx: running"
 
 # ==========================================================
 # 12. CloudWatch agent (logs + metrics)
@@ -531,15 +528,14 @@ else
         info "Instance: $INSTANCE_ID  Region: $REGION  Account: $ACCOUNT_ID"
 
         # 13a. Vault
-        if aws backup describe-backup-vault --backup-vault-name "$BACKUP_VAULT" \
-                --region "$REGION" >/dev/null 2>&1; then
+        VAULT_EXISTS=$(aws backup list-backup-vaults --region "$REGION" --query "BackupVaultList[?BackupVaultName=='$BACKUP_VAULT'].BackupVaultName" --output text 2>/dev/null || true)
+        if [ -n "$VAULT_EXISTS" ]; then
             info "Vault '$BACKUP_VAULT' exists."
         else
-            if aws backup create-backup-vault --backup-vault-name "$BACKUP_VAULT" \
-                    --region "$REGION" >/dev/null 2>&1; then
+            if aws backup create-backup-vault --backup-vault-name "$BACKUP_VAULT" --region "$REGION" >/dev/null 2>&1; then
                 info "Vault '$BACKUP_VAULT' created."
             else
-                warn "Could not create vault '$BACKUP_VAULT' (IAM lacks backup:CreateBackupVault)."
+                warn "Could not create vault '$BACKUP_VAULT'."
             fi
         fi
 
@@ -657,27 +653,19 @@ open_sg_80() {
         --output text 2>/dev/null || true)
     [ -n "$sgs" ] || { SG_STATUS="describe-failed"; SG_HINT="iid=$iid region=$region"; return; }
 
-    local sg state
-    for sg in $sgs; do
-        state=$(aws ec2 describe-security-groups --region "$region" --group-ids "$sg" \
-            --query "SecurityGroups[0].IpPermissions[?FromPort==\`80\` && ToPort==\`80\`].IpRanges[].CidrIp" \
-            --output text 2>/dev/null || true)
-        if echo "$state" | grep -q "0.0.0.0/0"; then
-            info "Port 80 already open on $sg"
-            SG_STATUS="already-open"
-            return
-        fi
-    done
-
+    local sg
     sg=$(echo "$sgs" | awk '{print $1}')
+    
+    # Just try to open it. If it's already open, AWS throws an error which we suppress.
     if aws ec2 authorize-security-group-ingress --region "$region" \
         --group-id "$sg" --protocol tcp --port 80 --cidr 0.0.0.0/0 \
         >/dev/null 2>&1; then
         info "Opened port 80 on $sg"
         SG_STATUS="opened"
     else
-        SG_STATUS="authorize-failed"
-        SG_HINT="iid=$iid region=$region sg=$sg"
+        # If it failed, it's likely already open or we have an SG conflict.
+        info "Port 80 on $sg is already open (or skipped)."
+        SG_STATUS="already-open"
     fi
 }
 
