@@ -217,17 +217,24 @@ sudo cp -a "$FRONTEND/dist/." /var/www/exam-engine/
 # ==========================================================
 log "9. Initializing database schema"
 cd "$BACKEND"
+
 if [ -f "$BACKEND/alembic.ini" ] && [ -x "$VENV/bin/alembic" ]; then
     DATABASE_DIR="$DB_MOUNT" "$VENV/bin/alembic" upgrade head \
         && info "Alembic migrations applied." \
         || warn "Alembic upgrade failed; check migrations manually."
-elif [ -f "$BACKEND/app/database.py" ]; then
+elif [ -f "$BACKEND/app/core/database.py" ]; then
+    info "Found app/core/database.py; attempting SQLAlchemy create_all()."
     DATABASE_DIR="$DB_MOUNT" "$VENV/bin/python" -c \
-        "from app.database import Base, engine; Base.metadata.create_all(engine)" \
+        "from app.core.database import Base, engine; Base.metadata.create_all(engine)" \
         && info "create_all() complete." \
-        || warn "create_all() failed; app.database may not export Base/engine."
+        || warn "create_all() failed; check app.core.database exports."
+elif [ -f "$BACKEND/scripts/seed_db.py" ]; then
+    info "Found scripts/seed_db.py; running it to initialize database."
+    DATABASE_DIR="$DB_MOUNT" "$VENV/bin/python" "$BACKEND/scripts/seed_db.py" \
+        && info "seed_db.py complete." \
+        || warn "seed_db.py failed; check the script."
 else
-    warn "No alembic.ini and no app/database.py; skipping schema init."
+    warn "No alembic.ini, app/core/database.py, or scripts/seed_db.py found; skipping schema init."
 fi
 
 # ==========================================================
