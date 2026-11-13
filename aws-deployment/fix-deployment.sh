@@ -426,7 +426,7 @@ sudo tee /opt/aws/amazon-cloudwatch-agent/bin/config.json > /dev/null <<'CW_CONF
 {
   "agent": {
     "metrics_collection_interval": 60,
-    "run_as_user": "cwagent"
+    "run_as_user": "root"
   },
   "metrics": {
     "namespace": "ExamEngine/EC2",
